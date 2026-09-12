@@ -9,6 +9,6 @@
 
 <img src="images/ULJM05692_00023.jpg" width="500" height="500"> <img src="images/ULJM05692_00024.jpg" width="500" height="500">
 
-<img src="images/ULJM05692_00025.jpg" width="500" height="500"> <img src="ULJM05692_00010.jpg" width="500" height="500">
+<img src="images/ULJM05692_00025.jpg" width="500" height="500"> <img src="images/ULJM05692_00010.jpg" width="500" height="500">
 
 <img src="images/ULJM05692_00034.jpg" width="500" height="500"> <img src="images/ULJM05692_00036.jpg" width="500" height="500">
