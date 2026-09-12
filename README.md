@@ -31,7 +31,7 @@ Así como la documentación proporcionada, la cual fue de mucha ayuda para enten
 
 E igualmente por la herramienta [topographer](https://github.com/yar-sh/criware-tools/tree/master/topographer), que permite extraer y volver a comprimir los scripts del juego.
 
-- RikuH3
+- RikuKH3
 
 Por hacer varias de las herramientas que se utilizan en este proyecto.
 
