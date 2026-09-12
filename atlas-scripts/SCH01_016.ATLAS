@@ -1,0 +1,885 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00002A4A)
+
+#WRITE(PTR, $00000B3E)
+ポジティブ妄想
+<END2>
+
+#WRITE(PTR, $00000B48)
+ネガティブ妄想
+<END2>
+
+#WRITE(PTR, $00000B52)
+妄想しない
+<END2>
+
+#WRITE(PTR, $00000E08)
+DELUS_IN.PMF
+<END2>
+
+#WRITE(PTR, $00000F80)
+The pedestrian signal turned green.
+<LINE>
+Girl A and the rest of the crowd started walking forward.
+<END>
+
+#WRITE(PTR, $00000FA0)
+She was coming my way.
+<LINE>
+I couldn’t move. I was absolutely petrified.
+<END>
+
+#WRITE(PTR, $00000FBE)
+She didn’t look away from me—not even for a second.
+<LINE>
+She just kept drawing closer and closer.
+<END>
+
+#WRITE(PTR, $00000FDC)
+Until...
+<LINE>
+...she stopped right in front of me.
+<END>
+
+#WRITE(PTR, $00000FEC)
+My instincts were telling me to run.
+<END>
+
+#WRITE(PTR, $00000FFC)
+Yet for some reason, I couldn’t move an inch. It felt like my%Nconsciousness had left my body.
+<END>
+
+#WRITE(PTR, $0000100C)
+The girl reached her hand into her jacket, aiming for one of her%Ninner pockets. Her motions seemed deliberate—as if she *wanted*%Nme to see what she was doing.
+<END>
+
+#WRITE(PTR, $0000101C)
+Was she going for a knife? A pistol? A stun gun?
+<END>
+
+#WRITE(PTR, $0000102C)
+Maybe I’d just watched too much TV,%Nbut I had a bad feeling that I just couldn’t shake.
+<END>
+
+#WRITE(PTR, $00001042)
+【優愛２】
+“You...”
+<END>
+
+#WRITE(PTR, $00001052)
+Girl A began to whisper something.%NThe gaze deep beneath her glasses was unflinching; she’d been%Nstaring straight into my eyes for what felt like an eternity.
+<END>
+
+#WRITE(PTR, $00001062)
+【優愛２】
+“...dropped this earlier.”
+<END>
+
+#WRITE(PTR, $00001072)
+【拓巳】
+“...?”
+<END>
+
+#WRITE(PTR, $0000108E)
+She held out something to me—a student ID.
+<END>
+
+#WRITE(PTR, $0000109E)
+【優愛２】
+“I found it at the Internet café earlier.”
+<END>
+
+#WRITE(PTR, $000010AE)
+【優愛２】
+“Thank goodness I was able to catch up to you...”
+<END>
+
+#WRITE(PTR, $000010BE)
+I took the ID without much thought.
+<END>
+
+#WRITE(PTR, $000010CE)
+The second I opened it, I saw my own name and photo.
+<LINE>
+The ID... was mine.
+<END>
+
+#WRITE(PTR, $000010EC)
+【優愛２】
+“You’re... Nishijou Takumi-kun, right?”
+<END>
+
+#WRITE(PTR, $000010FC)
+Her expression—which had been stone-cold until just a second%Nago—was now beginning to relax a little.
+<END>
+
+#WRITE(PTR, $0000110C)
+【優愛２】
+“I’m really sorry—I ended up taking a quick peek inside.”
+<END>
+
+#WRITE(PTR, $0000111C)
+【優愛２】
+“I’m also a student at your school.”
+<END>
+
+#WRITE(PTR, $0000112C)
+【優愛２】
+“It’s nice to meet you!”
+<END>
+
+#WRITE(PTR, $0000113C)
+...Well, that was anticlimactic.
+<LINE>
+Guess my paranoia had been screwing with me after all, huh?
+<END>
+
+#WRITE(PTR, $0000115A)
+【優愛２】
+“B-By the way... Nishijou-kun... are you... seeing anyone?”
+<END>
+
+#WRITE(PTR, $0000116A)
+【拓巳】
+“N-Not at all...”
+<END>
+
+#WRITE(PTR, $00001188)
+【優愛２】
+“Really? Th-Then... would you like to... go out with me...?”
+<END>
+
+#WRITE(PTR, $000011B6)
+A FLAAAAAG!!1!
+<LINE>
+Time for my new life as a 
+<DICT>
+normie
+</DICT>
+ to finally begin!
+<END>
+
+#WRITE(PTR, $000011CE)
+DELUS_OUT.PMF
+<END2>
+
+#WRITE(PTR, $00001276)
+【拓巳】
+“...!”
+<END>
+
+#WRITE(PTR, $000012E8)
+I suddenly snapped out of it.
+<END>
+
+#WRITE(PTR, $000012F8)
+The pedestrian signal—which I’d thought had turned green—was%Nstill red.
+<LINE>
+And Girl A, who should have been right in front of me, was now%Nback on the other side of the street.
+<END>
+
+#WRITE(PTR, $00001308)
+Had that all been... just a delusion...?
+<END>
+
+#WRITE(PTR, $000013F4)
+This time, the pedestrian signal *actually* turned green.
+<LINE>
+All the pedestrians started crossing at once.
+<END>
+
+#WRITE(PTR, $00001414)
+I couldn’t move.
+<LINE>
+And Girl A didn’t move either.
+<LINE>
+She just stood there, staring me down from a distance.
+<END>
+
+#WRITE(PTR, $00001424)
+We were the only ones standing still, as if time had frozen for%Njust the two of us.
+<END>
+
+#WRITE(PTR, $00001434)
+Why was the girl in glasses not crossing the street?
+<LINE>
+Why was she just standing there?
+<END>
+
+#WRITE(PTR, $00001444)
+It was strange. Really, really strange.
+<LINE>
+I needed to stay away from her.
+<END>
+
+#WRITE(PTR, $000014A0)
+DELUS_IN.PMF
+<END2>
+
+#WRITE(PTR, $00001562)
+Right then, her glasses flashed white.
+<LINE>
+Maybe they were reflecting the headlights of passing cars.
+<END>
+
+#WRITE(PTR, $00001572)
+【優愛２】
+“Heh...”
+<END>
+
+#WRITE(PTR, $00001582)
+Then, I heard a sound.
+<LINE>
+Her lips twisted into a curve,
+<LINE>
+forming a smile that seemed closer to a sneer.
+<END>
+
+#WRITE(PTR, $00001592)
+Even though we were so far apart...
+<LINE>
+Even though there were so many people around...
+<END>
+
+#WRITE(PTR, $000015A2)
+The girl’s soft laugh reached my ears, clear as day.%NIf I hadn’t heard her so clearly, I would’ve thought she was%Nsimply exhaling.
+<END>
+
+#WRITE(PTR, $000015B2)
+【優愛２】
+“Haha...”
+<END>
+
+#WRITE(PTR, $000015C2)
+She laughed again,
+<LINE>
+and then, she suddenly rolled up the hem of her skirt.
+<END>
+
+#WRITE(PTR, $0000164E)
+Countless shining objects fell to the ground and scattered every%Nwhich way.
+<END>
+
+#WRITE(PTR, $0000165E)
+They looked like crosses.
+<LINE>
+Images of the stakes from the Cruc-affixion incident flashed%Ninside my mind.
+<END>
+
+#WRITE(PTR, $000016DA)
+【優愛２】
+“Ahahaha...!”
+<END>
+
+#WRITE(PTR, $000016EA)
+Her expression looked completely insane.
+<LINE>
+Only her lips were smiling; her eyes were bloodshot, and her cheeks twitched erratically.
+<END>
+
+#WRITE(PTR, $000016FA)
+She then shoved through the crowd and leapt onto the crosswalk,%Ndespite the fact that the pedestrian signal was still red.%NWhat was she thinking?
+<END>
+
+#WRITE(PTR, $0000170A)
+I cowered in fear.%NI thought about running, but I couldn’t move an inch.%NMy legs were practically rooted to the cement.
+<LINE>
+I couldn’t even speak.
+<END>
+
+#WRITE(PTR, $0000171A)
+The girl was drawing closer.
+<LINE>
+She was crossing the road.
+<LINE>
+Gripping a cross-shaped stake in her hand.
+<END>
+
+#WRITE(PTR, $0000172A)
+*Stay back!*
+<END>
+
+#WRITE(PTR, $00001758)
+I made that plea in my head, when—
+<END>
+
+#WRITE(PTR, $00001846)
+Girl A’s body was sent flying by an oncoming truck.
+<END>
+
+#WRITE(PTR, $00001856)
+Screams resounded around me.
+<END>
+
+#WRITE(PTR, $00001866)
+The crowd was blocking my view, so I couldn’t see what had happened to the girl.
+<END>
+
+#WRITE(PTR, $00001876)
+But I could tell...
+<END>
+
+#WRITE(PTR, $00001886)
+She was dead.
+<LINE>
+There was no doubt about it. She was dead.
+<END>
+
+#WRITE(PTR, $00001896)
+She was lying in a heap on the street, covered in blood. Like some%Nkind of sopping wet, tattered dishrag that was just begging to be%Nthrown away. “Thank god,” I thought instinctively... not that%NI was proud of myself for thinking that way.
+<END>
+
+#WRITE(PTR, $000018AA)
+DELUS_OUT.PMF
+<END2>
+
+#WRITE(PTR, $00001958)
+【拓巳】
+“...!”
+<END>
+
+#WRITE(PTR, $000019CA)
+I suddenly snapped out of it.
+<LINE>
+I was swamped in a sickly cold sweat.
+<END>
+
+#WRITE(PTR, $000019DA)
+The pedestrians had just been screaming in shock, but now, they%Nwere calmly waiting for the pedestrian signal to change.
+<LINE>
+There was no truck anywhere in sight.
+<END>
+
+#WRITE(PTR, $000019EA)
+And that girl with the glasses was still on the other side of the%Nstreet, staring at me just like she’d been doing the entire time.
+<END>
+
+#WRITE(PTR, $000019FA)
+Had that been... just a delusion...?
+<END>
+
+#WRITE(PTR, $00001AEC)
+The pedestrian signal turned green.
+<LINE>
+All the pedestrians started crossing at once.
+<END>
+
+#WRITE(PTR, $00001B0C)
+I couldn’t move.
+<LINE>
+And Girl A... didn’t move either.
+<END>
+
+#WRITE(PTR, $00001B1C)
+She didn’t laugh, nor did she roll up her skirt. Nothing like that.
+<LINE>
+She just stood there, staring me down.
+<END>
+
+#WRITE(PTR, $00001B2C)
+We were the only ones standing still, as if time had frozen for%Njust the two of us.
+<END>
+
+#WRITE(PTR, $00001B3C)
+Why was she not crossing the street?
+<LINE>
+Why was she just standing there?
+<END>
+
+#WRITE(PTR, $00001B4C)
+It was strange. Really, really strange.
+<LINE>
+I needed to stay away from her.
+<END>
+
+#WRITE(PTR, $00001C00)
+I couldn’t take my eyes off her, either.%NIt was like I was suffering from sleep paralysis.
+<END>
+
+#WRITE(PTR, $00001C10)
+Suddenly, Girl A opened her mouth.
+<LINE>
+She seemed like she was trying to say something.
+<END>
+
+#WRITE(PTR, $00001C20)
+But everything else was so loud, there was no way I could hear what she was saying.
+<END>
+
+#WRITE(PTR, $00001C30)
+I was completely entranced.%NAll I could do was stare at the movements of her lips.
+<END>
+
+#WRITE(PTR, $00001C40)
+Whose
+<END>
+
+#WRITE(PTR, $00001C50)
+eyes
+<END>
+
+#WRITE(PTR, $00001C60)
+are
+<END>
+
+#WRITE(PTR, $00001C70)
+those
+<END>
+
+#WRITE(PTR, $00001C80)
+eyes?
+<END>
+
+#WRITE(PTR, $00001C90)
+A chill ran down my spine.%K
+<END>
+
+#WRITE(PTR, $00001CA0)
+There was no way she’d just said that.%K
+<END>
+
+#WRITE(PTR, $00001EFC)
+%NIt must’ve been my imagination. I sucked at lip reading anyway, so%NI’d probably just gotten it wrong.
+<END>
+
+#WRITE(PTR, $00001F0C)
+I shook my head, trying my hardest to look away from her.
+<END>
+
+#WRITE(PTR, $00001F1C)
+Either way, Girl A had definitely said *something*.
+<LINE>
+Whatever it was, it was incredibly creepy.
+<LINE>
+Especially considering the two of us had never met before.
+<LINE>
+I needed to stay away from her.
+<END>
+
+#WRITE(PTR, $00001F78)
+I should just run.
+<END>
+
+#WRITE(PTR, $00001F88)
+I’ll just run straight home.
+<END>
+
+#WRITE(PTR, $00001F98)
+*Run!*
+<END>
+
+#WRITE(PTR, $00002050)
+Whipping my weak, withering heart into shape, I broke into a%Nsprint. I ran back down Dogenzaka, trying to put as much distance%Nbetween me and Girl A as I could. On the way, I turned to enter a%Nback alley...
+<END>
+
+#WRITE(PTR, $0000210E)
+And right as I did, I crashed into something and toppled over.
+<END>
+
+#WRITE(PTR, $0000211E)
+Pain shot throughout my entire body.%NI groaned, not fully understanding what had just happened.%NThe pain was so bad, I could hardly stand.
+<END>
+
+#WRITE(PTR, $000021E6)
+Looking up, I saw a big motor scooter lying on the ground.%NThat must’ve been what I’d run into.
+<END>
+
+#WRITE(PTR, $000021F6)
+I gritted my teeth and tried to force myself to my feet,%Nbut my legs just weren’t able to hold me up.%NWell, it didn’t seem like I’d broken any bones, at least...
+<END>
+
+#WRITE(PTR, $00002206)
+【優愛２】
+“Um... a-are you all right?”
+<END>
+
+#WRITE(PTR, $000022B2)
+Before I knew it, Girl A was right in front of me.
+<LINE>
+She was peering into my face, eyes full of concern.
+<END>
+
+#WRITE(PTR, $000022C2)
+【拓巳】
+“Wh... Wha...”
+<END>
+
+#WRITE(PTR, $000022D2)
+What the...
+<LINE>
+What the hell was up with this girl...?
+<END>
+
+#WRITE(PTR, $000022E2)
+My body wouldn’t move.
+<END>
+
+#WRITE(PTR, $000022F2)
+As pathetic as it sounds, I was scared shitless.
+<LINE>
+I had no idea what to do.
+<END>
+
+#WRITE(PTR, $00002302)
+My plan had been to catch a train ride to Shinsen and get home that way, but now I was starting to regret my life choices.
+<END>
+
+#WRITE(PTR, $00002312)
+【優愛２】
+“...Are you hurt?”
+<END>
+
+#WRITE(PTR, $00002322)
+Girl A asked me timidly.
+<END>
+
+#WRITE(PTR, $00002332)
+Was she acting all worried so I would drop my guard?
+<LINE>
+You won’t fool me. I won’t fall for your tricks, you 3D wench!
+<END>
+
+#WRITE(PTR, $00002342)
+【拓巳】
+“Wh-Wh-What the hell is wrong with you...?”
+<END>
+
+#WRITE(PTR, $000023CC)
+【優愛２】
+“Huh...?”
+<END>
+
+#WRITE(PTR, $000023DC)
+【拓巳】
+“Q-Quit following me! Wh-What do you want from me, anyway?”
+<END>
+
+#WRITE(PTR, $000023EC)
+Panicking, I lashed out at Girl A, who just stood there in%Nsurprise. I tried scuttling backward to make some distance, but%NI was still flat on my ass.
+<END>
+
+#WRITE(PTR, $000023FC)
+If I didn’t get away from her, she’d reach into her jacket,%Npull out a knife, and jump me.%NThat was my thought process, anyway.
+<END>
+
+#WRITE(PTR, $0000246E)
+That gruesome scene flashed through my mind over and over.
+<LINE>
+All I could think was, “That’s how I’ll end up.”
+<END>
+
+#WRITE(PTR, $000024AE)
+【優愛２】
+“...”
+<END>
+
+#WRITE(PTR, $000024BE)
+The girl hung her head, looking a little hurt.
+<END>
+
+#WRITE(PTR, $000024CE)
+【優愛２】
+“So, umm... I, umm... You ran off, so I came to check on you, and%Nthen you fell, so I got worried... B-But, um, I don’t, um... want%Nanything from you, so... so... um...”
+<END>
+
+#WRITE(PTR, $000024DE)
+She didn’t want anything from me? What?
+<LINE>
+That didn’t make any sense...
+<END>
+
+#WRITE(PTR, $000024EE)
+【拓巳】
+“Th-Then... wh-wh-why’ve you been stalking me?”
+<END>
+
+#WRITE(PTR, $000024FE)
+【優愛２】
+“Well, umm, that’s because...”
+<END>
+
+#WRITE(PTR, $0000250E)
+She was getting flustered.
+<LINE>
+I just couldn’t get over how suspicious she was acting.
+<END>
+
+#WRITE(PTR, $0000251E)
+【優愛】
+“I’m... Kusunoki... Yua.”
+<END>
+
+#WRITE(PTR, $0000252E)
+【拓巳】
+“...?”
+<END>
+
+#WRITE(PTR, $0000253E)
+Nobody’d asked her to, but she suddenly started introducing herself anyway.
+<END>
+
+#WRITE(PTR, $0000254E)
+【優愛】
+“Umm, to be honest... ever since the moment I first saw you,%NI’ve wanted to know more about you... so...”
+<END>
+
+#WRITE(PTR, $0000258E)
+【優愛】
+“I just... instinctively...”
+<END>
+
+#WRITE(PTR, $0000259E)
+What, she’d just “instinctively” started stalking me?%K
+<END>
+
+#WRITE(PTR, $000025AE)
+The girl—whose name was Yua, apparently—kept lowering her gaze%Nas she talked.
+<END>
+
+#WRITE(PTR, $000025C6)
+【優愛】
+“I’m very sorry.”
+<END>
+
+#WRITE(PTR, $000025D6)
+She bowed her head vigorously.
+<END>
+
+#WRITE(PTR, $00002616)
+*...There’s no way.*
+<LINE>
+That was the only thing on my mind.
+<END>
+
+#WRITE(PTR, $00002626)
+Taking another look at her, this Yua girl was pretty cute.%NI had to give her that much, at least.
+<END>
+
+#WRITE(PTR, $00002636)
+But that was exactly why I couldn’t trust her.
+<END>
+
+#WRITE(PTR, $00002646)
+A 3D girl? Who wanted to interact with me? With good intentions?
+<END>
+
+#WRITE(PTR, $00002656)
+What kinda eroge was this?
+<END>
+
+#WRITE(PTR, $00002666)
+My whole life, nobody had ever said anything like that to me.%NThere was no way I could take her confession seriously—it was just%Nway too out of left field.
+<END>
+
+#WRITE(PTR, $00002676)
+What, did she think I’d be jumping for joy or something?
+<LINE>
+Did she forget she’d been stalking me until just now?
+<END>
+
+#WRITE(PTR, $00002686)
+Sure, that kinda thing might work in the 2D world, but IRL, it was a certified boner-killer.
+<END>
+
+#WRITE(PTR, $00002696)
+Also, this whole situation was really embarrassing.
+<LINE>
+All I wanted was to get out of here ASAP...
+<LINE>
+Just talking to her made me anxious. 3D really was total dogshit.
+<END>
+
+#WRITE(PTR, $000026A6)
+【拓巳】
+“I-I’m... not into 3D...”
+<END>
+
+#WRITE(PTR, $000026E6)
+【優愛】
+“Huh?”
+<END>
+
+#WRITE(PTR, $000026F6)
+【拓巳】
+“Uh, I mean...”
+<END>
+
+#WRITE(PTR, $00002706)
+【拓巳】
+“Erm, you’re f-f-f-fr...”
+<END>
+
+#WRITE(PTR, $00002716)
+I always stuttered when I tried to say something harsh.
+<LINE>
+But I had to be clear. “Don’t follow me anymore. I don’t like it...”
+<END>
+
+#WRITE(PTR, $00002726)
+【拓巳】
+“Y-You’re freaking me out... Q-Quit f-following me...”
+<END>
+
+#WRITE(PTR, $00002766)
+【優愛】
+“...I’m sorry.”
+<END>
+
+#WRITE(PTR, $00002776)
+She sure looked disheartened... Maybe she’d actually meant it.
+<END>
+
+#WRITE(PTR, $00002786)
+No, don’t fall for it! You can’t trust anything about 3D women!
+<LINE>
+You can only trust 2D. You can trust Seira-tan far more than this%Nharlot.
+<END>
+
+#WRITE(PTR, $00002796)
+【拓巳】
+“J-Just don’t f-follow me anymore... I-I’m gonna go now...”
+<END>
+
+#WRITE(PTR, $000027A6)
+As I mumbled incoherently,%NI tried as hard as I could to stand up—but I struggled.
+<LINE>
+My body was still hurting all over the place.%NMy collarbone in particular was being a real bitch.
+<END>
+
+#WRITE(PTR, $000027B6)
+The pain was making me feel kind of dizzy.%NI might’ve hit my head when I’d fallen down earlier.
+<END>
+
+#WRITE(PTR, $000027DA)
+I almost fell over again, but Yua caught my hand and stopped me.
+<END>
+
+#WRITE(PTR, $0000281A)
+【優愛】
+“Are you hurt? Here, I’ll help you get up.”
+<END>
+
+#WRITE(PTR, $0000282A)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $0000283A)
+I tried really hard not to make eye contact.%NI could feel my face turning bright red.%NShe’d definitely make fun of me if she noticed,%Nso I turned away and forcefully shook her hand off.
+<END>
+
+#WRITE(PTR, $0000284A)
+My mind was a total blank. I’d hardly—if ever—touched a female%Nbefore. Except family members, of course.
+<LINE>
+My heart was beating out of my chest.
+<END>
+
+#WRITE(PTR, $0000285A)
+【優愛】
+“I’ll help you get back home. Because, umm... you only got hurt%Nbecause I was following you in the first place, so...”
+<END>
+
+#WRITE(PTR, $0000286A)
+【優愛】
+“Please let me help you.”
+<END>
+
+#WRITE(PTR, $0000287A)
+I felt really happy when Yua asked me that.%NI wasn’t really used to being treated kindly by others. Every other 3D woman I had interacted with before was utterly vile, but this%Ngirl? I was actually starting to warm up to her a little bit.
+<END>
+
+#WRITE(PTR, $0000288A)
+But I didn’t have the courage to look her straight in the eye.%NI mean, she *had* been stalking me, and she also might’ve been%Nrelated to the demon girl, and I didn’t wanna die...
+<END>
+
+#WRITE(PTR, $0000289A)
+All sorts of thoughts flew through my head, but I couldn’t focus on any single one of them; my mind was a total blur.
+<END>
+
+#WRITE(PTR, $000028DA)
+【優愛】
+“Umm... so... which way is your house?”
+<END>
+
+#WRITE(PTR, $000028EA)
+【拓巳】
+“Oh, Sh-Shinse...”
+<END>
+
+#WRITE(PTR, $000028FA)
+【優愛】
+“Shinsen?”
+<END>
+
+#WRITE(PTR, $0000290A)
+I nodded, before instantly regretting it.
+<END>
+
+#WRITE(PTR, $0000291A)
+Why the hell had I told her that...?
+<LINE>
+Was I expecting something to happen if I did?
+<LINE>
+This had to be one of my delusions.
+<END>
+
+#WRITE(PTR, $00002942)
+Maybe karma’d put me on a lucky streak, just so it could come to%Nbeat me down later. You saw that cliché all the time in anime.%NThis must’ve been some sort of 
+<DICT>
+death flag
+</DICT>
+.
+<END>
+
+#WRITE(PTR, $0000295A)
+Oh god oh god oh god oh god oh god oh god oh god oh god.
+<END>
+
+#WRITE(PTR, $0000296A)
+Before I knew it, Yua was trying her best to prop me up with her%Nshoulders. Her soft body was tightly pressed against mine, and%NI could smell a sweet scent coming from her long hair.
+<END>
+
+#WRITE(PTR, $0000297A)
+This couldn’t be real.%NThere was no way a 3D girl was being this nice to me.
+<END>
+
+#WRITE(PTR, $0000298A)
+【優愛】
+“Can... Can you walk?”
+<END>
+
+#WRITE(PTR, $0000299A)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000029AA)
+I nodded in response.
+<END>
+
+#WRITE(PTR, $000029BA)
+【優愛】
+“All right, then let’s get going.”
+<END>
+
+#WRITE(PTR, $000029D8)
+Her voice almost sounded nervous. Then, with my head pointed down%Nat the ground, I slowly started to walk.
+<END>
+
+#WRITE(PTR, $000029E8)
+She’d done so much for me at this point, I couldn’t turn her down or shake her off anymore. I was out of options; I just had to let her%Ndo as she pleased. Leaning on her delicate shoulder for support,%Nthe two of us got moving.
+<END>
+瑞征
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
+
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

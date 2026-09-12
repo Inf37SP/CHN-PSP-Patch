@@ -1,0 +1,968 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00005A24)
+
+#WRITE(PTR, $00000D56)
+ポジティブ妄想
+<END2>
+
+#WRITE(PTR, $00000D60)
+ネガティブ妄想
+<END2>
+
+#WRITE(PTR, $00000D6A)
+妄想しない
+<END2>
+
+#WRITE(PTR, $0000105E)
+I felt like it should’ve been obvious to him how%Nmuch I didn’t want to go and see a puddle of%Nblood and gore.%NIt would’ve been way too much for me.
+<END>
+
+#WRITE(PTR, $0000106E)
+It wouldn’t be like a haunted house or a horror%Nmovie or something—people had actually died IRL,%Nand the killer was still on the loose.
+<END>
+
+#WRITE(PTR, $0000107E)
+So wherever the murderer was likely to be,%NI’d’ve liked to be anywhere but there.
+<END>
+
+#WRITE(PTR, $0000108E)
+Still, I was curious. What could’ve possibly%Nbeen the killer’s motive?
+<END>
+
+#WRITE(PTR, $0000109E)
+Were they just a psychopath that committed%Ncrimes for the hell of it?%NThat was probably the most reasonable explanation.
+<END>
+
+#WRITE(PTR, $000010AE)
+Well, whatever. It didn’t really matter to me.
+<END>
+
+#WRITE(PTR, $000010BE)
+I mean, I was a serial killer too. And even%Nthough I’d killed hundreds, people still treated%Nme like a hero.%N...That was in ESO though lololol
+<END>
+
+#WRITE(PTR, $000010CE)
+Just goes to show how much better the 2D world is.
+<END>
+
+#WRITE(PTR, $000010DE)
+Anyway, as I tried my hardest to turn down Misumi-kun’s proposal,%NI imagined myself like a brawler straight out of some fighting%Ngame.
+<END>
+
+#WRITE(PTR, $000010EE)
+“*A psycho killer? Heh, if I ran into a guy%Nlike that, I’d turn ’im into mincemeat.*”
+<END>
+
+#WRITE(PTR, $000010FE)
+In my delusions, I could kill or spare anyone I wanted.
+<END>
+
+#WRITE(PTR, $0000110E)
+But the people who actually tried to live out those sorts of%Ndelusions were idiots. Didn’t they know that real-life actions had%Nreal-life consequences?
+<END>
+
+#WRITE(PTR, $0000111E)
+Even the New Gen killer would be caught eventually, and then they’d%Nrot in prison for years—decades, even—just waiting to be sent to%Nthe gallows.
+<END>
+
+#WRITE(PTR, $0000112E)
+If I could say one thing to them, it’d be:
+<END>
+
+#WRITE(PTR, $0000113E)
+What a pity.%NYou really should’ve just kept your delusions to yourself.
+<END>
+
+#WRITE(PTR, $0000115E)
+DELUS_IN.PMF
+<END2>
+
+#WRITE(PTR, $00001230)
+I went out to buy myself some dinner.
+<END>
+
+#WRITE(PTR, $00001240)
+I took the road I always used to get to my local convenience store.%NIt was only a three-minute walk from my base.
+<END>
+
+#WRITE(PTR, $00001250)
+I’d walked down this dirty alley more times than I could count.
+<END>
+
+#WRITE(PTR, $00001260)
+But for some reason, walking through it today, I couldn’t help but%Nfeel as if I’d stepped into another world.
+<END>
+
+#WRITE(PTR, $00001270)
+The alley was the same as ever, but it felt like it was the first%Ntime I’d ever set foot in it.
+<END>
+
+#WRITE(PTR, $00001280)
+Familiar, yet new—like the opposite of déjà vu.%NI’d researched the phenomenon online before—the%Nname for it was apparently “jamais vu.”
+<END>
+
+#WRITE(PTR, $00001290)
+What’s more, the stench of rotting garbage was%Nlingering in the air.
+<END>
+
+#WRITE(PTR, $000012A0)
+The moisture in the atmosphere was so thick that, if I hadn’t known any better, I’d’ve assumed that it’d just been raining.%NThe air was like syrup on my skin.
+<END>
+
+#WRITE(PTR, $000012D2)
+I heard a sound.
+<LINE>
+The faint sound of something dragging across the ground.
+<END>
+
+#WRITE(PTR, $000012E2)
+I stopped in my tracks and listened closely.
+<END>
+
+#WRITE(PTR, $000012FA)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $0000130A)
+It sounded like it was coming from up ahead...%Nfrom somewhere down the alley and around the %Ncorner.
+<END>
+
+#WRITE(PTR, $0000131A)
+Without any streetlights or lit-up windows, it%Nwas pitch black down there.
+<END>
+
+#WRITE(PTR, $0000132A)
+No matter how hard I tried,%NI couldn’t see a thing.
+<END>
+
+#WRITE(PTR, $0000133A)
+It was strange. This was modern day Shibuya, a place that—along%Nwith Shinjuku—was known as “The City That Never Sleeps.”%NSo how could there still be places that were *this* dark?
+<END>
+
+#WRITE(PTR, $0000134A)
+It almost felt like the entrance to a haunted house.%K
+<LINE>
+...Actually, there was one very large distinction.
+<END>
+
+#WRITE(PTR, $0000135A)
+This darkness wasn’t man-made... it was real.
+<END>
+
+#WRITE(PTR, $0000136A)
+I didn’t want to go any farther.
+<LINE>
+Nothing good would come from it.
+<END>
+
+#WRITE(PTR, $0000137A)
+My brain set off every alarm bell it could, trying to prevent my%Nbody from taking another step.
+<END>
+
+#WRITE(PTR, $000013DA)
+But, for some inexplicable reason, my body stepped forward anyway, as if drawn to that repeating sound.
+<END>
+
+#WRITE(PTR, $000013EA)
+My fear urged me to stop—that something horrible%Nwould happen if I kept going.
+<LINE>
+My heart started racing.%NMy forehead was slick with sweat.
+<END>
+
+#WRITE(PTR, $00001448)
+【梨深？】
+“Up ahead...”
+<END>
+
+#WRITE(PTR, $00001458)
+Suddenly, a noise that was beautiful, yet somehow discordant at%Nthe same time... reached my ears...
+<LINE>
+A voice... garbled by static...
+<END>
+
+#WRITE(PTR, $00001486)
+Before I knew it, someone had grabbed my forearm.%NIt was all too sudden. I panicked and tried to scream for help,%Nbut all that came out was a puff of air.
+<END>
+
+#WRITE(PTR, $00001496)
+Terrified, I tried to force my body to run away, but it wouldn’t%Nlisten. I couldn’t move an inch.
+<END>
+
+#WRITE(PTR, $000014A6)
+I looked toward my arm... and the hand of the thing that had%Ngrabbed me came into view.
+<END>
+
+#WRITE(PTR, $00001508)
+It was dark green, with skin taut like a mummy’s. Countless veins%Nprotruded from the surface. It didn’t look alive.
+<END>
+
+#WRITE(PTR, $00001518)
+【梨深？】
+“...If you go any further...”
+<END>
+
+#WRITE(PTR, $00001528)
+To be honest, it made sense that I couldn’t move—going all deer-in%N-the-headlights was a natural reaction to what was happening.%NWhat was surprising to me, though, was that the voice in my ear was%Nso soothing, the fear swelling inside me was starting to vanish.
+<END>
+
+#WRITE(PTR, $00001538)
+【梨深？】
+“...you’ll be in danger...”
+<END>
+
+#WRITE(PTR, $00001548)
+A serious, yet gentle voice.
+<END>
+
+#WRITE(PTR, $00001558)
+I slowly...
+<LINE>
+looked over my shoulder...
+<END>
+
+#WRITE(PTR, $0000160C)
+The first thing I noticed... was the Suimei Academy emblem.%NThe same emblem you could find sewn onto the chest of each and %Nevery Suimei uniform.
+<END>
+
+#WRITE(PTR, $0000161C)
+Then I noticed that the person was wearing a skirt, which meant
+<LINE>
+she was a girl.
+<END>
+
+#WRITE(PTR, $0000162C)
+But I didn’t have the courage to look at the%Nmost important part: her face.
+<LINE>
+“She” was standing way closer than I was%Nexpecting, so I couldn’t bring myself to face her.
+<END>
+
+#WRITE(PTR, $0000163C)
+I couldn’t put my finger on why, but for some reason, something%Nseemed off. So, I turned my attention back toward her hand.
+<END>
+
+#WRITE(PTR, $000016B0)
+The hand gripping my arm was delicate and feminine.
+<LINE>
+Even though just a moment ago, I had seen it as green and%Ngrotesque.
+<END>
+
+#WRITE(PTR, $000016C0)
+This girl...
+<LINE>
+Who was she?
+<END>
+
+#WRITE(PTR, $000016D0)
+What kind of expression was on her face?
+<LINE>
+What kind of expression was she making at me?
+<LINE>
+What was she doing here?
+<END>
+
+#WRITE(PTR, $000016F4)
+I had no idea why, but for some reason, I felt like I knew her.
+<END>
+
+#WRITE(PTR, $00001704)
+While staring at the pale hand wrapped around my arm, I tried to
+<LINE>
+envision what she looked like.
+<END>
+
+#WRITE(PTR, $000019B8)
+“...has a ribbon in her hair.”%K
+<END2>
+
+#WRITE(PTR, $00001B06)
+%P
+<END2>
+
+#WRITE(PTR, $00001DAA)
+“...is wearing glasses.”%K
+<END2>
+
+#WRITE(PTR, $00001EF8)
+%P
+<END2>
+
+#WRITE(PTR, $0000219C)
+“...is wearing over-the-knee socks.”%K
+<END2>
+
+#WRITE(PTR, $000022EA)
+%P
+<END2>
+
+#WRITE(PTR, $0000258E)
+“...is wearing a long skirt.”%K
+<END2>
+
+#WRITE(PTR, $000026DC)
+%P
+<END2>
+
+#WRITE(PTR, $00002980)
+“...is making some sort of salute at me.”%K
+<END2>
+
+#WRITE(PTR, $00002ACE)
+%P
+<END2>
+
+#WRITE(PTR, $00002D44)
+In spite of all my questions, I couldn’t manage to get a single word out. I simply hung my head in silence.
+<END>
+
+#WRITE(PTR, $00002D54)
+At some point, the dragging sound had stopped...
+<END>
+
+#WRITE(PTR, $00002D64)
+【梨深２】
+“Turn back.”
+<END>
+
+#WRITE(PTR, $00002D74)
+And in its place, there was a smell... coming from her body...
+<END>
+
+#WRITE(PTR, $00002D84)
+【梨深２】
+“Please, Takumi-kun.”
+<END>
+
+#WRITE(PTR, $00002D9A)
+The stench of blood.
+<END>
+
+#WRITE(PTR, $00002DAE)
+DELUS_OUT.PMF
+<END2>
+
+#WRITE(PTR, $00002E4E)
+【拓巳】
+“...That was awesome.”
+<END>
+
+#WRITE(PTR, $00002E5E)
+I was sitting behind a computer monitor.
+<END>
+
+#WRITE(PTR, $00002E6E)
+I chugged down a Cola to contain my excitement, then leaned back%Nin my chair.
+<END>
+
+#WRITE(PTR, $00002E7E)
+That’d been one hell of a delusion.
+<END>
+
+#WRITE(PTR, $00002E8E)
+I especially liked that mystery girl.
+<LINE>
+I might give her a name and flesh out her personality in%Nfuture delusions.
+<END>
+
+#WRITE(PTR, $00002E9E)
+I let my imagination run wild like this all the time. Usually I’d go on to cast an existing character as the girl—such as %NSeira-tan—so I might as well do that here too. ...Hmm, actually,%NSeira didn’t quite fit the vibe of that mystery girl.
+<END>
+
+#WRITE(PTR, $00002EAE)
+Well, at any rate, it was a lot of fun%Nmixing together 2D and 3D in my delusions.%NI was the god of the world inside my head.%NIn there, everything bent to my will.
+<END>
+
+#WRITE(PTR, $00002EBE)
+【拓巳】
+“I’ll definitely make the next one more sexy... Fuhihi.”
+<END>
+
+#WRITE(PTR, $00002ECE)
+I said that to myself as if I were at my base,%Nbut when I remembered I was in an Internet café,%NI quickly covered my mouth.
+<END>
+
+#WRITE(PTR, $00002EDE)
+I quietly peeked outside.
+<LINE>
+It didn’t seem like anyone had heard me just now, so... meh.
+<END>
+
+#WRITE(PTR, $00002F04)
+I felt like it should’ve been obvious to him how much I didn’t%Nwant to go and see a puddle of blood and gore. It would’ve been%Nway too much for me.
+<END>
+
+#WRITE(PTR, $00002F14)
+It wouldn’t be like a haunted house or a%Nhorror movie or something—people had actually%Ndied IRL, and the killer was still on the loose.
+<END>
+
+#WRITE(PTR, $00002F24)
+So wherever the murderer was likely to be,%NI’d’ve liked to be anywhere but there.
+<END>
+
+#WRITE(PTR, $00002F34)
+Still, I was curious. What could’ve possibly%Nbeen the killer’s motive?
+<END>
+
+#WRITE(PTR, $00002F44)
+Were they just a psychopath that committed%Ncrimes for the hell of it?%NThat was probably the most reasonable explanation.
+<END>
+
+#WRITE(PTR, $00002F54)
+Well, whatever. It didn’t really matter to me.
+<END>
+
+#WRITE(PTR, $00002F64)
+I mean, I was a serial killer too. And even%Nthough I’d killed hundreds, people still%Ntreated me like a hero.%N...That was in ESO though lololol
+<END>
+
+#WRITE(PTR, $00002F74)
+Just goes to show how much better the 2D world is.
+<END>
+
+#WRITE(PTR, $00002F84)
+Anyway, as I tried my hardest to turn down Misumi-kun’s proposal,%NI imagined myself like a brawler straight out of some fighting%Ngame.
+<END>
+
+#WRITE(PTR, $00002F94)
+“*A psycho killer? Heh, if I ran into a guy%Nlike that, I’d turn ’im into mincemeat.*”
+<END>
+
+#WRITE(PTR, $00002FA4)
+In my delusions, I could kill or spare anyone I wanted.
+<END>
+
+#WRITE(PTR, $00002FB4)
+But the people who actually tried to live out those sorts of%Ndelusions were idiots. Didn’t they know that real-life actions had%Nreal-life consequences?
+<END>
+
+#WRITE(PTR, $00002FC4)
+Even the New Gen killer would be caught eventually, and then they’d%Nrot in prison for years—decades, even—just waiting to be sent to%Nthe gallows.
+<END>
+
+#WRITE(PTR, $00002FD4)
+If I could say one thing to them, it’d be:
+<END>
+
+#WRITE(PTR, $00002FE4)
+What a pity.%NYou really should’ve just kept your delusions to yourself.
+<END>
+
+#WRITE(PTR, $00002FF8)
+DELUS_IN.PMF
+<END2>
+
+#WRITE(PTR, $000030BA)
+I went out to buy myself some dinner.
+<END>
+
+#WRITE(PTR, $000030CA)
+I took the road I always used to get to my local convenience store.%NIt was only a three-minute walk from my base.
+<END>
+
+#WRITE(PTR, $000030DA)
+I’d walked down this dirty alley more times than I could count.
+<END>
+
+#WRITE(PTR, $000030EA)
+But for some reason, walking through it today, I couldn’t help but%Nfeel as if I’d stepped into another world.
+<END>
+
+#WRITE(PTR, $000030FA)
+The alley was the same as ever, but it felt like it was the first%Ntime I’d ever set foot in it.
+<END>
+
+#WRITE(PTR, $0000310A)
+What’s more, the stench of rotting garbage was%Nlingering in the air.
+<END>
+
+#WRITE(PTR, $0000311A)
+The moisture in the atmosphere was so thick that, if I hadn’t known any better, I’d’ve assumed that it’d just been raining.%NThe air was like syrup on my skin.
+<END>
+
+#WRITE(PTR, $00003136)
+That’s when I noticed it: There was something on the ground at the%Nfar end of the alley.
+<END>
+
+#WRITE(PTR, $0000318E)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $0000319E)
+At first glance, I’d thought it was a garbage%Nbag from the convenience store, so I kept%Non walking without paying it any mind.
+<END>
+
+#WRITE(PTR, $000031B6)
+But once I’d gotten a bit closer...
+<END>
+
+#WRITE(PTR, $0000321E)
+I realized what it really was: a dead cat.
+<END>
+
+#WRITE(PTR, $00003282)
+【拓巳】
+“Urgh...”
+<END>
+
+#WRITE(PTR, $00003292)
+Blood and feces were pouring out from it.
+<END>
+
+#WRITE(PTR, $00003338)
+A shiver ran down my spine and goosebumps spread across my skin.%NI turned around to head back the way I came.
+<END>
+
+#WRITE(PTR, $00003348)
+But behind me was another cat.
+<LINE>
+A black cat. An *alive* one.
+<LINE>
+Staring at me with radiant, golden eyes.
+<END>
+
+#WRITE(PTR, $00003358)
+【拓巳】
+“...Wh-What the hell...?”
+<END>
+
+#WRITE(PTR, $00003384)
+As soon as I spoke, the cat dashed away into the shadows.
+<LINE>
+For some reason I couldn’t explain, I was now feeling really %Nuncomfortable.
+<END>
+
+#WRITE(PTR, $00003394)
+I’d figured I should just get going already, but since the dead cat was in the way of my normal route, I decided to take the long way to the store.
+<END>
+
+#WRITE(PTR, $000033A4)
+...But just as I was about to head off, I realized something.
+<LINE>
+This whole time, I’d been hearing a strange noise coming from %Nsomewhere.
+<END>
+
+#WRITE(PTR, $000033B4)
+With a gulp, I started listening closely.
+<END>
+
+#WRITE(PTR, $000033FA)
+DELUS_OUT.PMF
+<END2>
+
+#WRITE(PTR, $0000348E)
+【拓巳】
+“...Well, that sucked.”
+<END>
+
+#WRITE(PTR, $0000349E)
+I was sitting behind a computer monitor.
+<END>
+
+#WRITE(PTR, $000034AE)
+I chugged down a Cola to quench my thirst,%Nthen leaned back in my chair.
+<END>
+
+#WRITE(PTR, $000034BE)
+That was a horrible delusion...
+<END>
+
+#WRITE(PTR, $000034CE)
+All that talk of gory shit must’ve gotten to my head.
+<END>
+
+#WRITE(PTR, $000034DE)
+Whenever something really got to me like that, I tended to have all sorts of weird delusions about it—stuff so bad, it surprised even%Nme. And even though they were just delusions, there were still a lot of times where they genuinely affected me and how I was feeling.
+<END>
+
+#WRITE(PTR, $000034EE)
+My imagination was just too powerful for my own good.
+<END>
+
+#WRITE(PTR, $000034FE)
+Especially in cases like these where I didn’t have the full story.%NWhenever that happened, my mind always went wild, filling in the%Nblanks with the worst things I could think of.
+<LINE>
+Sometimes it was so terrifying that it actually made me scream.
+<END>
+
+#WRITE(PTR, $0000350E)
+Of course, that’d be fine if I were back at my base, but if I did%Nthat in public, I’d attract all sorts of unwanted attention.
+<END>
+
+#WRITE(PTR, $00003574)
+【拓巳】
+“A-A shut-in? I’m not—”
+<END>
+
+#WRITE(PTR, $00003584)
+Taking some offense at Misumi-kun’s choice of words, I almost%Nsnapped back at him.
+<END>
+
+#WRITE(PTR, $00003594)
+But I quickly decided against it when I considered the possibility%Nthat he might get upset at me.
+<END>
+
+#WRITE(PTR, $000035A4)
+So I just bit my lip and turned away.
+<LINE>
+And when I did, I noticed that there was%Nsomething written on the blackboard.
+<END>
+
+#WRITE(PTR, $000035B4)
+At first, I didn’t really care enough to read what was written%Nthere. My mind only registered the fact that *something* was %Nwritten there, and not what it was.
+<END>
+
+#WRITE(PTR, $000035C4)
+But the longer I gazed at it, the more%NI realized something was wrong.
+<END>
+
+#WRITE(PTR, $000035E0)
+【拓巳】
+“Huh...?”
+<END>
+
+#WRITE(PTR, $000035FC)
+Before I knew it, I was out of my chair.
+<END>
+
+#WRITE(PTR, $0000360C)
+【拓巳】
+“M-Move for a sec...!”
+<END>
+
+#WRITE(PTR, $0000364C)
+【三住】
+“Gh— O-Ow, what was that for?”
+<END>
+
+#WRITE(PTR, $000036E6)
+I pushed Misumi-kun aside and rushed over to the blackboard.
+<LINE>
+The instant I realized what it said...
+<END>
+
+#WRITE(PTR, $000036F6)
+...I felt my heart stop.
+<END>
+
+#WRITE(PTR, $00003A2C)
+“Whose eyes are those eyes?”
+<END>
+
+#WRITE(PTR, $00003A3C)
+Those were the words I said to myself whenever I felt “God’s gaze.”
+<END>
+
+#WRITE(PTR, $00003A4C)
+I’d never said them out loud before.
+<END>
+
+#WRITE(PTR, $00003A5C)
+I hadn’t told anyone about them, either.
+<END>
+
+#WRITE(PTR, $00003A6C)
+Not even Misumi-kun.
+<LINE>
+It didn’t matter how often I used it—there was no way anyone in%Nthis class could know about that phrase.
+<END>
+
+#WRITE(PTR, $00003A7C)
+So who...?
+<LINE>
+Why...?
+<LINE>
+How...?
+<END>
+
+#WRITE(PTR, $00003B34)
+I quickly turned around and scanned the room.
+<END>
+
+#WRITE(PTR, $00003B44)
+The only person paying any attention to me was Misumi-kun.
+<END>
+
+#WRITE(PTR, $00003B54)
+The rest were talking to their friends, reading manga%N(despite manga being against the rules), or sleeping on their%Ndesks.
+<END>
+
+#WRITE(PTR, $00003B64)
+Then, who...?
+<LINE>
+Who had written it?
+<LINE>
+And when?
+<END>
+
+#WRITE(PTR, $00003E72)
+“It’s just a coincidence.”%K
+<END2>
+
+#WRITE(PTR, $00003FC0)
+%P
+<END2>
+
+#WRITE(PTR, $00004264)
+“I’m making it up. It’s all in my head.”%K
+<END2>
+
+#WRITE(PTR, $000043B2)
+%P
+<END2>
+
+#WRITE(PTR, $00004656)
+“The New Gen killer is somewhere in this school.”%K
+<END2>
+
+#WRITE(PTR, $000047A4)
+%P
+<END2>
+
+#WRITE(PTR, $00004A48)
+“Whoever wrote this is trying to provoke me.”%K
+<END2>
+
+#WRITE(PTR, $00004B96)
+%P
+<END2>
+
+#WRITE(PTR, $00004E3A)
+“I should definitely erase it.”%K
+<END2>
+
+#WRITE(PTR, $00004F88)
+%P
+<END2>
+
+#WRITE(PTR, $00005220)
+【三住】
+“C’mon, what’s the matter?”
+<END>
+
+#WRITE(PTR, $00005230)
+Misumi-kun walked up to me, grabbed my shoulder, and gave me a good shake.
+<END>
+
+#WRITE(PTR, $00005240)
+【三住】
+“Are you even listening?”
+<END>
+
+#WRITE(PTR, $00005250)
+【三住】
+“Hellooooo? Taku?”
+<END>
+
+#WRITE(PTR, $00005260)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00005270)
+It must’ve just been a common phrase... or something...
+<LINE>
+In other words, it was just a stupid, pointless scribble.
+<END>
+
+#WRITE(PTR, $00005280)
+I tried to tell myself that, but I still couldn’t calm down. So, in the end, I just went up and erased it, moving quickly so that nobody would notice.
+<END>
+
+#WRITE(PTR, $000052EA)
+Had it been there the whole time?%NSince before I’d even entered the classroom?
+<LINE>
+I couldn’t remember... It wasn’t like I ever paid any attention to%Nthe blackboard anyway.
+<END>
+
+#WRITE(PTR, $00005358)
+【三住】
+“C’mon, what’s the matter?”
+<END>
+
+#WRITE(PTR, $00005368)
+Misumi-kun walked up to me, grabbed my shoulder, and gave me a good shake.
+<END>
+
+#WRITE(PTR, $00005378)
+【三住】
+“Are you even listening?”
+<END>
+
+#WRITE(PTR, $00005388)
+【三住】
+“Hellooooo? Taku?”
+<END>
+
+#WRITE(PTR, $00005398)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000053A8)
+I-It didn’t matter wh-who’d written it.
+<LINE>
+It had to be a coincidence.
+<LINE>
+It must’ve just been a common phrase, or something...
+<END>
+
+#WRITE(PTR, $000053B8)
+It was just a stupid, pointless scribble.
+<LINE>
+Yeah... That had to be it...
+<END>
+
+#WRITE(PTR, $0000546A)
+I tried to convince myself of that, but it was still freaking me%Nout.
+<END>
+
+#WRITE(PTR, $0000547A)
+I still had no clue who’d written it. I’d have to ask everyone in%Nthe class to figure that out, and I didn’t have anywhere *near*%Nthat kind of courage.
+<END>
+
+#WRITE(PTR, $0000548A)
+Immediately after I thought that, homeroom began and my teacher%Ncame in the room. His eyes immediately zeroed in on the words%Nwritten on the board, and with a quick “C’mon, who wrote this?”%Nhe grabbed the eraser and wiped them all away.
+<END>
+
+#WRITE(PTR, $0000554E)
+For some reason, I was still a little creeped out, but I tried to%Njust carry on like always.
+<END>
+
+#WRITE(PTR, $0000555E)
+If I let myself get any more scared, I’d probably start thinking%Nthat someone was deliberately targeting me.
+<END>
+
+#WRITE(PTR, $0000556E)
+But that was ridiculous. It was just a coincidence.
+<END>
+
+#WRITE(PTR, $0000557E)
+In the end, I had to keep telling myself that until school was%Nover. And when it finally was, I headed toward my usual Internet%Ncafé.
+<END>
+
+#WRITE(PTR, $00005640)
+For an indoor person like me, @café was the only hangout spot I%Nenjoyed.
+<END>
+
+#WRITE(PTR, $00005650)
+Being at the center of Shibuya and all, there were plenty of 3D DQN women and office drones occupying it, but since the rooms were all%Nprivate, that wasn’t an issue.
+<END>
+
+#WRITE(PTR, $00005660)
+As for the room I was in, it was the one I always reserved: Room 37, located way in the back.
+<END>
+
+#WRITE(PTR, $00005670)
+It was pretty inconvenient to get refills, but since very few%Npeople ever reserved rooms near the back, it was nice and quiet.
+<END>
+
+#WRITE(PTR, $00005680)
+Once or twice a week, I’d come here on my way home from school to%Nlog on to my other ESO account.
+<END>
+
+#WRITE(PTR, $00005690)
+Neidhardt was essentially a celebrity, so this was my way to just%Nrelax and enjoy the game.
+<END>
+
+#WRITE(PTR, $000056A0)
+While I did love being treated like a hero all the time, it sure did take its toll.
+<END>
+
+#WRITE(PTR, $00005718)
+That was why I’d made another 
+<DICT>
+avatar
+</DICT>
+.
+<END>
+
+#WRITE(PTR, $00005730)
+This one was a female character named “Liselotte.”
+<LINE>
+I hadn’t accomplished anything big with her—I’d mainly just made%Nher to help Neidhardt look even better by comparison.
+<END>
+
+#WRITE(PTR, $00005758)
+I played for about three hours to blow off some steam. I then had%Nsome fun messing around with my 
+<DICT>
+guild
+</DICT>
+ mates while talking about%Nhardcore 
+<DICT>
+doujins
+</DICT>
+ and other random shit.
+<END>
+
+#WRITE(PTR, $00005836)
+By the time I’d left the café, it was already around 9 PM.
+<END>
+
+#WRITE(PTR, $00005846)
+There were even more DQNs around at this time of night.
+<END>
+
+#WRITE(PTR, $00005856)
+They’d line the streets like they owned the place, stuffing their%Nfaces with greasy-ass hamburgers as they let out the most%Ndisgusting laughter imaginable. Just looking at them made me want%Nto puke.
+<END>
+
+#WRITE(PTR, $00005866)
+And what was especially bad? If you just so much as looked at them%Nthe wrong way, they’d immediately come and beat the shit out of you. Fucking savages.
+<END>
+
+#WRITE(PTR, $00005876)
+They weren’t human—they were animals.%NNot fit for civilized society.
+<LINE>
+Just throw them in a slaughterhouse or something. Seriously.
+<END>
+
+#WRITE(PTR, $00005886)
+Well, I say that, but there was no way I could hope to ever stand up to them myself. So there was no point in trying.%NRegardless, it was time to get the hell out of Center-
+<DICT>
+gai
+</DICT>
+.
+<END>
+
+#WRITE(PTR, $00005932)
+On my way back from @café, I always dropped by Mangadarake, which%Nwas pretty close by, or Animeight, which was a bit further off.
+<END>
+
+#WRITE(PTR, $00005942)
+I decided to check out Animeight today, so I headed toward the%Nstation’s south exit.
+<END>
+
+#WRITE(PTR, $00005952)
+Down that path, there was an instant drop in the number of DQNs.
+<END>
+
+#WRITE(PTR, $00005962)
+Man, Center-gai was complete and utter chaos... Just walking%Nthrough it brought me nothing but pain and suffering. I’d never%Nset foot there again if I could help it.
+<END>
+
+#WRITE(PTR, $00005972)
+I wish the whole place would just get blown to smithereens—except%N@café and Mangadarake, of course.
+<END>
+
+#WRITE(PTR, $00005982)
+All right then, time to go browsing for some comics, doujins, or%Nwhatever else catches my eye.
+<END>
+
+#WRITE(PTR, $00005992)
+Oh yeah, that’s right—the Blood Tune Vol. 5 DVD was coming out soon. Was it available for pre-order yet? If so, I definitely needed to%Nget one nailed down.
+<END>
+瑞昔
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
+
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

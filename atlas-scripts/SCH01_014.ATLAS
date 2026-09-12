@@ -1,0 +1,234 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($000006B8)
+
+#WRITE(PTR, $00000092)
+Somehow, I’d managed to make it through the torture known as%N“school.” On my way back, I made my usual stop at @café.
+<LINE>
+I took my seat in Room 37.
+<END>
+
+#WRITE(PTR, $000000A2)
+The nearby rooms were normally always empty, but surprisingly,%Nthat wasn’t true today; there was someone in Room 36.
+<END>
+
+#WRITE(PTR, $000000B2)
+Their door was closed, but the light from the desk lamp leaked%Nthrough the cracks.
+<END>
+
+#WRITE(PTR, $000000C2)
+I couldn’t help but click my tongue when I entered my room.
+<END>
+
+#WRITE(PTR, $000000D2)
+Having someone sitting nearby posed a bit of a problem... Whenever%NI did things like chatting online, I had the tendency to talk to%Nmyself sometimes.
+<END>
+
+#WRITE(PTR, $000000E2)
+Well, whatever. Time to just ignore it and log into ESO already.%NAs long as I make a conscious effort to stay quiet, it shouldn’t%Nreally be an issue.
+<END>
+
+#WRITE(PTR, $0000013C)
+【拓巳】
+“The hell is wrong with these people...?”
+<END>
+
+#WRITE(PTR, $00000158)
+Irritated, I slammed my hands down on the keyboard.
+<END>
+
+#WRITE(PTR, $000001B2)
+It’d only been two hours since I started playing, and I was already *this close* to throwing myself off a cliff.
+<END>
+
+#WRITE(PTR, $000001C2)
+The people I’d partied up with today were total noobs.
+<END>
+
+#WRITE(PTR, $000001D2)
+I’d been trying my best to help them, but one of them went all%NLeeroy Jenkins and just died... repeatedly.
+<END>
+
+#WRITE(PTR, $000001E2)
+Then the other one was a mage, but he didn’t cast any healing spells at all.
+<END>
+
+#WRITE(PTR, $000001F2)
+As a result, we’d just kept getting full-party wiped over and over%Nagain.
+<END>
+
+#WRITE(PTR, $00000202)
+And yet, instead of figuring out *why* it was happening, all they%Never did was continue to piss and moan in the chat.
+<LINE>
+Fuck these shitty players.
+<END>
+
+#WRITE(PTR, $00000212)
+I finally just lost it. I proceeded to PK both of them, steal all%Ntheir items, and instantly escape to another area.
+<END>
+
+#WRITE(PTR, $00000222)
+Everything Neidhardt couldn’t do, Liselotte could without a second%Nthought. This was exactly what I came all the way to @café for.%NFuhihi.
+<END>
+
+#WRITE(PTR, $0000027C)
+Finally feeling a bit better, I breathed a sigh of relief and went%Nto grab a drink.
+<END>
+
+#WRITE(PTR, $0000028C)
+@café had a bunch of all-you-can-drink soda fountains in the%Nreception area.
+<END>
+
+#WRITE(PTR, $0000029C)
+And related to that was the only bad thing about Room 37: it was%Nkind of far away from the reception area.
+<END>
+
+#WRITE(PTR, $00000304)
+When I left my room, the door to Room 36 was open. Naturally, in%Norder to make my way to the front, I had to go past it.
+<END>
+
+#WRITE(PTR, $00000314)
+I casually took a peek inside as I walked past, but there was%Nnobody in there. Come to think of it, I *had* heard someone get up a moment ago.
+<END>
+
+#WRITE(PTR, $00000324)
+And although there was no one there, I saw a bag on the ground next to the reclining chair. It looked like a school bag, and there were a few toy straps hanging from it.
+<END>
+
+#WRITE(PTR, $00000334)
+They were “Gero Froggies”—like the one Nanami had shown me%Nyesterday. There were three of them in total.
+<LINE>
+I guess they really were popular.
+<END>
+
+#WRITE(PTR, $00000344)
+Well, whatever. It wasn’t like I cared either way. Besides, if the%Nperson came back and caught me staring, they might’ve taken me for a pervert or a thief.
+<END>
+
+#WRITE(PTR, $00000354)
+Realizing that, I decided to just go get my drink.
+<END>
+
+#WRITE(PTR, $00000364)
+However, right as I went to leave, my eye caught a glimpse of the%Ntext on their monitor, and I froze.
+<END>
+
+#WRITE(PTR, $00000374)
+“All Things New Gen.”
+<LINE>
+And if that wasn’t enough, it was written in the most sickening%Nfont, as if it was *trying* to freak me out.
+<END>
+
+#WRITE(PTR, $00000384)
+New Gen...
+<END>
+
+#WRITE(PTR, $00000394)
+I’d been deliberately avoiding any and all info about those cases.%NI really didn’t want to know anything more about them. And as long%Nas I kept avoiding them, I could keep telling myself that they had%Nnothing to do with me.
+<END>
+
+#WRITE(PTR, $000003A4)
+No, forget about that.
+<LINE>
+More importantly, the customer next door to me was looking at a%Nsite lining out everything about New Gen. Was it just a%Ncoincidence, or did it mean something?
+<END>
+
+#WRITE(PTR, $000003B4)
+For a moment, the face of the demon girl flashed through my mind,%Nsending goosebumps across my entire body.%NI shook my head violently, trying to force those horrible thoughts%Naway.
+<END>
+
+#WRITE(PTR, $000003C4)
+I was just overthinking it. ...Yeah, I had to be. Nobody was out to get me—I was just being paranoid.
+<LINE>
+New Gen was pretty much all the media talked about lately. By this%Npoint, *anyone* would be interested in it.
+<END>
+
+#WRITE(PTR, $000003D4)
+That was all it was.
+<LINE>
+Yup. No doubt about it.
+<END>
+
+#WRITE(PTR, $000003E4)
+Anyway, I should just go get my drink already, then get back to%Nbusiness.
+<END>
+
+#WRITE(PTR, $00000452)
+I quickly placed my cup under the dispenser and pressed the Cola%Nbutton. Delicious, ice-cold Cola started pouring out.
+<END>
+
+#WRITE(PTR, $00000462)
+It was getting dark outside, which meant this place was going to%Nget really crowded soon.
+<END>
+
+#WRITE(PTR, $00000472)
+There were already a few customers standing by the front desk,%Nwaiting to be shown to their rooms.
+<LINE>
+And the darker it got, the more people would show up.
+<END>
+
+#WRITE(PTR, $00000482)
+In about an hour or so, all the rooms surrounding Room 37 would%Nfill up. Once that happened, it’d be time for me to head home.
+<END>
+
+#WRITE(PTR, $00000492)
+I took my cup and headed back toward my seat.
+<LINE>
+On the way, I casually glanced down the hall toward the bathrooms.%NThat’s when...
+<END>
+
+#WRITE(PTR, $000005D0)
+【拓巳】
+“Ah...”
+<END>
+
+#WRITE(PTR, $000005E0)
+I saw a girl’s figure disappear into the corridor. She had been%Nwearing a Suimei uniform and had glasses on her face.%NI recognized her—it was the same girl that’d been tailing me this%Nmorning. Girl A.
+<END>
+
+#WRITE(PTR, $000005F0)
+【拓巳】
+“H-Huh...?”
+<END>
+
+#WRITE(PTR, $00000600)
+I thought I might’ve been mistaken, so I hid behind some%Nbookshelves and looked toward that corridor for a while.%NBut she never showed up again.
+<END>
+
+#WRITE(PTR, $00000610)
+It must’ve just been my imagination...
+<END>
+
+#WRITE(PTR, $00000620)
+Yeah. It had to have been.%NI’d only seen her for half a second, after all.
+<END>
+
+#WRITE(PTR, $00000630)
+This place was typically swarming with Suimei girls.%NAnd plenty of them wore glasses.
+<END>
+
+#WRITE(PTR, $00000640)
+But... what if it *had* been Girl A...?
+<LINE>
+If she was here, what would that mean...?
+<END>
+
+#WRITE(PTR, $00000650)
+Was it just a coincidence?
+<LINE>
+Or... had she followed me?
+<LINE>
+I was starting to get a little scared.
+<END>
+瑞0
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

@@ -1,0 +1,2 @@
+xcopy /y SCH01_014-section1.BIN SCH01_014.BIN*
+"..\Atlas.exe" SCH01_014.BIN SCH01_014.ATLAS

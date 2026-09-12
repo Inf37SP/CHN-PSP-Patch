@@ -1,0 +1,584 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($0000394C)
+
+#WRITE(PTR, $0000297C)
+This was Suimei Private Academy, the school I went to.
+<END>
+
+#WRITE(PTR, $0000298C)
+Apparently it’d only been built around ten years ago, so it didn’t%N
+exactly have a rich history or anything like that.%K%N
+Since it still looked brand new, it made a pretty good setting for%N
+high school TV shows.
+<END>
+
+#WRITE(PTR, $0000299C)
+On top of that, the school uniforms had apparently been designed by%N
+some famous designer. A ton of shallow-ass girls enrolled just so%N
+that they could wear it.
+<END>
+
+#WRITE(PTR, $000029AC)
+And while they called it a prep school, most students here didn’t%N
+score much higher than the national average.
+<END>
+
+#WRITE(PTR, $000029BC)
+Even more ironic, though, was that the school slogan was%N
+“Here You’ll Be Free,” and yet the school rules were actually%N
+really strict.
+<END>
+
+#WRITE(PTR, $000029CC)
+Then again, they never actually bothered enforcing those rules.%K
+<LINE>
+So I guess the slogan wasn’t really wrong in the end.
+<END>
+
+#WRITE(PTR, $000029DC)
+I mean, I barely ever showed up, and I passed my classes just%N
+fine. If you could get away with that, you could probably get%N
+away with anything.
+<END>
+
+#WRITE(PTR, $000029EC)
+As I closed in on the school, I could hear the other students%N
+more and more clearly.%N
+I wasn’t good at dealing with crowds, so I just kept my head%N
+low as I slipped through the gate.
+<END>
+
+#WRITE(PTR, $00002A5E)
+*Nobody talk to me.* *Nobody talk to me.*%N
+I repeated those words in my head like a mantra.
+<END>
+
+#WRITE(PTR, $00002A6E)
+My younger sister also attended this school,%N
+though she still lived with my parents.
+<END>
+
+#WRITE(PTR, $00002A7E)
+Run into her, and any perfectly fine day could%N
+turn into a nightmare.
+<END>
+
+#WRITE(PTR, $00002B3E)
+Luckily, I hadn’t run into *her* this time;%N
+I made it to class safe and sound.
+<END>
+
+#WRITE(PTR, $00002C40)
+I rushed over to my seat,%N
+being extra careful not to make eye contact with anyone.
+<END>
+
+#WRITE(PTR, $00002C50)
+I could feel a nearby group of girls shoot a glance at me,%N
+but thankfully, they went right back to chatting afterward.
+<END>
+
+#WRITE(PTR, $00002C60)
+They all thought I was a freak. I was sure of it.
+<END>
+
+#WRITE(PTR, $00002C70)
+Well, from my point of view,%N
+you 3D sluts are the real freaks here.
+<END>
+
+#WRITE(PTR, $00002C80)
+If you think I’m a freak, then don’t look at me.
+<LINE>
+Just pretend like I’m not here. Don’t acknowledge me at all.
+<END>
+
+#WRITE(PTR, $00002C90)
+If you all just do that, then I won’t bother you either,%N
+and I can go about my day in peace.
+<END>
+
+#WRITE(PTR, $00002CA0)
+That’s why it always confuses me when I see DQNs calling people%N
+freaks. I just don’t get it.
+<END>
+
+#WRITE(PTR, $00002CB0)
+If you think they’re such a freak, then why even bother talking%N
+to them? Just stay in your corner, and they’ll stay in theirs.
+<END>
+
+#WRITE(PTR, $00002D26)
+Regardless, I was just sitting there,%N
+looking down at my desk, when...
+<END>
+
+#WRITE(PTR, $00002DB6)
+【三住】
+“Yo, Taku!”
+<END>
+
+#WRITE(PTR, $00002DC6)
+...someone suddenly clapped me on the back.
+<END>
+
+#WRITE(PTR, $00002DD6)
+Startled, I turned to look behind me.
+<END>
+
+#WRITE(PTR, $00002E28)
+【三住】
+“Didn’t know you were comin’ in today.”
+<END>
+
+#WRITE(PTR, $00002E38)
+【拓巳】
+“O-Oh, Misumi-kun...”
+<END>
+
+#WRITE(PTR, $00002E48)
+It was Misumi Daisuke, one of my classmates.%N
+He shot me a friendly smile from beside my desk.
+<END>
+
+#WRITE(PTR, $00002E58)
+The guy was pretty handsome, so all the girls were into him.%N
+But he was also into them, and dated them. A lot of them.%N
+Usually multiple at a time.%N
+If you asked me, he was balls-deep into DQN territory.
+<END>
+
+#WRITE(PTR, $00002E68)
+If it were up to me, I’d steer clear of him, but...
+<END>
+
+#WRITE(PTR, $00002EA8)
+【三住】
+“You’re lookin’ as grim as ever.%N
+ You stay up all nightplaying games again?”
+<END>
+
+#WRITE(PTR, $00002EB8)
+【拓巳】
+“N-Not really...”
+<END>
+
+#WRITE(PTR, $00002EC8)
+He was the only person in the class who was comfortable%N
+talking to me.
+<END>
+
+#WRITE(PTR, $00002ED8)
+Though we had absolutely nothing in common,%N
+so I had no idea why he bothered.
+<END>
+
+#WRITE(PTR, $00002EE8)
+I’d been suspicious about it ever since the school year began.
+<END>
+
+#WRITE(PTR, $00002EF8)
+If I were a girl, I could maybe understand,%N
+but since I was a guy, it made no sense to me.
+<END>
+
+#WRITE(PTR, $00002F38)
+【三住】
+“I know it’s hard since you’re a shut-in and all,%N
+ but you should reaaally try to speak up.”
+<END>
+
+#WRITE(PTR, $00002F48)
+I would if I could.
+<END>
+
+#WRITE(PTR, $00002F58)
+Just the act of talking to another 3D human being was painful.
+<END>
+
+#WRITE(PTR, $00002F68)
+Anxiety made it hard for me to speak naturally,
+<LINE>
+my lack of experience made it hard for me to articulate things,
+<END>
+
+#WRITE(PTR, $00002F78)
+and I was always afraid of being teased for saying something%N
+weird. That was why I always shrunk back.
+<END>
+
+#WRITE(PTR, $00002F88)
+You have no idea how much pain I’m going through,%N
+so please don’t talk like you know me...
+<END>
+
+#WRITE(PTR, $00002F98)
+Also, I’m not a goddamn shut-in. *Real* shut-ins stay in their%N
+rooms 24 hours a day, 365 days a year. I’m not like that.
+<END>
+
+#WRITE(PTR, $00002FD8)
+【三住】
+“I mean, I can understand feelin’ nervous around chicks, but%N
+ if you keep stuttering like that around *me*, people might%N
+ start thinkin’ we’re gay.”
+<END>
+
+#WRITE(PTR, $00002FE8)
+【拓巳】
+“H-Huh...?”
+<END>
+
+#WRITE(PTR, $00002FF8)
+Wait, was he just dating girls as a cover?%N
+Had he been into guys all along?!
+<END>
+
+#WRITE(PTR, $0000301A)
+I tried to back away from him, nearly falling out of my%N
+chair in the process, but I quickly grabbed on to my%N
+desk to catch myself.
+<END>
+
+#WRITE(PTR, $0000302A)
+【三住】
+“The hell’re you doin’, dude?”
+<END>
+
+#WRITE(PTR, $0000303A)
+【拓巳】
+“M-Misumi-kun... are you... gay?”
+<END>
+
+#WRITE(PTR, $0000307A)
+【三住】
+“What? No way in hell!%N
+ Did you forget all the chicks I’ve landed?”
+<END>
+
+#WRITE(PTR, $0000308A)
+【拓巳】
+“R-Right... Phew, that was terrifying...”
+<END>
+
+#WRITE(PTR, $000030CA)
+【三住】
+“Speakin’ of landin’ chicks...”
+<END>
+
+#WRITE(PTR, $000030DA)
+Misumi-kun took a quick look around,%N
+then lowered his voice and grinned from ear to ear.
+<END>
+
+#WRITE(PTR, $000030EA)
+【三住】
+“I just bagged my third girl from this class.%N
+ Wanna know who?”
+<END>
+
+#WRITE(PTR, $000030FA)
+【拓巳】
+“N-Not really, no...”
+<END>
+
+#WRITE(PTR, $0000310A)
+【三住】
+“Come on, you can at least pretend to care.%N
+ It was Tanaka, man. *Tanaka.*”
+<END>
+
+#WRITE(PTR, $0000311A)
+【拓巳】
+“...Who’s Tanaka?”
+<END>
+
+#WRITE(PTR, $0000315A)
+【三住】
+“Do you seriously not know the names of our classmates by now?%N
+ It’s nearly October, dude.”
+<END>
+
+#WRITE(PTR, $0000316A)
+【三住】
+“Well, you say you’re not into 3D girls,%N
+ so I guess it makes sense.”
+<END>
+
+#WRITE(PTR, $0000317A)
+Visibly frustrated,%N
+he shrugged his shoulders and let out a sigh.
+<END>
+
+#WRITE(PTR, $0000318A)
+Well, interestingly enough, he never insulted my taste in%N
+girls—which was, to put it simply, that they had to be from%N
+the second dimension.
+<END>
+
+#WRITE(PTR, $0000319A)
+But he’d never called me a freak for that—he just didn’t%N
+bother with things that didn’t interest him.
+<END>
+
+#WRITE(PTR, $000031AA)
+That was what made me think he may not’ve been all that bad.%N
+That was also probably the reason why I didn’t mind talking%N
+to him. 
+<END>
+
+#WRITE(PTR, $000031EA)
+【三住】
+“Anyway, I’ve pretty much scored on every cute girl in this%N
+ class by now.”
+<END>
+
+#WRITE(PTR, $000031FA)
+【三住】
+“I think it’s about time I start headin’ next door.”
+<END>
+
+#WRITE(PTR, $0000320A)
+...Okay, maybe he *was* pretty bad.
+<LINE>
+If a girl overheard some of the shit he said,%N
+she’d be horrified.
+<END>
+
+#WRITE(PTR, $0000324A)
+【三住】
+“There’s a real hot one in Class D, but it%N
+ doesn’t look like she comes to school much.”
+<END>
+
+#WRITE(PTR, $0000325A)
+【三住】
+“Ain’t got much in the chest though.”
+<END>
+
+#WRITE(PTR, $0000326A)
+【三住】
+“Now that I think about it, though,%N
+ aren’t you into flat girls anyway?”
+<END>
+
+#WRITE(PTR, $0000327A)
+...Are you talking about 2D? That’s not... Whatever.
+<END>
+
+#WRITE(PTR, $000032BA)
+【三住】
+“All right, all right. New topic.”
+<END>
+
+#WRITE(PTR, $000032D0)
+【三住】
+“Have you heard about New Gen?”
+<END>
+
+#WRITE(PTR, $000032EC)
+I hadn’t expected to hear those words come out of his mouth.%K
+<LINE>
+And here I’d thought he was only capable of thinking about%N
+girls.
+<END>
+
+#WRITE(PTR, $000032FC)
+I couldn’t even picture him watching the news%N
+or reading the newspaper.
+<END>
+
+#WRITE(PTR, $0000330C)
+【三住】
+“There’s been some rumors that the Group Dive wasn’t actually a%Nsuicide.”
+<END>
+
+#WRITE(PTR, $0000331C)
+【拓巳】
+“O-Oh...?”
+<END>
+
+#WRITE(PTR, $0000332C)
+【三住】
+“Yeah. That’s what Sports Tokyo said.”
+<END>
+
+#WRITE(PTR, $00003354)
+What, so his 
+<DICT>
+source
+</DICT>
+ was Sports Tokyo?
+<LINE>
+That kinda erased any and all credibility.
+<END>
+
+#WRITE(PTR, $0000336C)
+Still, I’d already known about that rumor.%N
+Not that I cared.
+<END>
+
+#WRITE(PTR, $0000337C)
+【三住】
+“Okay, now listen closely, this is the good part—an%N
+ eyewitness said that the killer’s a chick, and a real%N
+ hottie at that, too.”
+<END>
+
+#WRITE(PTR, $0000338C)
+【拓巳】
+“A chick...?”
+<END>
+
+#WRITE(PTR, $0000339C)
+Watching Misumi-kun get so excited, it finally hit me.%K
+<LINE>
+Why did he suddenly care enough to read Sports Tokyo?
+<END>
+
+#WRITE(PTR, $000033AC)
+Same reason he cared about anything else—something to%N
+do with girls. What a twist.
+<END>
+
+#WRITE(PTR, $000033BC)
+I guess Misumi-kun would even go after serial killers,%N
+as long as they were cute...
+<END>
+
+#WRITE(PTR, $000033CC)
+I mean, if it were me, I’d take a cute *2D* serial%N
+killer, but...
+<END>
+
+#WRITE(PTR, $000033E4)
+Misumi-kun stared longingly at the blue sky%N
+outside the window.
+<END>
+
+#WRITE(PTR, $000033F4)
+Then, for some reason, his face suddenly lit up%N
+as if he’d reached enlightenment itself.
+<END>
+
+#WRITE(PTR, $00003404)
+【三住】
+“Really though, I wonder what kinda person the murderer is. 
+<LINE>
+ Is she really a cutie? If she is, then I *really* wanna%N
+ meet her.”
+<END>
+
+#WRITE(PTR, $00003414)
+Yeah, this dude definitely thought exclusively with the%N
+wrong head.
+<END>
+
+#WRITE(PTR, $00003424)
+【三住】
+“I know she wouldn’t kill me. I mean, look at me. I’ve got the%Nlooks, and chicks dig me. No matter how many people she’s killed,%Nshe’d definitely fall in love with a nice guy like me.”
+<END>
+
+#WRITE(PTR, $00003434)
+And *that’s* why she wouldn’t kill you...?
+<END>
+
+#WRITE(PTR, $00003444)
+This guy was so delusional that he gave *me* a run for my money.
+<END>
+
+#WRITE(PTR, $00003454)
+The fact that he was able to say all that without even a hint of%Nirony was honestly pretty gross.
+<END>
+
+#WRITE(PTR, $00003464)
+【拓巳】
+“I-I... don’t really care...”
+<END>
+
+#WRITE(PTR, $000034A4)
+【三住】
+“The hell do you mean you ‘don’t really care’? You know the killer%Nis somewhere in this city, right? It might even be someone you’ve%Nmet before.”
+<END>
+
+#WRITE(PTR, $000034B4)
+Yeah, well, for all I know, *you* could be the murderer.
+<END>
+
+#WRITE(PTR, $000034C4)
+...Okay, probably not. But it was entirely possible that the%Nkiller could be one of the students at this very school...
+<END>
+
+#WRITE(PTR, $000034EC)
+If that turned out to be true, maybe I’d use my “
+<DICT>
+PTSD
+</DICT>
+” as an%Nexcuse to come in less often without hurting my attendance.
+<END>
+
+#WRITE(PTR, $00003534)
+【三住】
+“So, wanna check out the crime scene with me?%NIt’s close enough to walk to from here.%NI hear they haven’t even finished cleaning up the blood yet.”
+<END>
+
+#WRITE(PTR, $00003544)
+I had absolutely zero interest in doing that.
+<END>
+
+#WRITE(PTR, $00003554)
+I just wanted to get through school in peace, go home, greet%NSeira-tan, and get back to being worshipped like a god in Baselard.
+<END>
+
+#WRITE(PTR, $00003564)
+【三住】
+“C’mon, even Kobashi and Hasegawa have gone to see it.”
+<END>
+
+#WRITE(PTR, $00003574)
+【拓巳】
+“I really don’t want to...”
+<END>
+
+#WRITE(PTR, $0000375C)
+I felt bad about turning Misumi-kun down, since he seemed%Nso excited about it, but I really *did not* want to go.
+<END>
+
+#WRITE(PTR, $0000376C)
+But even though I was trying my hardest to refuse,
+<LINE>
+he just wasn’t listening.
+<END>
+
+#WRITE(PTR, $0000377C)
+【三住】
+“Maybe we’ll even see the murderer.
+<LINE>
+They say the criminal always returns to the scene of the%N
+crime, right?”
+<END>
+
+#WRITE(PTR, $0000378C)
+【三住】
+“Heh, maybe she’d pick you as her next victim. ‘To atone%N
+ for your sins, you must DIE!’ Y’know, that kinda thing.%N
+ As for your sins, though... hmm... being a shut-in!”
+<END>
+
+#WRITE(PTR, $0000379C)
+【拓巳】
+“...”
+<END>
+震
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

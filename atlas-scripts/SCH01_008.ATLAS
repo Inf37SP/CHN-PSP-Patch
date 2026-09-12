@@ -1,0 +1,423 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00000C8E)
+
+#WRITE(PTR, $0000003A)
+１章エンドフラグ①有り
+<END2>
+
+#WRITE(PTR, $00000044)
+１章エンドフラグ①無し
+<END2>
+
+#WRITE(PTR, $00000080)
+梨深ルート有り
+<END2>
+
+#WRITE(PTR, $0000008A)
+梨深ルート無し
+<END2>
+
+#WRITE(PTR, $000000E4)
+優愛ルート有り
+<END2>
+
+#WRITE(PTR, $000000EE)
+優愛ルート無し
+<END2>
+
+#WRITE(PTR, $000001E2)
+I was completely winded. My lungs struggled to shovel air in and%Nout, and my agonized panting echoed throughout my room.
+<END>
+
+#WRITE(PTR, $000001F2)
+I plopped down in my computer chair.
+<LINE>
+My body and clothes were completely drenched in sweat.
+<END>
+
+#WRITE(PTR, $00000202)
+What the *fuck* had just happened?
+<LINE>
+Another one of my delusions?
+<END>
+
+#WRITE(PTR, $00000212)
+My nausea was becoming unbearable. Trying to alleviate it,%NI grabbed a Cola from the fridge and chugged it as fast as I could.
+<END>
+
+#WRITE(PTR, $00000222)
+That delusion was way too realistic—even for my usual%Nstandards—and boy, was it gruesome. Too gruesome.
+<END>
+
+#WRITE(PTR, $00000232)
+I was *still* out of breath.%NCould a simple delusion really do this to me?
+<LINE>
+...No, it definitely couldn’t.
+<END>
+
+#WRITE(PTR, $00000242)
+I felt an uncomfortable sensation in my right hand.
+<LINE>
+I’d been clenching my fist so hard, my fingers had nearly turned %Nwhite.
+<LINE>
+I hadn’t even noticed until just now.
+<END>
+
+#WRITE(PTR, $00000252)
+I slowly opened my hand, one finger at a time, all while my heart%Npounded like a drum.
+<END>
+
+#WRITE(PTR, $000002B8)
+【拓巳】
+“Eek...!”
+<END>
+
+#WRITE(PTR, $000002C8)
+Lying in the palm of my hand... was a single stake.
+<END>
+
+#WRITE(PTR, $00000392)
+Terrified by the sight of it, I instinctively turned and threw it%Nagainst the wall.
+<END>
+
+#WRITE(PTR, $00000404)
+That was the stake from before...!
+<LINE>
+Well, I definitely *did* pick one up off the ground earlier, but...
+<END>
+
+#WRITE(PTR, $00000414)
+How was that even possible?
+<LINE>
+Hadn’t it all been just a delusion?!
+<END>
+
+#WRITE(PTR, $00000424)
+I don’t know, I don’t know, I don’t know!%NIt can’t be possible!
+<LINE>
+It can’t be, it can’t be, it can’t be!
+<END>
+
+#WRITE(PTR, $000004D0)
+At my wits’ end, I started pacing around my room. I needed to figure out whether that nightmare had been real, or just another%Ndelusion.
+<END>
+
+#WRITE(PTR, $00000534)
+That was the plan, at least, until I slipped on a CD case and lost%Nmy balance. In a panic, I reached out for something to keep myself%Nfrom falling flat on the floor.
+<END>
+
+#WRITE(PTR, $00000544)
+I barely managed to find something to latch on to, but%Nunfortunately, that “something” was my shelf of waifus.
+<END>
+
+#WRITE(PTR, $000005AA)
+Before I had the chance to regret it, it was already too late.
+<END>
+
+#WRITE(PTR, $000005BA)
+In the end, no matter how hard I tried, I wasn’t able to stop myself from falling ass-first onto the floor.%NAnd to make matters worse, several of my beautifully arranged%Nfigures came tumbling down on top of me.
+<END>
+
+#WRITE(PTR, $000005CA)
+Ugh... Goddammit...
+<LINE>
+This was the worst. Everything about this was just the worst...
+<END>
+
+#WRITE(PTR, $00000624)
+I let out a groan as I rose to my feet. I had to make sure my%Nfigures were safe.
+<END>
+
+#WRITE(PTR, $0000067E)
+【拓巳】
+“Aauugh! Ignis-tan from Jingai Makyo! Your swooord...!”
+<END>
+
+#WRITE(PTR, $0000068E)
+It’d snapped clean in two.
+<LINE>
+Why did it have to be one of the expensive ones? I’d paid a%Npremium online for this!
+<END>
+
+#WRITE(PTR, $000006AE)
+【拓巳】
+“God damn it! You’ve gotta be fucking kidding me!”
+<END>
+
+#WRITE(PTR, $000006BE)
+I tried putting the two halves of the blade back together, but I’d%Nnever be able to fix it perfectly, even if I used glue. Any value%Nit’d once had was now gone.
+<END>
+
+#WRITE(PTR, $000006CE)
+【拓巳】
+“Gimme a fucking break! Fuck, fuck, fuck, fuck, FUCK!”
+<END>
+
+#WRITE(PTR, $000006EA)
+I turned to my chair and kicked it out of sheer rage.
+<LINE>
+Tears began to well up in my eyes.
+<END>
+
+#WRITE(PTR, $000006FA)
+Why did I have to go through all this? What had I ever done to%Ndeserve this?!
+<END>
+
+#WRITE(PTR, $0000070A)
+I fell to the floor and just sat there for a while, heartbroken,%Nstaring dejectedly at my now-swordless Ignis-tan.
+<END>
+
+#WRITE(PTR, $00000782)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00000792)
+Once the storm of anger and confusion had passed,
+<LINE>
+I found my mind filling with visions of “her” face, along with%Nthat “modern art” I’d seen.
+<END>
+
+#WRITE(PTR, $000007A2)
+I had actually been physically holding one of those stakes.
+<LINE>
+Which meant it couldn’t’ve been a delusion. It had all been real.
+<END>
+
+#WRITE(PTR, $000007B2)
+I really wanted to deny it, but there was no way I could.
+<LINE>
+By tomorrow, it was sure to be all over the media.
+<END>
+
+#WRITE(PTR, $000007C2)
+I really, *really* didn’t want anything to do with this nightmare.
+<END>
+
+#WRITE(PTR, $000007D2)
+There was no way associating with that “girl”—no, that%N*demon*—could bring anything but catastrophe for me.
+<END>
+
+#WRITE(PTR, $000007E2)
+Hell, we’d only just met for the first time, and there had already%Nbeen a disaster.
+<END>
+
+#WRITE(PTR, $000007F2)
+After all, I’d brought home a critical piece of evidence from that%Nincident: one of the stakes that’d been used in the murder.
+<LINE>
+I wouldn’t be surprised if that on its own was enough to make me%Na suspect.
+<END>
+
+#WRITE(PTR, $00000802)
+And... And if things weren’t already bad enough, that demon had%Nseen my face...
+<END>
+
+#WRITE(PTR, $00000812)
+There was no way out of this mess...
+<LINE>
+At this rate, I was going to... that demon was going to...
+<END>
+
+#WRITE(PTR, $00000822)
+No, forget about that. For now, I should focus on getting things%Nsorted in my head. For my own sake.
+<LINE>
+If I valued my own life, I really needed to figure things out...
+<END>
+
+#WRITE(PTR, $0000093E)
+【拓巳】
+“No doubt about it.”
+<END>
+
+#WRITE(PTR, $0000094E)
+【拓巳】
+“That picture must have been some sort of advance notice for the%Nmurder.”
+<END>
+
+#WRITE(PTR, $0000095E)
+Otherwise, there’d be no way the image could have matched up so%Nperfectly with the crime scene.
+<END>
+
+#WRITE(PTR, $0000096E)
+First she’d edited that image together, then she’d recreated it in%Nreal life, right down to the finest detail.%NThat was how the crime had happened. ...No, in her eyes, I bet it%Nwas more of a “work of art” than a “crime.”
+<END>
+
+#WRITE(PTR, $0000097E)
+She seemed like that kind of psycho—dedicated to finishing any%Njob with nothing but sheer perfection.
+<END>
+
+#WRITE(PTR, $0000098E)
+【拓巳】
+“She’s fucked up in the head...”
+<END>
+
+#WRITE(PTR, $0000099E)
+【拓巳】
+“But why show that picture to *me*...? And wait, how did she know%NI was Neidhardt? And how the hell did she know my real name?!”
+<END>
+
+#WRITE(PTR, $000009AE)
+Uuugh... What was I supposed to do...?
+<END>
+
+#WRITE(PTR, $000009BE)
+That demon would definitely come to kill me soon.
+<LINE>
+If she already knew my name, e-mail, and all that stuff, then there was a very good chance she knew my home address too.
+<END>
+
+#WRITE(PTR, $000009CE)
+I curled up into the fetal position in my chair.
+<LINE>
+The image of that twisted murder was etched into my mind. How could I stay calm when I could end up that way too?
+<END>
+
+#WRITE(PTR, $000009DE)
+【拓巳】
+“I don't wanna die! I don't wanna die! I don't wanna die!%NI don't wanna die! I don't wanna die! I don't wanna die―”%K%P
+<END>
+
+#WRITE(PTR, $000009F2)
+DELUS_IN.PMF
+<END2>
+
+#WRITE(PTR, $00000A7E)
+【星来】
+“Don’t worry, it’s gonna be A-okay!”
+<END>
+
+#WRITE(PTR, $00000A8E)
+【拓巳】
+“Huh?”
+<END>
+
+#WRITE(PTR, $00000AF8)
+Seira-tan lay sideways on my desk, facing toward me with a smile.
+<END>
+
+#WRITE(PTR, $00000B08)
+【星来】
+“Takki, all ya gotta do is hole yourself up in this nice little%Nroom! Just do that, and then the big scary demon can’t do nothin’%Nto ya!”
+<END>
+
+#WRITE(PTR, $00000B18)
+【星来】
+“She’ll get caught by the police any day now, anyway♪”
+<END>
+
+#WRITE(PTR, $00000B28)
+【星来】
+“Till then, ya can’t trust anyone! Don’t listen to *anythin’* that%N*anyone* says!”
+<END>
+
+#WRITE(PTR, $00000B38)
+【星来】
+“Y’see, the thing about demons is that they looove takin’ advantage of the weakness in people’s hearts. So lettin’ your guard down is a big no-no!”
+<END>
+
+#WRITE(PTR, $00000B48)
+【星来】
+“I know ya can make it through this, Takki!”
+<END>
+
+#WRITE(PTR, $00000B58)
+【拓巳】
+“But, Seira...”
+<END>
+
+#WRITE(PTR, $00000B68)
+【星来】
+“‘He who runs away lives to fight another day.’ I think there was a%Nsayin’ that went like that, right?”
+<END>
+
+#WRITE(PTR, $00000B78)
+【星来】
+“You should just forget aaall about the 3D world. Just keep tellin’ yourself, ‘It’s got nothin’ to do with me,’ and you’ll feel muuuuuch%Nbetter!”
+<END>
+
+#WRITE(PTR, $00000B88)
+【星来】
+“’Cuz if it’s got nothin’ to do with ya, then there’s no need to%Nworry about it, riiiight?”%K%N“In fact, lemme teach you somethin’ you’re really gonna like.”
+<END>
+
+#WRITE(PTR, $00000B98)
+【星来】
+“Didja know that shut-ins are the strongest people in the world?%NI mean, they never ever see anyone at all, so they can never ever%Nbe attacked by anyone! That means their self-defense is the%Nsuper-strongest!”
+<END>
+
+#WRITE(PTR, $00000BA8)
+【星来】
+“So Takki, all you hafta do is become a complete shut-in.%NSimple, right?”
+<END>
+
+#WRITE(PTR, $00000BB8)
+【拓巳】
+“...Y-You might be right.”
+<END>
+
+#WRITE(PTR, $00000BC8)
+Just what I’d expect from my waifu. I could always count on her to%Ngive me the best advice.
+<END>
+
+#WRITE(PTR, $00000BD8)
+Having regained my peace of mind, I reached out my hand for%NSeira-tan, lightly grasping her by her slim waist.%NEven as our faces drew closer, her smile never wavered.
+<END>
+
+#WRITE(PTR, $00000BE8)
+【拓巳】
+“Thank you, Seira. I’m feeling a lot better now, all thanks to you.”
+<END>
+
+#WRITE(PTR, $00000BF8)
+【拓巳】
+“And y’know what? You’re right. The 3D world can eat shit! And as%Nfor that demon girl, I’ll bet she doesn’t care that some otaku%Nfreak like me saw her anyway!”
+<END>
+
+#WRITE(PTR, $00000C08)
+【拓巳】
+“I’m perfectly safe. I can just live on in peace, playing ESO,%Nwatching my favorite anime, or whatever else, and everything will%Nbe just fine.”
+<END>
+
+#WRITE(PTR, $00000C18)
+【星来】
+“Just remember what I said before, Takki—never let your guard%Ndown, y’hear?!”
+<END>
+
+#WRITE(PTR, $00000C28)
+【拓巳】
+“Yeah, I know.”
+<END>
+
+#WRITE(PTR, $00000C38)
+I couldn’t trust anyone.%NI wouldn’t listen to a single word they had to say.
+<END>
+
+#WRITE(PTR, $00000C48)
+All I had to do was be cautious of everything in the 3D world.
+<LINE>
+As long as I did that, everything would be just fine.
+<END>
+
+#WRITE(PTR, $00000C58)
+【拓巳】
+“I’m so glad you care *that* much about me, Seira. Fuhihi.”
+<END>
+
+#WRITE(PTR, $00000C68)
+【拓巳】
+“Well then, time to play some ESO and get some life back in me!”
+<END>
+瑞M
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
+
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

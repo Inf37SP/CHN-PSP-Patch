@@ -1,0 +1,158 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00000720)
+
+#WRITE(PTR, $00000092)
+My mental state had been on the up and up lately, but the moment%NI stepped outside, it all came crashing down again.
+<LINE>
+Dammit, why did I have to go to school today? It was so early...
+<END>
+
+#WRITE(PTR, $000000A2)
+【拓巳】
+“Why today...? This is the worst...”
+<END>
+
+#WRITE(PTR, $000000B2)
+But it wasn’t like I could just take the day off. If I did, my%NMinimum Attendance Chart would get all thrown off, and then%NI wouldn’t be able to graduate.
+<END>
+
+#WRITE(PTR, $000000C2)
+【拓巳】
+“Everyone always talks about graduation, graduation... but what’s%Nthe point? What am I graduating *from,* really?”
+<END>
+
+#WRITE(PTR, $000000D2)
+I was the one insisting on going through with it, but I still%Ncouldn’t help but complain.
+<END>
+
+#WRITE(PTR, $00000134)
+As I approached the wealthy district of Shoto,%NI finally realized...
+<LINE>
+I had been feeling a gaze for a while now.
+<END>
+
+#WRITE(PTR, $00000144)
+But this wasn’t the usual “God’s gaze”—I didn’t feel any shivers on the back of my neck.
+<END>
+
+#WRITE(PTR, $000002AA)
+As I turned the corner, I took a quick, tiny glance behind me...%Nand I caught a glimpse of a girl wearing a Suimei uniform.
+<END>
+
+#WRITE(PTR, $000002BA)
+No way... Was it the demon from yesterday?!
+<END>
+
+#WRITE(PTR, $000002CA)
+I instantly lost my composure.
+<LINE>
+An extreme amount of tension overtook my body, and my walking%Nbecame stilted.
+<END>
+
+#WRITE(PTR, $000002DA)
+A moment ago, it was a quiet morning like any other, but now, it%Nfelt like the entire world was out to get me.
+<END>
+
+#WRITE(PTR, $000002EA)
+I could faintly hear the sound of birds chirping atop the phone%Nlines, and I could also hear music from the morning news playing in nearby homes.
+<END>
+
+#WRITE(PTR, $000002FA)
+In a peaceful scene like this—where crime would seem totally out%Nof place—I came close to imagining myself getting brutally%Nmurdered.
+<END>
+
+#WRITE(PTR, $0000030A)
+Okay, I needed to calm down...
+<END>
+
+#WRITE(PTR, $0000031A)
+It wasn’t like I’d clearly seen her face or anything.
+<LINE>
+And there was nothing strange about seeing Suimei students walking%Nbehind me. We were headed for the same destination, after all.
+<END>
+
+#WRITE(PTR, $0000032A)
+...I would be fine.
+<END>
+
+#WRITE(PTR, $0000039C)
+Even though school was straight ahead, I decided to take a hard%Nright.
+<END>
+
+#WRITE(PTR, $000003AC)
+I was worried about what could be behind me, but I desperately%Nsuppressed the urge to turn around. I needed to keep my cool and%Nact natural.
+<END>
+
+#WRITE(PTR, $000003BC)
+My heart was pounding, but I kept walking.
+<LINE>
+I continued for about a minute or so, until I decided I couldn’t%Ntake it anymore.
+<END>
+
+#WRITE(PTR, $00000522)
+【拓巳】
+“...!”
+<END>
+
+#WRITE(PTR, $00000532)
+We made eye contact for a second, but I panicked and turned back%Naround.
+<END>
+
+#WRITE(PTR, $00000542)
+Why was she following me?!
+<END>
+
+#WRITE(PTR, $00000552)
+This path was obviously the long way to school.
+<END>
+
+#WRITE(PTR, $00000562)
+That meant she had to be tailing me...
+<LINE>
+Either way, I’d never seen her before. She definitely wasn’t the%Ndemon from yesterday, that was for sure—she was wearing glasses, and the demon girl hadn’t been.
+<END>
+
+#WRITE(PTR, $00000572)
+That fact alone was enough to calm me down.
+<END>
+
+#WRITE(PTR, $00000582)
+I decided to just head straight for school. I’d have to skip my%Nroutine breakfast at the park because of it, but oh well.
+<END>
+
+#WRITE(PTR, $00000592)
+【拓巳】
+“Go fuck yourself, Girl A...!”
+<END>
+
+#WRITE(PTR, $000005A2)
+To me, you’re just some background character. “Pedestrian 1” or%N“Girl A.” So stay out of my way, goddammit!
+<END>
+
+#WRITE(PTR, $00000678)
+After I entered the school, “Girl A” disappeared.
+<END>
+
+#WRITE(PTR, $00000688)
+I’d expected her to continue tailing me, but instead,
+<LINE>
+she turned and headed toward the third year classrooms.
+<END>
+
+#WRITE(PTR, $00000698)
+Maybe she was never tailing me in the first place.%NMaybe I was just overthinking it.
+<LINE>
+But still, it was definitely weird that she’d taken the same detour that I had.
+<END>
+
+#WRITE(PTR, $000006A8)
+Did she hate me for some reason?%NHad I done something to piss her off?%NI didn’t *think* so... No, I couldn’t have. I hardly ever went to%Nschool, and when I did, I tried to keep my presence very minimal.
+<END>
+
+#WRITE(PTR, $000006B8)
+So then what the hell was she trying to accomplish...?
+<FILEEND50>

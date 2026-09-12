@@ -1,0 +1,572 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00001A8E)
+
+#WRITE(PTR, $00000C58)
+%L1
+<END2>
+
+#WRITE(PTR, $00000C5E)
+%T1　
+【%T2】
+<END2>
+
+#WRITE(PTR, $00000C64)
+%L1
+<END2>
+
+#WRITE(PTR, $00000C80)
+<LINE>
+<LINE>
+<LINE>
+Miradas caen desde el cielo. %T120%P
+<END2>
+
+#WRITE(PTR, $00000C94)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000CA4)
+Esos ojos siempre me están mirando. %T060
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000CB4)
+Una mirada que atraviesa las nubes de lluvia,
+densas y oscuras. %T120
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000CC4)
+Caen sobre mí como la lluvia. %T180%P
+<END2>
+
+#WRITE(PTR, $00000CEA)
+<LINE>
+<LINE>
+<LINE>
+――No me observen. %T120
+<END2>
+
+#WRITE(PTR, $00000D2A)
+%O060
+<END2>
+
+#WRITE(PTR, $00000D44)
+<LINE>
+<LINE>
+<LINE>
+Más que por el frío de la lluvia, es por el frío de
+los escombros en los que apoyo la espalda...
+<LINE>
+...que mi cuerpo no ha parado de temblar desde hace un rato. %T120%P
+<END2>
+
+#WRITE(PTR, $00000D54)
+<LINE>
+<LINE>
+<LINE>
+Tengo un frío... insoportable... %T120%P
+<END2>
+
+#WRITE(PTR, $00000D64)
+<LINE>
+<LINE>
+<LINE>
+Me atraviesan miradas provenientes del cielo, sin
+<LINE>
+que sepa de quién son. %T060%P
+<END2>
+
+#WRITE(PTR, $00000D74)
+<LINE>
+<LINE>
+<LINE>
+Como intentando huir de ellas...
+<LINE>
+...levanto levemente la cabeza y miro a
+<LINE>
+mi alrededor. %T120%P
+<END2>
+
+#WRITE(PTR, $00000ECA)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000EDA)
+Frente a mí solo hay una ciudad en ruinas―― %T060
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000EEA)
+Frente a mí solo hay desesperación―― %T060%P
+<END2>
+
+#WRITE(PTR, $00000F02)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000F12)
+Frente a mí solo hay muerte―― %T090
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000F22)
+Frente a mí solo hay la nada―― %T180%P
+<END2>
+
+#WRITE(PTR, $00000F3A)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000F4A)
+No queda nadie. %T060
+<END2>
+
+#WRITE(PTR, $00000F5A)
+Nadie da señales de vida. %T060
+<END2>
+
+#WRITE(PTR, $00000F6A)
+<LINE>
+Nadie... ha quedado con vida. %T120
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000F7A)
+Solo se escucha el constante caer de la lluvia. %T120%P
+<END2>
+
+#WRITE(PTR, $00000F92)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000FA2)
+Que así, con todo―― %T120
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000FB2)
+tanto lo que vive como lo que está muerto... %T060
+<LINE>
+<END2>
+
+#WRITE(PTR, $00000FC2)
+¿acaso terminará envolviéndolo suavemente hasta
+<LINE>
+lavarlo por completo? %T180%P
+<END2>
+
+#WRITE(PTR, $00001010)
+<LINE>
+<LINE>
+<LINE>
+Ojalá todo esto hubiera sido una simple ilusión,
+<LINE>
+pero parece que no es el caso―― %T090
+<END2>
+
+#WRITE(PTR, $000010DA)
+%O060
+<END2>
+
+#WRITE(PTR, $000010F8)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $00001108)
+El cuerpo... no me responde. %T090
+<END2>
+
+#WRITE(PTR, $00001118)
+Apenas puedo mover el
+<LINE>
+cuello y la mirada. %T060
+<LINE>
+<END2>
+
+#WRITE(PTR, $00001128)
+Mi cuerpo está temblando, pero no es más que una
+<LINE>
+simple reacción física. %T120%P
+<END2>
+
+#WRITE(PTR, $00001140)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $00001150)
+No es por mi voluntad.
+<LINE>
+Yo no estoy eligiendo temblar. %T120
+<LINE>
+<END2>
+
+#WRITE(PTR, $00001160)
+Si no puedo obedecer a mi voluntad,
+<LINE>
+esto no es mi cuerpo. %T120%P
+<END2>
+
+#WRITE(PTR, $00001178)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $00001188)
+O tal vez... jamás he sido libre, ni siquiera desde el día en que nací. %T060
+<LINE>
+<END2>
+
+#WRITE(PTR, $00001198)
+Nadie sabe en qué lugar está resguardada el alma. %T120%P
+<END2>
+
+#WRITE(PTR, $000011AC)
+<LINE>
+<LINE>
+<LINE>
+Y aun así... ¿quién podría afirmar con certeza
+<LINE>
+que mi alma está dentro de este cuerpo? %T240%P
+<END2>
+
+#WRITE(PTR, $000011BC)
+<LINE>
+<LINE>
+<LINE>
+Pero――%T120%P
+<END2>
+
+#WRITE(PTR, $000011D0)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $000011E0)
+Entonces... ¿dónde se supone que estaba yo? %T060
+<LINE>
+<END2>
+
+#WRITE(PTR, $000011F0)
+¿Acaso... estoy aquí? %T030
+<LINE>
+<END2>
+
+#WRITE(PTR, $00001200)
+¿Acaso... no estoy en ninguna parte? %T120%P
+<END2>
+
+#WRITE(PTR, $000012BA)
+<LINE>
+<LINE>
+<LINE>
+En un mundo estático, que se ha echado a perder,
+<LINE>
+de repente retumba un eco ajeno a esta lluvia
+<LINE>
+mortal. %T120%P
+<END2>
+
+#WRITE(PTR, $000012D0)
+<LINE>
+<LINE>
+<LINE>
+La única y absoluta existencia que emerge desde el seno de la nada. %T120%P
+<END2>
+
+#WRITE(PTR, $000012F2)
+<LINE>
+<LINE>
+<LINE>
+¿Quién... eres tú?%T120
+<END2>
+
+#WRITE(PTR, $000013C0)
+%O060
+<END2>
+
+#WRITE(PTR, $000013DA)
+<LINE>
+<LINE>
+<LINE>
+Si su piel se ve tan pálida es porque―― %T090%P
+<END2>
+
+#WRITE(PTR, $000013EA)
+<LINE>
+<LINE>
+<LINE>
+¿...está congelada por el frío de la lluvia?
+<LINE>
+¿O será porque ya estás muerta? %T120%P
+<END2>
+
+#WRITE(PTR, $000013FA)
+<LINE>
+<LINE>
+<LINE>
+Pero ella no estaba temblando.
+<LINE>
+Y sus ojos, casi ocultos por el flequillo―― %T060%P
+<END2>
+
+#WRITE(PTR, $000015A8)
+<LINE>
+<LINE>
+<LINE>
+――No me... mires.
+<END2>
+
+#WRITE(PTR, $00001676)
+%O060
+<END2>
+
+#WRITE(PTR, $00001690)
+<LINE>
+<LINE>
+<LINE>
+Parece desgarrada por la tristeza.
+<LINE>
+Parece poseída por la locura.
+<LINE>
+Parece no reflejar nada en absoluto. %T180%P
+<END2>
+
+#WRITE(PTR, $000016A0)
+<LINE>
+<LINE>
+<LINE>
+¿Y si――%T120%P
+<END2>
+
+#WRITE(PTR, $000016B4)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $000016C4)
+...en el mundo solo existiéramos ella y yo? %T060
+<LINE>
+<END2>
+
+#WRITE(PTR, $000016D4)
+¿...y nos quedáramos así, mirándonos únicamente el uno al otro por toda la eternidad?――%T090%P
+<END2>
+
+#WRITE(PTR, $000016EC)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $000016FC)
+¿Acaso mi mundo pasaría a ser solo aquello que sus ojos reflejan?%T090
+<LINE>
+<END2>
+
+#WRITE(PTR, $0000170C)
+¿Y acaso el de ella pasaría a ser solo aquello que mis ojos reflejan? %T090%P
+<END2>
+
+#WRITE(PTR, $00001720)
+<LINE>
+<LINE>
+<LINE>
+Lo que se refleja en sus ojos soy yo.
+<LINE>
+Lo que se refleja en mis ojos es ella.
+<LINE>
+Al pensarlo así, el mundo de pronto se vuelve
+<LINE>
+insignificante. %T120%P
+<END2>
+
+#WRITE(PTR, $00001816)
+<LINE>
+<LINE>
+<LINE>
+De pronto, a mis oídos llega un ruido extrañamente hermoso―― %T120%P
+<END2>
+
+#WRITE(PTR, $0000182A)
+<LINE>
+<LINE>
+<LINE>
+<END2>
+
+#WRITE(PTR, $0000183A)
+Ella agachó la cabeza―― %T120
+<LINE>
+<END2>
+
+#WRITE(PTR, $0000184A)
+...y extendió ambos brazos a los lados―― %T120%P
+<END2>
+
+#WRITE(PTR, $0000185E)
+<LINE>
+<LINE>
+<LINE>
+...como si intentara emprender el vuelo hacia lo
+<LINE>
+alto de esas nubes de lluvia. %T120%P
+<END2>
+
+#WRITE(PTR, $0000186E)
+<LINE>
+<LINE>
+<LINE>
+O tal vez... como si quisiera acoger toda esta
+<LINE>
+lluvia entre sus brazos. %T120%P
+<END2>
+
+#WRITE(PTR, $00001902)
+INSERT01.PMF
+<END2>
+
+#WRITE(PTR, $00001926)
+Con la cabeza agachada, me resulta imposible distinguir su expresión desde mi posición.
+<END2>
+
+#WRITE(PTR, $00001930)
+Al otro lado de esa fina cortina de lluvia... ¿qué cara estarás poniendo...?
+<END2>
+
+#WRITE(PTR, $0000193A)
+¿...Un ángel?
+<END2>
+
+#WRITE(PTR, $00001944)
+¿Acaso esas plumas de luz que danzan en el aire me están bendiciendo, o tal vez...?
+<END2>
+
+#WRITE(PTR, $0000194E)
+Ah... ya veo. Ahora lo entiendo.
+<END2>
+
+#WRITE(PTR, $00001958)
+Así que es con "eso"... con lo que vas a matarme, ¿verdad...?――
+<END2>
+
+#WRITE(PTR, $00001962)
+Lentamente, ella se arrodilla ante mí, que sigo tendido en el suelo.
+<END2>
+
+#WRITE(PTR, $0000196C)
+Ella sigue con la cabeza agachada. Delicadamente, me sostiene la cabeza entre sus manos.
+<END2>
+
+#WRITE(PTR, $00001976)
+Al sentir que ella no me miraba, dejé escapar un suspiro de alivio y simplemente me entregué a su abrazo.
+<END2>
+
+#WRITE(PTR, $00001980)
+Un susurro al oído.
+<END2>
+
+#WRITE(PTR, $0000198A)
+Un ruido hermoso.
+<END2>
+
+#WRITE(PTR, $00001994)
+Pero... no puedo entender lo que dice.
+<END2>
+
+#WRITE(PTR, $0000199E)
+Una sensación cálida, suave, dulce y placentera.
+<END2>
+
+#WRITE(PTR, $000019A8)
+Era como una anestesia... Curiosamente, los temblores de mi cuerpo comenzaron a apaciguarse poco a poco.
+<END2>
+
+#WRITE(PTR, $000019B2)
+Su tenue respiración me cosquillea la mejilla. Un aroma profundamente dulce.
+<END2>
+
+#WRITE(PTR, $000019BC)
+De pronto, sentí una opresión en el pecho.
+<END2>
+
+#WRITE(PTR, $000019C6)
+La enorme espada que ella sostenía me rasga la piel del pecho, me desgaja la carne, se abre paso entre las costillas y se va hundiendo despacio en el interior de mi cuerpo.
+<END2>
+
+#WRITE(PTR, $000019D0)
+Pero, sedado por la anestesia de su beso, ya no siento dolor alguno.
+<END2>
+
+#WRITE(PTR, $000019DA)
+Porque me está matando con tanta dulzura――
+<END2>
+
+#WRITE(PTR, $000019E4)
+De pronto me invadió una profunda congoja... y las lágrimas estuvieron a punto de desbordársele a mis ojos――
+<END2>
+
+#WRITE(PTR, $000019EE)
+Tratando de ocultar esa emoción, alcé la mirada por encima de su cabeza hacia el cielo plomizo que continuaba derramando lluvia.
+<END2>
+
+#WRITE(PTR, $000019F8)
+¿Que el cielo se vea borroso... es por la lluvia, o por mis lágrimas?
+<END2>
+
+#WRITE(PTR, $00001A02)
+Esa mirada... ya no la siento.
+<END2>
+
+#WRITE(PTR, $00001A0C)
+Ya... no hay nada.
+<END2>
+
+#WRITE(PTR, $00001A16)
+Mientras mi conciencia se apaga poco a poco, alzo una mano hacia el cielo.
+<END2>
+
+#WRITE(PTR, $00001A20)
+Alguien...
+<END2>
+
+#WRITE(PTR, $00001A2A)
+dígame...
+<END2>
+
+#WRITE(PTR, $00001A34)
+¿A dónde se habrá ido aquel cielo nuestro...?――
+<END2>
+
+#WRITE(PTR, $00001A64)
+OP.PMF
+<END2>
+P
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

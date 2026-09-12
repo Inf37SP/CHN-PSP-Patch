@@ -1,0 +1,1095 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($0000348A)
+
+#WRITE(PTR, $00000256)
+ポジティブ妄想
+<END2>
+
+#WRITE(PTR, $00000260)
+ネガティブ妄想
+<END2>
+
+#WRITE(PTR, $0000026A)
+妄想しない
+<END2>
+
+#WRITE(PTR, $0000052C)
+DELUS_IN.PMF
+<END2>
+
+#WRITE(PTR, $000005EE)
+Her soft throat rose and fell seductively, pumping the soda down
+<LINE>
+with an audible “gulp, gulp, gulp.”
+<END>
+
+#WRITE(PTR, $000005FE)
+【拓巳】
+“A-At least... use a cup...”
+<END>
+
+#WRITE(PTR, $0000060E)
+Had she seriously just drunk straight from the bottle?%NEven though she was a girl?
+<LINE>
+What a disgrace. This was exactly why 3D sucked ass.
+<END>
+
+#WRITE(PTR, $00000632)
+【七海】
+“Gh...”
+<END>
+
+#WRITE(PTR, $00000642)
+As soon as Nanami finished her drink, she went right back to%Npouting like before.
+<LINE>
+Though... was it just me, or did it seem like she was blushing a%Nlittle?
+<END>
+
+#WRITE(PTR, $0000066C)
+【七海】
+“I could’ve... but what if I wanted an indirect kiss with you?”
+<END>
+
+#WRITE(PTR, $0000067C)
+【拓巳】
+“...Huh?”
+<END>
+
+#WRITE(PTR, $0000068C)
+And just like that, she’d dropped a bombshell.
+<END>
+
+#WRITE(PTR, $0000069C)
+She still kept her pouty attitude, but now she was looking straight at me.
+<END>
+
+#WRITE(PTR, $000006AC)
+I was paralyzed. My little sister was on the verge of tears, and%Nall I could do was just stand and stare.
+<END>
+
+#WRITE(PTR, $000006BC)
+H-Had I just tripped a flag...? Like some kind of eroge...?!
+<LINE>
+Was I on the little sister route?!
+<END>
+
+#WRITE(PTR, $000006CC)
+【七海】
+“Do you hate me?”
+<END>
+
+#WRITE(PTR, $000006DC)
+【七海】
+“That’d make me... really sad...”
+<END>
+
+#WRITE(PTR, $000006EC)
+【七海】
+“Just so you know, I wouldn’t do this with just anyone...”
+<END>
+
+#WRITE(PTR, $000006FC)
+Nanami’s voice gradually lowered.
+<END>
+
+#WRITE(PTR, $0000070C)
+【七海】
+“You big jerk...”
+<END>
+
+#WRITE(PTR, $0000072A)
+Her voice was a faint murmur as she hung her head in shame.%NThere wasn’t a single trace of her typical bratty attitude.
+<END>
+
+#WRITE(PTR, $0000078C)
+【七海】
+“Hey, Big Bro...”
+<END>
+
+#WRITE(PTR, $0000079C)
+【七海】
+“Indirect... wasn’t enough...”
+<END>
+
+#WRITE(PTR, $000007AC)
+Hearing that, I tried to gulp, but the saliva got caught in my%Nthroat and refused to go down.
+<END>
+
+#WRITE(PTR, $000007BC)
+And with that, I was completely cornered.
+<LINE>
+Though, I still didn’t really understand what Nanami meant.
+<END>
+
+#WRITE(PTR, $000007CC)
+【七海】
+“I want to... kiss you...”
+<END>
+
+#WRITE(PTR, $000007DC)
+【七海】
+“I want... *you*...”
+<END>
+
+#WRITE(PTR, $00000834)
+Nanami took a step closer to my petrified body.
+<END>
+
+#WRITE(PTR, $00000844)
+What should I do? I’d always seen Nanami as this obnoxious little%Nbrat, but right now...
+<END>
+
+#WRITE(PTR, $00000854)
+My heart was pounding out of my chest...
+<END>
+
+#WRITE(PTR, $00000864)
+【七海】
+“It’s okay, right...?”
+<END>
+
+#WRITE(PTR, $00000874)
+【七海】
+“I’ve already waited sixteen years for this...”
+<END>
+
+#WRITE(PTR, $00000884)
+Nanami reached her arms out and wrapped them around my neck.
+<END>
+
+#WRITE(PTR, $00000894)
+【七海】
+“Will you... kiss me...?”
+<END>
+
+#WRITE(PTR, $000008A4)
+She was almost begging.
+<LINE>
+Then, she raised her chin ever so slightly...
+<END>
+
+#WRITE(PTR, $00000906)
+...and closed her eyes.
+<END>
+
+#WRITE(PTR, $00000916)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00000926)
+And my answer was...
+<END>
+
+#WRITE(PTR, $00000BEA)
+“I’m into *older* sisters, not younger ones.”%K
+<END2>
+
+#WRITE(PTR, $00000D38)
+%P
+<END2>
+
+#WRITE(PTR, $00000FD8)
+“I like girls with flat chests.”%K
+<END2>
+
+#WRITE(PTR, $00001126)
+%P
+<END2>
+
+#WRITE(PTR, $000013C6)
+“There are 3D girls I like besides Nanami.”%K
+<END2>
+
+#WRITE(PTR, $00001514)
+%P
+<END2>
+
+#WRITE(PTR, $000017B4)
+“I admit it: Nanami is cute.”%K
+<END2>
+
+#WRITE(PTR, $00001902)
+%P
+<END2>
+
+#WRITE(PTR, $00001BA2)
+“I wanna kiss Nanami-tan!”%K
+<END2>
+
+#WRITE(PTR, $00001CF0)
+%P
+<END2>
+
+#WRITE(PTR, $00001F70)
+A-All right... Since Nanami seemed to, uh... want it so much, I’d... kiss her. I-I mean, I was a man, after all... A-And while Nanami%Nwasn’t that sexy, I w-wanted to k-kiss a real girl for once...
+<END>
+
+#WRITE(PTR, $00001F86)
+Even if it was... my little sister...
+<END>
+
+#WRITE(PTR, $00001FA0)
+【拓巳】
+“wait. that doesnt add up.”
+<END>
+
+#WRITE(PTR, $00001FB4)
+DELUS_OUT.PMF
+<END2>
+
+#WRITE(PTR, $00002048)
+J E S U S  C H R I S T .
+<END>
+
+#WRITE(PTR, $00002058)
+I’d zoned out and let my delusions run wild again. I’d never felt so disgusted with myself in my life.
+<END>
+
+#WRITE(PTR, $00002080)
+Like, 
+<DICT>
+OMG
+</DICT>
+ barf. Just totally barf.
+<END>
+
+#WRITE(PTR, $00002098)
+And then I started thinking.
+<END>
+
+#WRITE(PTR, $000020A8)
+Maybe if we weren’t blood related, and she fell a little more into%Nthe “cute little sister” archetype, I wouldn’t be such a virgin%Nloser.
+<END>
+
+#WRITE(PTR, $000020F4)
+【七海】
+“...?”
+<END>
+
+#WRITE(PTR, $00002104)
+【七海】
+“What’s wrong?”
+<END>
+
+#WRITE(PTR, $00002114)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00002124)
+After finishing her Cola, Nanami shot me a confused look.
+<END>
+
+#WRITE(PTR, $00002134)
+I’d been acting weird because of my delusion just now, and Nanami
+<LINE>
+had noticed.
+<END>
+
+#WRITE(PTR, $0000214E)
+Dammit... Who the hell did she think she was, acting like such a%Ngoddamn princess?
+<END>
+
+#WRITE(PTR, $0000215E)
+Sure, go ahead. Drink so much Cola that you destroy your stomach%Nand get sent to the emergency room.
+<LINE>
+Then I can finally relax and spend some time alone.
+<END>
+
+#WRITE(PTR, $0000216E)
+*sigh*... If only that would actually happen...
+<END>
+
+#WRITE(PTR, $0000217E)
+DELUS_IN.PMF
+<END2>
+
+#WRITE(PTR, $0000224E)
+【七海】
+“Ugh...”
+<END>
+
+#WRITE(PTR, $0000225E)
+Suddenly, Nanami let out a groan...%NAnd as soon as she did...
+<END>
+
+#WRITE(PTR, $00002286)
+...she dropped the bottle of soda, splashing Cola everywhere.
+<LINE>
+It spilled all over the manga magazines and CDs I’d left down there.
+<END>
+
+#WRITE(PTR, $00002296)
+【拓巳】
+“Wh— Don’t—!”
+<END>
+
+#WRITE(PTR, $000022A6)
+“Don’t mess up my room!” I was about to say, but then I realized%Nwhat was happening.
+<END>
+
+#WRITE(PTR, $000022B6)
+【七海】
+“Guh... uh...!”
+<END>
+
+#WRITE(PTR, $000022D2)
+Nanami’s eyes had shot wide open, and her hands were pressed%Nagainst her neck. She looked like she was in immense pain.
+<LINE>
+Her mouth repeatedly flapped open and closed like a carp.
+<END>
+
+#WRITE(PTR, $000022E2)
+【七海】
+“Gah... Aagh... Gugh...”
+<END>
+
+#WRITE(PTR, $000022F2)
+【拓巳】
+“N-Nanami...?”
+<END>
+
+#WRITE(PTR, $00002302)
+【七海】
+“N-Nanami...?”
+<END>
+
+#WRITE(PTR, $0000231E)
+She was vomiting blood. Red blood—actually, it was closer to dark%Nbrown—splashed onto the floor, mixing with the spilled Cola.
+<END>
+
+#WRITE(PTR, $0000238C)
+And then, she lost her strength and collapsed.
+<END>
+
+#WRITE(PTR, $0000239C)
+Her entire body convulsed as she writhed in agony.
+<LINE>
+She clawed at her own neck with her fingernails.
+<END>
+
+#WRITE(PTR, $000023AC)
+【七海】
+“Hahh... Gh... Aaaaagh...”
+<END>
+
+#WRITE(PTR, $000023BC)
+Her legs spasmed as she thrashed around on the floor. She didn’t%Nseem to care at all that this was causing her skirt to flip up,%Nexposing her panties.
+<END>
+
+#WRITE(PTR, $000023CC)
+This might seem a little in poor taste, but... when I saw the way%Nshe was acting, I thought that she looked just like a fish on a%Nchopping board.
+<END>
+
+#WRITE(PTR, $000023DC)
+【七海】
+“Gahh... Aaaagh...”
+<END>
+
+#WRITE(PTR, $000023EC)
+I...
+<LINE>
+I didn’t know what to do, so I just covered my ears.
+<END>
+
+#WRITE(PTR, $000023FC)
+But that didn’t help. I could still hear my sister’s dying screams.
+<END>
+
+#WRITE(PTR, $0000240C)
+【七海】
+“*cough* *cough*... Agh... *cough*... Ugh... Gah... Egh... Aughhh ... Agh... Ah...”
+<END>
+
+#WRITE(PTR, $0000241C)
+【七海】
+“*gasp*...”
+<END>
+
+#WRITE(PTR, $0000242C)
+【七海】
+“...”
+<END>
+
+#WRITE(PTR, $0000243C)
+Before long, her face was completely covered in drool, blood, and%Ntears, and her body finally stopped trembling.
+<END>
+
+#WRITE(PTR, $0000244C)
+【拓巳】
+“Nanami...?”
+<END>
+
+#WRITE(PTR, $0000245C)
+I reluctantly tried calling out to her.%NBut there was no response.%NShe was just lying there—in a pretty... compromising position.
+<END>
+
+#WRITE(PTR, $0000246C)
+The smell of ammonia hit my nose.
+<LINE>
+Had she pissed herself? ...Or had I?
+<END>
+
+#WRITE(PTR, $0000247C)
+Gently, ever so gently, I poked her shoulder.%NShe didn’t move a muscle.
+<LINE>
+Although I was a little scared,%NI gathered the courage to bring my ear near her lips.
+<END>
+
+#WRITE(PTR, $0000248C)
+She wasn’t breathing.
+<END>
+
+#WRITE(PTR, $0000249C)
+She was dead.
+<END>
+
+#WRITE(PTR, $000024AC)
+Nanami was... dead.
+<END>
+
+#WRITE(PTR, $000024BC)
+It was like she’d been poisoned.%NThe kind of thing you’d see all the time on TV.
+<END>
+
+#WRITE(PTR, $000024CC)
+And that was when it hit me.
+<LINE>
+I must have poisoned my own Cola to kill Nanami. I was sure of it.
+<END>
+
+#WRITE(PTR, $000024E2)
+【拓巳】
+“Why did I kill her?”
+<END>
+
+#WRITE(PTR, $000024F2)
+DELUS_OUT.PMF
+<END2>
+
+#WRITE(PTR, $00002586)
+【拓巳】
+“Eugh...”
+<END>
+
+#WRITE(PTR, $00002596)
+Obviously, it’d been just another one of my delusions, but it still made me sick to my stomach.
+<END>
+
+#WRITE(PTR, $000025A6)
+That whole thing had definitely been a bit much.
+<END>
+
+#WRITE(PTR, $000025CE)
+Sure, Nanami could be really annoying, but that delusion had been%Nway too graphic. I should have just left her at 1 HP, not fucking%N
+<DICT>
+one-shotted
+</DICT>
+ her.
+<END>
+
+#WRITE(PTR, $00002622)
+【七海】
+“...?”
+<END>
+
+#WRITE(PTR, $00002632)
+【七海】
+“What’s wrong?”
+<END>
+
+#WRITE(PTR, $00002642)
+After finishing her Cola, Nanami shot me a confused look.
+<END>
+
+#WRITE(PTR, $00002652)
+【七海】
+“You look a little pale.”
+<END>
+
+#WRITE(PTR, $00002662)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00002672)
+I just shook my head a little.
+<END>
+
+#WRITE(PTR, $00002682)
+【拓巳】
+“I-I’m sorry...”
+<END>
+
+#WRITE(PTR, $00002692)
+【七海】
+“Sorry for what?”
+<END>
+
+#WRITE(PTR, $000026A2)
+【拓巳】
+“J-Just... I-I’m sorry.”
+<END>
+
+#WRITE(PTR, $000026B2)
+Even if it was just a delusion, I treated you horribly. I’m sorry.
+<END>
+
+#WRITE(PTR, $000026C2)
+But that’s only because I can’t stand your bratty attitude.%NI hate it so much that I took it out on you inside my head.
+<LINE>
+Would it kill you to understand that?
+<END>
+
+#WRITE(PTR, $000026D2)
+【七海】
+“You really don’t need to apologize. It’s not like I’m mad at you%Nfor not having milk tea or anything.”
+<END>
+
+#WRITE(PTR, $000026E2)
+【七海】
+“And besides, for what it’s worth, I like Cola too.”
+<END>
+
+#WRITE(PTR, $000026F2)
+Ah, w-wait, d-did she just d-drink all my Cola...?!
+<END>
+
+#WRITE(PTR, $00002702)
+I take back my apology. Nanami doesn’t deserve it at all.
+<LINE>
+I hope she gets her stomach torn open and bleeds out.
+<END>
+
+#WRITE(PTR, $00002716)
+She’d just drunk straight from the bottle. Nasty...
+<LINE>
+She was supposed to be a girl, yet she acted like this...
+<END>
+
+#WRITE(PTR, $00002726)
+What a disgrace. This was exactly why 3D sucked ass.
+<LINE>
+As soon as Nanami left, I was gonna chuck that bottle straight in%Nthe trash.
+<END>
+
+#WRITE(PTR, $00002736)
+【七海】
+“*glug*... *glug*...”
+<END>
+
+#WRITE(PTR, $00002746)
+Wait, wha...? She’d just...
+<END>
+
+#WRITE(PTR, $00002756)
+【七海】
+“Aaahh...”
+<END>
+
+#WRITE(PTR, $00002766)
+【七海】
+“Phew.”
+<END>
+
+#WRITE(PTR, $000027A6)
+【七海】
+“That was soooo goooood!”
+<END>
+
+#WRITE(PTR, $000027B6)
+【七海】
+“I just ran straight here from school, and *nothing* beats a cold%Ndrink after a good workout.”
+<END>
+
+#WRITE(PTR, $000027C6)
+【拓巳】
+“D-Did you d-drink all of it...? I-In one go...?”
+<END>
+
+#WRITE(PTR, $000027D6)
+I’d bought that Cola with my own money.%K
+<LINE>
+So just because you’re my sister, you think you can do whatever the hell you want, huh? I see how it is...
+<END>
+
+#WRITE(PTR, $00002816)
+【七海】
+“Oh... Wh-Whoops...”
+<END>
+
+#WRITE(PTR, $00002826)
+Nanami looked at the bottle in her hand and turned pale.%NOh good, it looked like she’d finally realized how rude she was %Nbeing to—
+<END>
+
+#WRITE(PTR, $00002866)
+【七海】
+“Oh god, why did I do that?! I’m gonna get fat again!”
+<END>
+
+#WRITE(PTR, $00002876)
+*What?* (　ﾟдﾟ)
+<END>
+
+#WRITE(PTR, $000028B6)
+【七海】
+“And it’s all your fault, Big Bro!”
+<END>
+
+#WRITE(PTR, $000028C6)
+I had no idea what she was talking about.
+<END>
+
+#WRITE(PTR, $000028D6)
+【七海】
+“You’ve always been such a Cola junkie, and it totally rubbed off%Non me...”
+<END>
+
+#WRITE(PTR, $000028E6)
+【拓巳】
+“Th-That’s... your own fault...”
+<END>
+
+#WRITE(PTR, $00002926)
+【七海】
+“Like, we always had *tons* in the fridge at home, y’know?”
+<END>
+
+#WRITE(PTR, $00002936)
+【七海】
+“Mom really spoiled you by buying so much of it.”
+<END>
+
+#WRITE(PTR, $00002946)
+【七海】
+“But the stuff is suuuper high in calories, you know?%NYou should stop drinking so much of it.”
+<END>
+
+#WRITE(PTR, $00002956)
+【七海】
+“From now on, you should drink milk tea instead.”
+<END>
+
+#WRITE(PTR, $00002966)
+But milk tea really isn’t any healthier than Cola...%NIt’s got just about as many calories.
+<LINE>
+And more importantly, who the hell asked?%NI’m happy with my diet, thanks.
+<END>
+
+#WRITE(PTR, $00002976)
+Is that all you came here for? To drink all my Cola, then lecture me to stop drinking Cola?
+<END>
+
+#WRITE(PTR, $00002996)
+【拓巳】
+“J-Just... go home already...”
+<END>
+
+#WRITE(PTR, $000029A6)
+You did your whole “survival check” thing, and now your job here is done, right?
+<LINE>
+Why do you feel the need to barge in here every time?
+<END>
+
+#WRITE(PTR, $000029E6)
+【七海】
+“Big Bro... You’re so mean...”
+<END>
+
+#WRITE(PTR, $000029F6)
+Seemed like I’d managed to offend her somehow.
+<LINE>
+She pursed her lips into a pout and glared at me. I was already done with her shit, though, so I looked away.
+<END>
+
+#WRITE(PTR, $00002A06)
+【七海】
+“This is what I get for checking on you?%NI only came here because I was worried about you...”
+<END>
+
+#WRITE(PTR, $00002A16)
+【七海】
+“I mean, you just shut yourself in here all the time, and sometimes you go for days without talking to anyone, y’know?”
+<END>
+
+#WRITE(PTR, $00002A26)
+【七海】
+“And that means you never get the chance to talk to any girls!”
+<END>
+
+#WRITE(PTR, $00002A36)
+Sh-Shut up. Stop making fun of me, you stupid bitch...
+<LINE>
+I’m not into 3D girls, so why would I ever bother talking to them?
+<END>
+
+#WRITE(PTR, $00002A76)
+【七海】
+“In fact, I’m the only girl you ever talk to, aren’t I?”
+<END>
+
+#WRITE(PTR, $00002A86)
+【七海】
+“So I don’t think you appreciate me enough! Maybe if you actually%Nstart treating your sister right, you’ll get a little better at%Ntalking with girls.”
+<END>
+
+#WRITE(PTR, $00002A9E)
+While she was nagging, Nanami picked up one of my%Nfigures—Hikaru-tan from “The Suicide For Hikari”—and started%Nstaring at it.
+<END>
+
+#WRITE(PTR, $00002AAE)
+Dammit, don’t touch my waifus without asking...
+<LINE>
+If you leave even a *single* fingerprint on her, I will actually%Nbeat the shit out of you.
+<END>
+
+#WRITE(PTR, $00002AEE)
+【七海】
+“Also, you really need to take better care of yourself.”
+<END>
+
+#WRITE(PTR, $00002AFE)
+【七海】
+“You’re too old to be obsessing over dolls. I don’t wanna walk in%Nhere one day and find you dead on the floor, got it?”
+<END>
+
+#WRITE(PTR, $00002B0E)
+What the hell was she trying to imply?
+<LINE>
+It felt like she’d been becoming more and more like Mom lately.
+<LINE>
+Which meant...
+<END>
+
+#WRITE(PTR, $00002B1E)
+...that she’d gotten even MORE fucking annoying! STFUUUUUUUU!
+<END>
+
+#WRITE(PTR, $00002B2E)
+【拓巳】
+“J-Just leave already...”
+<END>
+
+#WRITE(PTR, $00002B6E)
+【七海】
+“Don’t just tell me to leave like that. You’re such a jerk!”
+<END>
+
+#WRITE(PTR, $00002B7E)
+【七海】
+“Besides, I’m not finished!”
+<END>
+
+#WRITE(PTR, $00002B8E)
+Ugh... She was getting more hysterical by the minute.
+<LINE>
+If I made her any angrier, things would get out of hand.
+<LINE>
+So chill out, me...
+<END>
+
+#WRITE(PTR, $00002BCE)
+【七海】
+“Let’s go buy you a cell phone.”
+<END>
+
+#WRITE(PTR, $00002BDE)
+【拓巳】
+“Huh...?”
+<END>
+
+#WRITE(PTR, $00002BEE)
+What had she just said?
+<END>
+
+#WRITE(PTR, $00002BFE)
+【七海】
+“Dad told me to help you buy one. If you get a phone, we can check%Nif you’re alive whenever we want!”
+<END>
+
+#WRITE(PTR, $00002C0E)
+【七海】
+“He even gave me the money to pay for it. So c’mon, let’s go%Nalready! Everyone’s got a cell phone these days. You really live%Nunder a rock, don’t you?”
+<END>
+
+#WRITE(PTR, $00002C1E)
+Shut up already, you teenage trend-chasing bitch.
+<LINE>
+“Hurr durr, you really live under a rock!” I’m not the one who lives under a rock here, you wrong-sider!
+<LINE>
+The Internet gives me all the information I need.
+<END>
+
+#WRITE(PTR, $00002C2E)
+Well, she was right about one thing: these days, it was normal for a high school student to have a phone.
+<LINE>
+And I didn’t have one.
+<END>
+
+#WRITE(PTR, $00002C3E)
+Of course, that was because I’d never use it anyway. I didn’t have%Nanyone to call or text, and I didn’t want to pay for something%NI wasn’t going to use.
+<END>
+
+#WRITE(PTR, $00002C7E)
+【七海】
+“Okay, ready to head out?”
+<END>
+
+#WRITE(PTR, $00002C96)
+Nanami put the figure back on the shelf and turned her attention%Nback to me.
+<END>
+
+#WRITE(PTR, $00002CD6)
+【七海】
+“I’m sure you’re clueless about which model to get, so we’ll just%Nget you the same one I have!”
+<END>
+
+#WRITE(PTR, $00002CE6)
+As she said that, she took her own phone out of her bag and started showing it off like it was some precious heirloom.
+<END>
+
+#WRITE(PTR, $00002D4E)
+【七海】
+“Check it out! This one’s mine.%NThe color’s so cute, don’tcha think?”
+<END>
+
+#WRITE(PTR, $00002D5E)
+【七海】
+“While we’re at it, we might as well get you one of these straps%Ntoo!”
+<END>
+
+#WRITE(PTR, $00002D6E)
+【拓巳】
+“Yuck... Wh-What a lazy-ass design...”
+<END>
+
+#WRITE(PTR, $00002DC6)
+The character hanging from the phone strap was far from cute—it%Nlooked horrible. There was no way a professional had designed it.
+<END>
+
+#WRITE(PTR, $00002DD6)
+It looked like one of those shit-tier “uglycute” characters, or%Nlike one of those official government mascots.
+<END>
+
+#WRITE(PTR, $00002DE6)
+【七海】
+“It’s not lazy! I’ll have you know that this little guy is called%NGero Froggy. They’re super ‘in’ right now!”
+<END>
+
+#WRITE(PTR, $00002DF6)
+【七海】
+“*sigh*... Well, it’s not like *you’d* know what’s popular with high school girls these days...”
+<END>
+
+#WRITE(PTR, $00002E06)
+【七海】
+“If you crawled out of your hole long enough to fix that, I’m 99%%Nsure you’d be able to hold a conversation with a girl.”
+<END>
+
+#WRITE(PTR, $00002E16)
+God DAMMIT! Just shut the fuck up already, you trend-chasing%Nbitch! Seriously, what is this “Gero Froggy” garbage?!
+<LINE>
+There’s no *way* this thing is popular—anyone with half a brain%Ncould tell you that!
+<END>
+
+#WRITE(PTR, $00002E26)
+She didn’t realize she was just being played by the media.%NIt was honestly sad...
+<END>
+
+#WRITE(PTR, $00002E7E)
+【七海】
+“Anyway, this isn’t about Gero Froggy!”
+<END>
+
+#WRITE(PTR, $00002E8E)
+【七海】
+“C’mon, let’s go buy you a phone already.”
+<END>
+
+#WRITE(PTR, $00002E9E)
+【七海】
+“Oh, and I’m not saying you *have* to get this model, by the way.%NIt’s just that family members with the same model can get a discount on their rates.”
+<END>
+
+#WRITE(PTR, $00002EAE)
+【七海】
+“And you’re the only one in our family that doesn’t have one.”
+<END>
+
+#WRITE(PTR, $00002EBE)
+【拓巳】
+“I-I don’t want one...”
+<END>
+
+#WRITE(PTR, $00002F0E)
+【七海】
+“B-But why?! Dad’s even paying for it!”
+<END>
+
+#WRITE(PTR, $00002F1E)
+【拓巳】
+“I just... don’t need it...”
+<END>
+
+#WRITE(PTR, $00002F2E)
+It would be a nuisance, if anything.
+<LINE>
+If I had a phone, Mom would definitely call every day.
+<END>
+
+#WRITE(PTR, $00002F3E)
+And if I kept ignoring those calls, they’d keep sending%N*Little Miss Assassin* Nanami over here to lay on the pressure.
+<END>
+
+#WRITE(PTR, $00002F4E)
+My family life would become even *more* of a living hell, and I’d%Nhave to start being way more careful as a result.
+<LINE>
+I couldn’t let that happen.
+<END>
+
+#WRITE(PTR, $00002F96)
+【七海】
+“Ugggh, what the heck! I can’t believe how much of a jerk you are!%NYou know what? Fine! I’ll just leave!”
+<END>
+
+#WRITE(PTR, $00002FA6)
+【拓巳】
+“Oh, good... Go right ahead...”
+<END>
+
+#WRITE(PTR, $00003014)
+I opened the door for her to finally leave.
+<LINE>
+But Nanami didn’t budge an inch—she just shot her arms down to her%Nsides, looking even more upset than before.
+<END>
+
+#WRITE(PTR, $00003064)
+【七海】
+“You’re such a jerk! The biggest, meanest jerk ever!
+<LINE>
+At least walk me to the station!”
+<END>
+
+#WRITE(PTR, $00003074)
+【拓巳】
+“N-No thanks...”
+<END>
+
+#WRITE(PTR, $00003084)
+She’d never acted like this before. Why did she suddenly want me to walk her to the station? What was so special about today?
+<END>
+
+#WRITE(PTR, $00003094)
+【七海】
+“It’s really dangerous out there! Y’know, with all the murders and%Nstuff?! As my older brother, you should at least be a *little*%Nconcerned about me, right?!”
+<END>
+
+#WRITE(PTR, $000030A4)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000030B4)
+Yesterday’s events were resurrected in my mind once again, if only%Nfor a second.
+<END>
+
+#WRITE(PTR, $000030C4)
+【拓巳】
+“N-Not really...”
+<END>
+
+#WRITE(PTR, $000030D4)
+Either way, it wasn’t like the New Gen murderer was twisted enough%Nto attack some brat like Nanami... Nobody would want to get near%Nsomebody who smelled like piss like she did.
+<END>
+
+#WRITE(PTR, $00003114)
+【七海】
+“I-I don’t believe it...”
+<END>
+
+#WRITE(PTR, $00003154)
+【七海】
+“Are you saying you wouldn’t even care if I died...?”
+<END>
+
+#WRITE(PTR, $00003164)
+Nanami was tearing up.%NIt seemed like my words had really gotten to her.
+<END>
+
+#WRITE(PTR, $00003174)
+Fuhihi, serves you right. Maybe you should think twice about%Ndisturbing my peace and quiet next time. This is just my own way of taking a little revenge for once. Get fucked.
+<END>
+
+#WRITE(PTR, $00003184)
+【七海】
+“*sniff*”
+<END>
+
+#WRITE(PTR, $000031C4)
+【七海】
+“You big jerk! Drop dead! I hope you die in a freak accident!%NThe freakiest of freak accidents ever!”
+<END>
+
+#WRITE(PTR, $0000329C)
+After spitting those parting words at me, Nanami pushed past me and ran away as fast as she could.
+<END>
+
+#WRITE(PTR, $000032E6)
+aaah... Seemed like the storm had finally passed.
+<LINE>
+The room grew peaceful and quiet once again.
+<END>
+
+#WRITE(PTR, $000032F6)
+This was how things should always be around here. My own perfect%Nlittle world, where stupid bullshit wasn’t allowed.
+<END>
+
+#WRITE(PTR, $00003350)
+I sat down in front of my PC, shaking my mouse a little to clear the Seira-tan screensaver.%NI tried to take a sip of the Cola bottle on my desk, but it was%Nempty.
+<END>
+
+#WRITE(PTR, $00003360)
+【拓巳】
+“Ah... Sh-Sh-Shit, this is the bottle that Nanami just drank%Nfrom...”
+<END>
+
+#WRITE(PTR, $00003370)
+Oh god... I just had an indirect kiss with my little sister...%NI’m gonna puke...
+<END>
+
+#WRITE(PTR, $00003380)
+Maybe if she was a little more charming, it would’ve been the kind%Nof eroge-like situation I could fap to. But with that horrible%Npersonality? No chance. If anything, it’d only made me *more*%Nflaccid...
+<END>
+
+#WRITE(PTR, $00003390)
+I put the cap back on the bottle, then threw it at the big garbage%Nbag in the corner of my room.
+<END>
+
+#WRITE(PTR, $000033AC)
+But it didn’t go in the bag, instead bouncing off the wall and%Nrolling under my bed. Well, whatever.
+<END>
+
+#WRITE(PTR, $000033BC)
+Anyway, time to dive straight back into ESO.
+<LINE>
+I just wanna forget about the annoying real world ASAP.
+<END>
+
+#WRITE(PTR, $00003428)
+But it wouldn’t last long.%NJust one day later, my immersion would be broken once again.
+<END>
+瑞切
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
+
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

@@ -1,0 +1,817 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($0000629C)
+
+#WRITE(PTR, $0000040C)
+Grimm: yo neidhardt?%N
+Grimm: u ok? ur not replying. u aak or something?%K%P
+<END2>
+
+#WRITE(PTR, $0000041C)
+Oh, whoops.%K%N
+I’d been so busy thinking about the “gaze,”%NI forgot I was in the middle of chatting with Grimm.
+<END>
+
+#WRITE(PTR, $00000444)
+Grimm was the 
+<DICT>
+handle
+</DICT>
+ of one of my ESO friends.%K%NI talked to him all the time online, though I’d never met him IRL.
+<END>
+
+#WRITE(PTR, $0000045C)
+He had a keen eye for useful information, so I could generally%N
+rely on him to keep me in the loop.
+<END>
+
+#WRITE(PTR, $0000046C)
+I sat back down and started tapping out a response.
+<END>
+
+#WRITE(PTR, $000004A4)
+<END>
+
+#WRITE(PTR, $000005F4)
+<END>
+
+#WRITE(PTR, $000006B0)
+The two of us chatted about all sorts of things.
+<LINE>
+And since it was all anonymous,%N
+I was comfortable with talking about pretty much anything.
+<END>
+
+#WRITE(PTR, $000006C0)
+I’d never act like this IRL... obviously.
+<END>
+
+#WRITE(PTR, $00000724)
+<END>
+
+#WRITE(PTR, $00000872)
+<END>
+
+#WRITE(PTR, $00000942)
+<END>
+
+#WRITE(PTR, $00000A0A)
+<END>
+
+#WRITE(PTR, $00000AD2)
+<END>
+
+#WRITE(PTR, $00000BA6)
+<END>
+
+#WRITE(PTR, $00000D6C)
+School swimsuit + glasses = perfection!%K
+<END2>
+
+#WRITE(PTR, $00000EBA)
+%P
+<END2>
+
+#WRITE(PTR, $000010D0)
+It’s not a REAL school swimsuit unless there’s%N
+a name tag on the chest!%K
+<END2>
+
+#WRITE(PTR, $0000121E)
+%P
+<END2>
+
+#WRITE(PTR, $0000140C)
+A white school swimsuit?! GTFO!%N
+Navy blue or nothing!%K
+<END2>
+
+#WRITE(PTR, $0000155A)
+%P
+<END2>
+
+#WRITE(PTR, $00001768)
+In the end, what really matters is the cameltoe!%K
+<END2>
+
+#WRITE(PTR, $000018B6)
+%P
+<END2>
+
+#WRITE(PTR, $00001AC4)
+The competition swimsuits are definitely%N
+better than the regular school ones!%K
+<END2>
+
+#WRITE(PTR, $00001C12)
+%P
+<END2>
+
+#WRITE(PTR, $00001E10)
+A swimming cap is absolutely required!%K
+<END2>
+
+#WRITE(PTR, $00001F5E)
+%P
+<END2>
+
+#WRITE(PTR, $00002184)
+Oh, and socks, too! And they’ve gotta be 
+<DICT>
+over-the-knee
+</DICT>
+！
+<END2>
+
+#WRITE(PTR, $000022DA)
+%P
+<END2>
+
+#WRITE(PTR, $0000251C)
+<END>
+
+#WRITE(PTR, $000025E4)
+<END>
+
+#WRITE(PTR, $000026AC)
+<END>
+
+#WRITE(PTR, $00002774)
+<END>
+
+#WRITE(PTR, $00002890)
+<END>
+
+#WRITE(PTR, $00002958)
+<END>
+
+#WRITE(PTR, $00002A50)
+<END>
+
+#WRITE(PTR, $00002B3A)
+<END>
+
+#WRITE(PTR, $00002C3C)
+<END>
+
+#WRITE(PTR, $00002D78)
+<END>
+
+#WRITE(PTR, $00002E40)
+<END>
+
+#WRITE(PTR, $00002F10)
+<END>
+
+#WRITE(PTR, $00002FFA)
+<END>
+
+#WRITE(PTR, $000030C2)
+<END>
+
+#WRITE(PTR, $0000317E)
+It was probably just something to do with ESO.
+<END>
+
+#WRITE(PTR, $000031EE)
+An incident IRL?
+<END>
+
+#WRITE(PTR, $000031FE)
+I remembered something like that, but what was it?
+<END>
+
+#WRITE(PTR, $000032C4)
+<END>
+
+#WRITE(PTR, $00003386)
+I introduced myself, but there was no reply%Nfrom the user named “Shogun.”
+<END>
+
+#WRITE(PTR, $00003396)
+...What was up with that? Was he ignoring me?
+<END>
+
+#WRITE(PTR, $000033A6)
+And I was being so friendly to him, too.%K
+<LINE>
+Did he know who he was talking to?　
+<END>
+
+#WRITE(PTR, $000033B6)
+I’ll have you know I’m THE Lightning-Fast Neidhardt.
+<END>
+
+#WRITE(PTR, $000033DE)
+<DICT>
+Lurking
+</DICT>
+ wasn’t even allowed here.%K
+<LINE>
+Well, whatever. Might as well just ignore him.
+<END>
+
+#WRITE(PTR, $000033F6)
+I guess that was another great thing about the Internet.%K
+<LINE>
+There was no need to worry about pointless etiquette.
+<END>
+
+#WRITE(PTR, $00003416)
+<END>
+
+#WRITE(PTR, $00003500)
+<END>
+
+#WRITE(PTR, $000035C8)
+<END>
+
+#WRITE(PTR, $000036C8)
+Shocking? Must’ve been some real grisly murder, then.
+<LINE>
+There’d been a few here and there recently.
+<END>
+
+#WRITE(PTR, $000036E8)
+<END>
+
+#WRITE(PTR, $000037D2)
+<END>
+
+#WRITE(PTR, $0000388E)
+Still, I really didn’t want to see it.
+<END>
+
+#WRITE(PTR, $0000389E)
+Lately, though, it hadn’t been easy to avoid that kind of stuff.%N
+People were always trying to trick others into clicking on nasty%N
+stuff, like gore or some kind of creepy edit. And once you fell%N
+for it, you couldn’t unsee it.
+<END>
+
+#WRITE(PTR, $000038AE)
+【拓巳】
+“W-Well, I think I’m used to it by now, sorta...”
+<END>
+
+#WRITE(PTR, $000038F0)
+<END>
+
+#WRITE(PTR, $000039AC)
+PK stands for “player kill.”
+<END>
+
+#WRITE(PTR, $000039BC)
+In other words, it’s when you go around in MMOs killing randos%N
+and stealing their gold and gear. So, typical DQN stuff.
+<END>
+
+#WRITE(PTR, $000039F4)
+<END>
+
+#WRITE(PTR, $00003ABC)
+<END>
+
+#WRITE(PTR, $00003B84)
+<END>
+
+#WRITE(PTR, $00003C40)
+...Well, except for the rules that prohibited RMT. I broke%N
+those all the time. Fuhihi.
+<END>
+
+#WRITE(PTR, $00003CDE)
+<END>
+
+#WRITE(PTR, $00003D9A)
+New Gen? What was that?%NHad he ever mentioned it before?
+<END>
+
+#WRITE(PTR, $00003DAA)
+Grimm was talking like I should’ve already known about it.
+<END>
+
+#WRITE(PTR, $00003DCA)
+<END>
+
+#WRITE(PTR, $00003F0E)
+Oh, now that he’d mentioned it, I *did* feel like I’d heard%N
+about it somewhere...
+<END>
+
+#WRITE(PTR, $00003F1E)
+Though, all I knew was that they existed.%N
+I hadn’t looked into them at all.
+<END>
+
+#WRITE(PTR, $00003F9A)
+I tried googling “New Gen” and instantly got a few results.
+<END>
+
+#WRITE(PTR, $00004006)
+【拓巳】
+“Let’s see here...”
+<END>
+
+#WRITE(PTR, $00004016)
+【拓巳】
+“Looks like ‘New Gen’ is the name for two incidents in%N
+ Shibuya that happened in the past month...”
+<END>
+
+#WRITE(PTR, $00004026)
+【拓巳】
+“Including a fetus, there’ve been seven victims.”
+<END>
+
+#WRITE(PTR, $0000408C)
+【拓巳】
+“The first incident was the Group Dive, where five friends%N
+ jumped off a skyscraper...”
+<END>
+
+#WRITE(PTR, $0000409C)
+【拓巳】
+“And in the second one, a fetus was found inside a man’s body...”
+<END>
+
+#WRITE(PTR, $000040AC)
+【拓巳】
+“Whoa, are you serious...?”
+<END>
+
+#WRITE(PTR, $000040CE)
+A chill ran down my spine.
+<END>
+
+#WRITE(PTR, $0000417A)
+Before I’d even realized it, I’d turned around and was looking%N
+around my room again.
+<END>
+
+#WRITE(PTR, $0000422E)
+There were a bunch of results for “New Gen” on Taboo! News, so%N
+I went to skim through them.
+<END>
+
+#WRITE(PTR, $0000423E)
+New Generation Madness—the incidents that had the entire%N
+Internet in an uproar.
+<END>
+
+#WRITE(PTR, $0000424E)
+There’d been two of them so far.
+<END>
+
+#WRITE(PTR, $0000425E)
+One of them was so brutal, several TV channels didn’t even%N
+describe the crime out loud.
+<END>
+
+#WRITE(PTR, $0000426E)
+The first incident, the Group Dive, had been initially%N
+thought to be a suicide, but rumors had since risen%N
+that it may not’ve been.
+<END>
+
+#WRITE(PTR, $0000427E)
+Parents and friends of the five victims all said the%N
+same thing—none of the victims had shown any signs of%N
+planning to commit suicide, and they hadn’t had any%N
+reason to do so, either.
+<END>
+
+#WRITE(PTR, $0000428E)
+And on top of that, some physical evidence had been found too.
+<END>
+
+#WRITE(PTR, $000042EA)
+<END>
+
+#WRITE(PTR, $000043F4)
+<END>
+
+#WRITE(PTR, $00004508)
+<END>
+
+#WRITE(PTR, $000045E6)
+【拓巳】
+“He’s getting a kick out of this...”
+<END>
+
+#WRITE(PTR, $000045F6)
+He did stuff like this from time to time.
+<END>
+
+#WRITE(PTR, $00004606)
+But if I wanted to keep up my reputation as the great Neidhardt of%N
+Baselard, I couldn’t let it faze me.
+<END>
+
+#WRITE(PTR, $00004616)
+Unlike in the real world, I was a god in the world of ESO.%N
+I was the strongest, wisest, and most noble knight in all the land.%N
+Mocking me would be a fool’s errand.
+<END>
+
+#WRITE(PTR, $00004626)
+And so, gathering up whatever courage I had, I clicked the link.
+<END>
+
+#WRITE(PTR, $000046A0)
+Oh, it was just some shitty doodle.
+<END>
+
+#WRITE(PTR, $000046E4)
+<END>
+
+#WRITE(PTR, $000047AC)
+<END>
+
+#WRITE(PTR, $000048D0)
+<END>
+
+#WRITE(PTR, $000049D2)
+<END>
+
+#WRITE(PTR, $00004B20)
+Come to think of it, that Shogun guy had been here the whole time.%N
+I’d completely forgotten about him. Not that I cared, though.
+<END>
+
+#WRITE(PTR, $00004B30)
+Well, I don’t really feel like sleeping yet, so I guess I’ll farm%N
+in ESO for a bit.%N
+...Wait, no, the new episode of Blood Tune comes out today!
+<END>
+
+#WRITE(PTR, $00004B40)
+I didn’t have a TV in my room, so I just made do with my PC.
+<END>
+
+#WRITE(PTR, $00004B50)
+【拓巳】
+“Fifteen minutes to go...%N
+ Might as well go to the bathroom while I wait.”
+<END>
+
+#WRITE(PTR, $00004B60)
+I took a quick look at Seira next to my monitor.%N
+I would get to see Seira-tan today... I couldn’t wait!
+<END>
+
+#WRITE(PTR, $00004B70)
+With that on my mind, I made my way over to close the chat window...
+<END>
+
+#WRITE(PTR, $00004BA6)
+【拓巳】
+“Huh?”
+<END>
+
+#WRITE(PTR, $00004BB6)
+Shogun had sent a message.
+<END>
+
+#WRITE(PTR, $00004BC6)
+【拓巳】
+“Wh-What the? He actually posted...”
+<END>
+
+#WRITE(PTR, $00004BD6)
+So he wasn’t just a lurker? 
+<LINE>
+Judging by the file extension, it looked like an image link.
+<END>
+
+#WRITE(PTR, $00004BE6)
+A sudden link, posted by a suspicious stranger that hadn’t sent a%N
+single message until now. I gulped instinctively.
+<END>
+
+#WRITE(PTR, $00004BF6)
+I couldn’t explain why, but I had a bad feeling about it—a feeling%N
+unlike anything I had ever felt in all my time on the Internet.%N
+I really didn’t want to click it.
+<END>
+
+#WRITE(PTR, $00004C06)
+I clicked my tongue and glanced at the clock. My rendezvous with%N
+Seira-tan was in twelve minutes. I should probably get this%N
+conversation over with quickly.
+<END>
+
+#WRITE(PTR, $00004C3E)
+<END>
+
+#WRITE(PTR, $00004D28)
+<END>
+
+#WRITE(PTR, $00004DE4)
+I was trying my best to act calm and casual.
+<END>
+
+#WRITE(PTR, $00004DF4)
+To be honest, I really didn’t want to chat with%Na shady guy like this.%N
+I was so uncomfortable that I could feel a cold sweat forming.
+<END>
+
+#WRITE(PTR, $00004E04)
+And if the guy only spoke German,%N
+I definitely wouldn’t be able to deal with him.
+<END>
+
+#WRITE(PTR, $00004E3A)
+Huh, so he could actually speak normally...
+<LINE>
+I relaxed a little bit.
+<END>
+
+#WRITE(PTR, $00004E5A)
+<END>
+
+#WRITE(PTR, $00004F2A)
+<END>
+
+#WRITE(PTR, $0000501C)
+<END>
+
+#WRITE(PTR, $000050D8)
+For some reason, there was a short pause.
+<END>
+
+#WRITE(PTR, $000052EE)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000052FE)
+All at once, images of those gruesome New Gen incidents flashed%N
+through my head.
+<END>
+
+#WRITE(PTR, $0000530E)
+Even though I hadn’t actually seen any photos, I could picture them
+ so vividly that it was almost like I’d been there myself.
+<END>
+
+#WRITE(PTR, $0000531E)
+The man’s torn-up stomach... The lifeless fetus shoved inside...%K
+<LINE>
+The five people that dove off the building, instantly turning%N
+into a pulpy inhuman puddle upon hitting the ground...
+<END>
+
+#WRITE(PTR, $0000532E)
+Just thinking about it was almost enough to make me puke.%K
+<LINE>
+I shook my head violently, as if to shake the gruesome delusion%N
+out of my head.
+<END>
+
+#WRITE(PTR, $0000533E)
+This Shogun guy was so suspicious, I couldn’t stop the paranoid%N
+delusions from forming.%K What was he trying to drag me into?
+<END>
+
+#WRITE(PTR, $0000535E)
+<END>
+
+#WRITE(PTR, $00005426)
+<END>
+
+#WRITE(PTR, $00005510)
+<END>
+
+#WRITE(PTR, $000055F6)
+【拓巳】
+“What’s that?”
+<END>
+
+#WRITE(PTR, $00005606)
+Was this Shogun guy some kind of **denpa** nutjob?
+<END>
+
+#WRITE(PTR, $00005616)
+I’d never seen that formula before in my life.%N
+And when you were as smart as me, that was saying something.
+<END>
+
+#WRITE(PTR, $00005676)
+I tried looking it up.
+<LINE>
+In this day and age, there was all sorts of information on the%N
+Internet, so it’d be easy to find.
+<END>
+
+#WRITE(PTR, $00005686)
+【拓巳】
+“...Huh. I’m not getting any results.”
+<END>
+
+#WRITE(PTR, $00005696)
+Was he trying to act smart by typing some nonsense formula?
+<LINE>
+Fuck if I knew.
+<END>
+
+#WRITE(PTR, $000056EA)
+<END>
+
+#WRITE(PTR, $000057B2)
+<END>
+
+#WRITE(PTR, $0000587A)
+<END>
+
+#WRITE(PTR, $00005C44)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00005C54)
+All of a sudden, the chat was flooded with links.
+<END>
+
+#WRITE(PTR, $00005C64)
+Just who was this guy...?%N
+Was he just trying to scare me for shits and giggles?%N
+Maybe he was a friend of Grimm’s,%N
+and they’d teamed up to mess with me.
+<END>
+
+#WRITE(PTR, $00005D2C)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00005D92)
+Feeling the “gaze” again, I took a look around the room.
+<LINE>
+But surprise, surprise, all that was behind me was darkness and%N
+clutter, as per usual.
+<END>
+
+#WRITE(PTR, $00005DA2)
+I was hit with an unnatural sense of dread.%N
+The feeling of perpetually being watched left me feeling restless.
+<END>
+
+#WRITE(PTR, $00005E08)
+【拓巳】
+“Don’t... look at me.”
+<END>
+
+#WRITE(PTR, $00005E18)
+And upon saying that, I realized that my voice was trembling.
+<END>
+
+#WRITE(PTR, $00005E28)
+It was almost like the cluttered room I knew so well had%N
+transformed into someplace completely foreign.
+<END>
+
+#WRITE(PTR, $00005E38)
+If you’ve ever had to go to the bathroom at night after watching a%N
+horror movie or listening to a ghost story or something,
+<END>
+
+#WRITE(PTR, $00005E48)
+you may know the feeling of being unnerved, or even terrified,%N
+by the dark hallways of your own home.
+<END>
+
+#WRITE(PTR, $00005E58)
+That was close to how I felt right now.
+<END>
+
+#WRITE(PTR, $00005F20)
+【拓巳】
+“D-Dammit, you think this shitty bait’s gonna faze me...?”
+<END>
+
+#WRITE(PTR, $00005F30)
+In spite of my shuddering, I faced the monitor, leaned in, and...
+<END>
+
+#WRITE(PTR, $00005F40)
+...before I knew it, with the slightest twitch of my index finger,%N
+I’d clicked one of the links.
+<END>
+
+#WRITE(PTR, $00005F5C)
+【拓巳】
+“No, wai—!”
+<END>
+
+#WRITE(PTR, $0000606A)
+I really had no clue how it’d happened. It wasn’t like my hand had%N
+been possessed by some unnatural force or something...%N
+I’d just sort of... done it without thinking.
+<END>
+
+#WRITE(PTR, $0000607A)
+But even though I knew full well that it’d be a mistake,%N
+I’d clicked it as if it were the most natural thing in the world.
+<END>
+
+#WRITE(PTR, $0000608A)
+【拓巳】
+“Ugh, what is this...?”
+<END>
+
+#WRITE(PTR, $0000609A)
+The image that filled my monitor...
+<LINE>
+looked like some kind of modern art piece.
+<END>
+
+#WRITE(PTR, $000060AA)
+An arrangement of spikes, like the quills of a hedgehog or pins in%N
+a pin cushion, protruded from the wall in the shape of a cross.%N
+Below it, a puddle of dark red.
+<END>
+
+#WRITE(PTR, $000060BA)
+And in front of it... were small pieces of something, scattered%N
+across the ground like garbage.
+<END>
+
+#WRITE(PTR, $000060CA)
+Seriously, what even was this?
+<LINE>
+The work of some pretentious “avant-garde” artist?
+<END>
+
+#WRITE(PTR, $000060DA)
+Those sorts of idiots were all over the place. They’d make gory%N
+stuff like this, then spout some bullshit like,%N
+“It depicts the latent chaos oft laid bare in this cruel world!”
+<LINE>
+No way in hell I’d ever consider that shit “art”...
+<END>
+
+#WRITE(PTR, $000060EA)
+Still, what a weird image.
+<LINE>
+It hadn’t explicitly been gore, but it was definitely borderline.
+<END>
+
+#WRITE(PTR, $000060FA)
+So then, why...
+<END>
+
+#WRITE(PTR, $0000610A)
+Why had it seemed so graphic?
+<LINE>
+Why had it seemed so realistic?
+<END>
+
+#WRITE(PTR, $0000611A)
+Why was I imagining the stench of blood?%N
+And why was that stench so strong that it nearly made me choke?
+<LINE>
+It was all in my head, so why did I feel sick to my stomach?
+<END>
+
+#WRITE(PTR, $0000612A)
+I felt a sharp, throbbing pain in my forehead.
+<LINE>
+The nausea wouldn’t go away.
+<END>
+
+#WRITE(PTR, $0000613A)
+【拓巳】
+“Guh, ghhh...”
+<END>
+
+#WRITE(PTR, $0000614A)
+I desperately reached for my mouse, but my trembling hand knocked%N
+it off the desk, leaving it dangling above the floor by its cord.%N
+<END>
+
+#WRITE(PTR, $0000615A)
+I reeled it back up to the mousepad, and then,%N
+finally, closed the image.
+<END>
+
+#WRITE(PTR, $000061D6)
+But... just as I thought it was finally over,%N
+my eyes were struck by...
+<END>
+
+#WRITE(PTR, $000061E6)
+INSERT09.PMF
+<END2>
+瑞栖
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

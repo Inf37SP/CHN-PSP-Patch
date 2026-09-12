@@ -1,0 +1,208 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($0000127C)
+
+#WRITE(PTR, $00000C06)
+I glanced at the Minimum Attendance Chart.
+<END>
+
+#WRITE(PTR, $00000C2E)
+In the end, I hadn’t managed to catch the new Blood Tune episode%N
+live. No big deal, though—someone had 
+<DICT>
+upped
+</DICT>
+ it to MewTube after%N
+the fact, so I’d been able to just watch it there.
+<END>
+
+#WRITE(PTR, $00000C46)
+I still didn’t feel any better, though.
+<END>
+
+#WRITE(PTR, $00000C56)
+Those last words Shogun had left behind...
+<END>
+
+#WRITE(PTR, $00000C66)
+It was almost as if he knew about “God’s gaze” and how much it%N
+terrified me. It was way too specific for it to just be a%N
+coincidence.
+<END>
+
+#WRITE(PTR, $00000C76)
+Maybe someone had leaked some info about me online. Maybe it was%N
+another ESO player with a grudge against Neidhardt or something.
+<END>
+
+#WRITE(PTR, $00000C86)
+Prodigies like me got a lot of love, so naturally, they also got a%N
+lot of hate.
+<END>
+
+#WRITE(PTR, $00000C96)
+Well, most haters out there were just jealous. You wouldn’t see
+themaround much, but every once in a while, some child would try to%N
+start shit because he was jealous of Neidhardt’s strength and%N
+popularity.%K They weren’t worth anyone’s time.
+<END>
+
+#WRITE(PTR, $00000CA6)
+But we’ve gone off topic now.
+<END>
+
+#WRITE(PTR, $00000CB6)
+Anyway, yeah, that Shogun guy really got to me. Earlier I’d tried%N
+logging on to ESO to grind for a little while, but I just couldn’t%N
+concentrate.
+<END>
+
+#WRITE(PTR, $00000CC6)
+And to make matters worse, of all days for this to happen...
+<END>
+
+#WRITE(PTR, $00000D32)
+【拓巳】
+“It just *had* to be a shitty day like this...”
+<END>
+
+#WRITE(PTR, $00000E18)
+On top of everything else that’d happened, I also had to go to%N
+school today.
+<END>
+
+#WRITE(PTR, $00000E28)
+I seriously didn’t want to go, but if I didn’t follow the%N
+Minimum Attendance Chart to a T, my calculations would get%N
+completely thrown off.%N
+Worst-case scenario, I’d even have to repeat the year.
+<END>
+
+#WRITE(PTR, $00000E38)
+【拓巳】
+“But I’m so tired...”
+<END>
+
+#WRITE(PTR, $00000E48)
+I stifled a yawn and started trudging off toward school, a%N
+trip that was about ten minutes from my base on foot.
+<END>
+
+#WRITE(PTR, $00000EB0)
+As soon as I started walking, my mood sank even lower.
+<END>
+
+#WRITE(PTR, $00000EC0)
+My body grew heavy, and I found it strangely hard to breathe,%N
+causing me to break into an uncomfortable sweat. This was what%N
+always happened on school days.
+<END>
+
+#WRITE(PTR, $00000ED0)
+Going to school was pure suffering.%N
+Why did I have to go through this...?%N
+Grumbling to myself with my eyes fixed on the pavement,%N
+I kept on walking.
+<END>
+
+#WRITE(PTR, $00000F42)
+I turned to enter Shoto Park—the school was just past it.
+<END>
+
+#WRITE(PTR, $00000F52)
+Over by the lake, an elderly couple was taking their morning%N
+stroll. Nearby, a businessman sat on a bench, reading the%N
+sports section of the newspaper.
+<END>
+
+#WRITE(PTR, $00000F62)
+For a park on the outskirts of a bustling city like Shibuya,%N
+it was surprisingly calm.
+<LINE>
+Definitely a great place to relax.
+<END>
+
+#WRITE(PTR, $00000F72)
+I took a seat on another bench nearby.%N
+Before heading into school in the morning,%N
+I always came here to eat breakfast.
+<END>
+
+#WRITE(PTR, $00000F82)
+I gazed out toward the peaceful pond, the water surrounded by trees%N
+with off-color leaves, their hues slowly changing as autumn rolled in.
+<END>
+
+#WRITE(PTR, $00000F92)
+As per usual, today’s menu was just a cream bun that I’d picked%N
+up from the convenience store on the way here. It’d be enough to%N
+tide me over until later tonight.
+<END>
+
+#WRITE(PTR, $00000FA2)
+I always skipped lunch.
+<END>
+
+#WRITE(PTR, $00000FB2)
+Nobody wanted to eat lunch with an otaku freak like me, and there%N
+was no way in hell I’d eat alone when surrounded by people eating%N
+and chatting together.
+<END>
+
+#WRITE(PTR, $00000FC2)
+After washing down my breakfast with some Cola,%N
+I began staring up at the sky absentmindedly.
+<END>
+
+#WRITE(PTR, $000010AC)
+No matter the season,%N
+the sky above Shibuya was always pretty bleak.
+<END>
+
+#WRITE(PTR, $000010BC)
+My parents only lived a few train stations away,%N
+but there was still a clear difference between here and there.
+<END>
+
+#WRITE(PTR, $000010CC)
+Don’t get me wrong, I didn’t especially *mind* the bleak sky...%N
+but I also couldn’t really explain why.
+<END>
+
+#WRITE(PTR, $000011CE)
+I glanced at my watch to check the time.
+<END>
+
+#WRITE(PTR, $000011DE)
+I needed to get going or I’d be late.%N
+I had to avoid that outcome at all costs.
+<END>
+
+#WRITE(PTR, $000011EE)
+I only came to school two to three times a week,%N
+so I had to keep a low profile.
+<END>
+
+#WRITE(PTR, $000011FE)
+To make it through school,%N
+I had to blend in—to become invisible like the air.
+<END>
+
+#WRITE(PTR, $0000120E)
+The ideal school day was one where nothing happened—one where I%N
+didn’t have to deal with any of my teachers or DQN classmates.%N
+That was the ultimate goal I shot for, and it would continue to%N
+be until the day I’d finally graduate.
+<END>
+$
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

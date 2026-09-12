@@ -1,0 +1,111 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($0000097A)
+
+#WRITE(PTR, $00000500)
+【あやせ？】
+“Fly and cross, fly and cross... And now, the promise...”
+<END>
+
+#WRITE(PTR, $00000510)
+【あやせ？】
+“Fly and cross, fly and cross... Fulfilled in all its glory...”
+<END>
+
+#WRITE(PTR, $00000520)
+【あやせ？】
+“Fly and cross, fly and cross... It unleashes the one and only...”
+<END>
+
+#WRITE(PTR, $00000530)
+【あやせ？】
+“Fly and cross, fly and cross... Ending of everything...”
+<END>
+
+#WRITE(PTR, $00000540)
+Late into the night, the sound of a beautiful voice could be heard%Nthroughout Miyashita Park.
+<END>
+
+#WRITE(PTR, $000006B0)
+It was coming from a pedestrian bridge that crossed over%NMeiji-dori.
+<LINE>
+A steady flow of cars passed underneath.
+<END>
+
+#WRITE(PTR, $000006C0)
+But in spite of this, the girl known as “FES” showed no sign of%Nbeing affected by the noise. She simply kept on singing, leaning%Nback against the handrail of the bridge.
+<END>
+
+#WRITE(PTR, $00000726)
+【あやせ２】
+“O servant, revealed by the light of the moonlit night...”
+<END>
+
+#WRITE(PTR, $00000736)
+On any normal day, if she were to sing on the street in public like this, she would surely attract hundreds of onlookers.
+<LINE>
+But right now, nobody was listening to her sing.
+<END>
+
+#WRITE(PTR, $00000746)
+For FES was deliberately concealing her presence—blending into%Nthe stillness of the night.
+<END>
+
+#WRITE(PTR, $000007EC)
+【あやせ２】
+“Connect the phantasmal paths which lead to this place...”
+<END>
+
+#WRITE(PTR, $000007FC)
+This way, she could loiter quietly until the moon left the sky%Nbehind.
+<END>
+
+#WRITE(PTR, $0000080C)
+By doing so—by becoming one with the darkness—she felt as if she%Ncould free herself from the corrupt atmosphere of Shibuya, if only%Nfor a moment.
+<LINE>
+That was what FES felt to be true.
+<END>
+
+#WRITE(PTR, $0000081C)
+【あやせ２】
+“Little do they know, their screams will soon turn to silence...”
+<END>
+
+#WRITE(PTR, $000008BC)
+Suddenly, FES looked up to the night sky.
+<END>
+
+#WRITE(PTR, $000008CC)
+The clouds covering it were starting to clear up, little by little, leaving space for the moonlight to shine through in their wake.
+<END>
+
+#WRITE(PTR, $000008DC)
+But sadly, any and all starlight was completely drowned out by the%Ndazzling neon of Shibuya.
+<END>
+
+#WRITE(PTR, $000008EC)
+【あやせ２】
+“And repose shall fall upon us as we link hand in hand within the%Nwind...”
+<END>
+
+#WRITE(PTR, $000008FC)
+FES halted her song, then slowly reached her hand out toward the%Nsky.
+<END>
+
+#WRITE(PTR, $0000090C)
+【あやせ２】
+“Whose eyes are those eyes?”
+<END>
+瑞
+
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

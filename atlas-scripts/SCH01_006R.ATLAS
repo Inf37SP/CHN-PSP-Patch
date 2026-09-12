@@ -1,0 +1,351 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00000C0A)
+
+#WRITE(PTR, $000004B2)
+Two hours prior.
+<END>
+
+#WRITE(PTR, $00000518)
+The light of the sunset bathed a hospital room in a vibrant orange.%NAll was silent, as if time itself had stopped.
+<END>
+
+#WRITE(PTR, $00000528)
+Only a single person was present.%NCompletely still, as if asleep, sat a boy in a wheelchair.
+<END>
+
+#WRITE(PTR, $00000538)
+It was around the time of day when one would find nurses rushing%Naround the hospital, serving patients their dinners. And yet, no%Nsuch signs of activity made their way to the room.
+<END>
+
+#WRITE(PTR, $00000570)
+A moment later, the silence was broken by the sound of a door%Nopening.
+<END>
+
+#WRITE(PTR, $000005BA)
+A lone girl entered the room.
+<END>
+
+#WRITE(PTR, $000005CA)
+The boy in the wheelchair lifted his head to acknowledge her, but%Ndid not speak.
+<END>
+
+#WRITE(PTR, $000005DA)
+For a moment, the girl hesitated at the entrance.
+<LINE>
+Looking around the room, she could sense a faint aura of%Nloneliness emanating from it.
+<END>
+
+#WRITE(PTR, $000005F2)
+The drab-looking room was minimal in size and reeked of%Ndisinfectant.
+<LINE>
+This was where the two of them spent their days.
+<END>
+
+#WRITE(PTR, $00000602)
+An isolated location, eternally unknown to the rest of humanity.
+<LINE>
+Not a single soul—be they a doctor, nurse, friend, or %Nrelative—ever came to visit.
+<END>
+
+#WRITE(PTR, $00000612)
+The boy and girl rarely exchanged words with one another.
+<LINE>
+The boy had been hospitalized, and for a whole year had been%Ncomatose. Only just a month ago had he awoken.
+<END>
+
+#WRITE(PTR, $00000622)
+The girl had been essentially using his room as a place to stay.
+<LINE>
+However, as much as she did trust him, their relationship had%Nnothing to do with any sort of romantic or sexual attraction.
+<END>
+
+#WRITE(PTR, $00000632)
+Her only goal was to repay her debt to the boy.%NNothing more, nothing less.
+<END>
+
+#WRITE(PTR, $00000642)
+The boy was intentionally cold and distant, having even told her%Nnot to return once before—yet all the same, she remained. %NThis was, in part, because she had nowhere else to go.
+<END>
+
+#WRITE(PTR, $00000652)
+During his coma, she had been his lone caretaker. The couch in the%Nroom had become her bed, and even now, after he had awoken, she%Nstill used it as such.
+<END>
+
+#WRITE(PTR, $00000692)
+【梨深２】
+“I brought you something to eat.”
+<END>
+
+#WRITE(PTR, $000006A2)
+She spoke with warmth and sincerity as she held out a bag of food%Nshe had brought from the convenience store.
+<END>
+
+#WRITE(PTR, $000006B2)
+Her words scared away the static atmosphere, and breathed new life%Ninto the dead world that surrounded them.
+<END>
+
+#WRITE(PTR, $000006C2)
+The girl surrendered herself to such an illusion, but did not%Nmention this to the boy as she laid several kinds of bread atop%Nthe empty bed.
+<END>
+
+#WRITE(PTR, $00000702)
+【梨深２】
+“Hey, this’s been on my mind for a while now, but... is food like%Nthis enough to keep you healthy?”
+<END>
+
+#WRITE(PTR, $00000712)
+【将軍？】
+“I don’t have much time left as it is. Regardless, I’m sorry for%Nsending you out to buy these.”
+<END>
+
+#WRITE(PTR, $00000752)
+【梨深２】
+“...It’s all right. Really. I got some food for myself, too, so%Ndon’t worry about it.”
+<END>
+
+#WRITE(PTR, $0000076A)
+She forced herself to smile at the boy. Then, taking an egg%Nsandwich for herself, she moved toward the window.
+<END>
+
+#WRITE(PTR, $00000786)
+Upon opening the window, the crisp autumn breeze permeated the%Nquiet hospital room. Comfortably greeted by the wind, the girl%Nnarrowed her eyes and perched nimbly on the windowsill.
+<END>
+
+#WRITE(PTR, $00000796)
+The room was located considerably high up. Imaginably, falling%Nwould mean certain death.
+<LINE>
+This, however, hardly mattered to the girl, who simply took a%Nhearty bite out of her sandwich.
+<END>
+
+#WRITE(PTR, $000007A6)
+The boy in the wheelchair paid her no heed.
+<LINE>
+He did not even attempt to reach for the bread laid out on the bed.
+<END>
+
+#WRITE(PTR, $00000806)
+【梨深２】
+“Listen, I need to ask you again... Are you really going to try to%Nawaken ‘him’?”
+<END>
+
+#WRITE(PTR, $00000816)
+【将軍？】
+“I am. The chat the two of us had yesterday made that very clear%Nto me. NOZOMI has been keeping an eye on ‘him,’ and Noah II is%Nnearing completion. We must make haste.”
+<END>
+
+#WRITE(PTR, $00000826)
+【梨深２】
+“No matter what it takes?”
+<END>
+
+#WRITE(PTR, $00000836)
+【将軍？】
+“...That’s right.”
+<END>
+
+#WRITE(PTR, $00000846)
+【梨深２】
+“But... that makes us no better than NOZOMI.%NScaring ‘him’... pushing him to the edge...”
+<END>
+
+#WRITE(PTR, $00000856)
+【将軍？】
+“‘He’ is all we have.”
+<END>
+
+#WRITE(PTR, $00000866)
+【梨深２】
+“...But if ‘he’ awakens, you’ll die.”
+<END>
+
+#WRITE(PTR, $00000876)
+【将軍？】
+“I’ve been prepared for that from the very beginning. My death is%Nsuitable punishment for shoving all my responsibilities onto%N‘him.’”
+<END>
+
+#WRITE(PTR, $00000886)
+The girl kept her gaze focused on the setting sun, not daring to%Nlook over her shoulder at the boy.
+<LINE>
+Her countenance laid her emotions bare; she looked as if she might%Nburst into tears at any moment.
+<END>
+
+#WRITE(PTR, $00000896)
+【梨深２】
+“Could... erasing ‘him’ be an option...?”%K%N
+
+“If that were to happen, I would not hesitate to put myself through another year-long coma so that I could create another ‘me.’”
+<END>
+
+#WRITE(PTR, $000008A6)
+【将軍？】
+“Perhaps even longer. But by the time I would succeed, Noah II%Nwill have long since been completed—an event that shall cast the%Nworld into despair.”
+<END>
+
+#WRITE(PTR, $000008B6)
+Despite his gentle tone, his words were laced with a touch of%Ncynicism. Upon hearing them, the girl couldn’t help but let out a%Nsigh.
+<END>
+
+#WRITE(PTR, $000008C6)
+【梨深２】
+“I can’t support the way you’re going about this.”
+<END>
+
+#WRITE(PTR, $000008D6)
+【将軍？】
+“We cannot allow Noah II to reach completion.”
+<END>
+
+#WRITE(PTR, $000008E6)
+【梨深２】
+“I know we can’t, but... putting myself in ‘his’ shoes... it’s just so sad...”
+<END>
+
+#WRITE(PTR, $000008F6)
+【梨深２】
+“And there’s no way I can just stand around and watch while you%Nkill yourself.”
+<END>
+
+#WRITE(PTR, $00000906)
+【将軍？】
+“I’m doing nothing of the sort.”
+<END>
+
+#WRITE(PTR, $00000916)
+【梨深２】
+“...I’ll take care of it.”
+<END>
+
+#WRITE(PTR, $00000926)
+The boy finally moved a little, taken aback by the girl’s abrupt,%Nyet resolute words.
+<END>
+
+#WRITE(PTR, $00000936)
+【将軍？】
+“What exactly do you mean by that?”
+<END>
+
+#WRITE(PTR, $00000962)
+Finishing off the last of her sandwich, she stepped down from the%Nwindowsill, then turned to face him. Then, for some inexplicable%Nreason, she snapped into a pose resembling that of a salute.
+<END>
+
+#WRITE(PTR, $000009A2)
+【梨深２】
+“I swear to protect ‘him’ from NOZOMI.”
+<END>
+
+#WRITE(PTR, $000009B2)
+【梨深２】
+“That way, you won’t have to die.”
+<END>
+
+#WRITE(PTR, $000009C2)
+【将軍？】
+“But that negates the very reason ‘he’ was created, and it doesn’t%Nsolve anything. Noah II—”
+<END>
+
+#WRITE(PTR, $00000A02)
+【梨深２】
+“I’ll take care of Noah II as well.”
+<END>
+
+#WRITE(PTR, $00000A12)
+【将軍？】
+“...That just isn’t something you can handle.”
+<END>
+
+#WRITE(PTR, $00000A22)
+【梨深２】
+“I’ve already made up my mind.”
+<END>
+
+#WRITE(PTR, $00000A62)
+【梨深２】
+“I won’t let you do what you plan to do. I’m going to protect you.”
+<END>
+
+#WRITE(PTR, $00000A72)
+She gave him a frail, yet tender smile.
+<LINE>
+At the sight of this, the boy lost any and all words he had.
+<END>
+
+#WRITE(PTR, $00000AB2)
+【梨深２】
+“You predicted there’ll be another incident today, right?”
+<END>
+
+#WRITE(PTR, $00000AC2)
+【将軍？】
+“It isn’t just a prediction—it’s an absolute fact. I have ‘seen’%Ntheir delusion myself.”
+<END>
+
+#WRITE(PTR, $00000AD2)
+【梨深２】
+“If that’s true, then I can’t let ‘him’ get involved.”
+<END>
+
+#WRITE(PTR, $00000AE2)
+【梨深２】
+“I’ll be going now.”
+<END>
+
+#WRITE(PTR, $00000AFA)
+She approached the door.
+<END>
+
+#WRITE(PTR, $00000B0A)
+【将軍？】
+“Even if you interfere, I will still force ‘him’ to awaken as%Nplanned.”
+<END>
+
+#WRITE(PTR, $00000B26)
+As she opened the door, hearing the boy’s words directed at her%Nback, she paused for one final time.%NNo signs of life came from the hallway. Not a single human being%Nwas in sight, and not a single sound reached the room.
+<END>
+
+#WRITE(PTR, $00000B36)
+【梨深２】
+“Hey... just what are we, exactly? The two of us’ve been here for%Nover a year, all while nobody even knows we exist.”
+<END>
+
+#WRITE(PTR, $00000B46)
+【梨深２】
+“Being here, I can’t help but feel like my existence is nothing%Nmore than an illusion or something.”
+<END>
+
+#WRITE(PTR, $00000B56)
+【梨深２】
+“...Tahaha, I think this hospital’s gloominess is getting to my%Nhead.”
+<END>
+
+#WRITE(PTR, $00000B66)
+【将軍？】
+“Rimi... You shouldn’t get involved.”
+<END>
+
+#WRITE(PTR, $00000B76)
+Despite the boy’s pleading...
+<LINE>
+the girl did not look back.
+<END>
+
+#WRITE(PTR, $00000B86)
+【梨深２】
+“Make sure to eat the bread I got you, okay?”
+<END>
+
+#WRITE(PTR, $00000BA2)
+After murmuring those last few words, the girl left the hospital%Nroom.
+<END>
+瑞職
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

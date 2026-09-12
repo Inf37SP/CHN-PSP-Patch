@@ -1,0 +1,756 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00001900)
+
+#WRITE(PTR, $00000044)
+梨深ルート有り
+<END2>
+
+#WRITE(PTR, $0000004E)
+梨深ルート無し
+<END2>
+
+#WRITE(PTR, $000000F6)
+Before I knew it, I found myself in an alleyway in Maruyamacho—the%Nsame alley I always took back home from Animeight.
+<END>
+
+#WRITE(PTR, $00000106)
+I blinked a couple times to make sure that I wasn’t just seeing%Nthings.
+<END>
+
+#WRITE(PTR, $00000122)
+I took a look inside my bag.
+<LINE>
+Nothing inside but the usual—some textbooks and a handheld game%Nsystem.
+<END>
+
+#WRITE(PTR, $00000132)
+I hadn’t bought anything from Animeight today.
+<LINE>
+Strange. Normally, I’d *never* leave Animeight empty-handed.
+<END>
+
+#WRITE(PTR, $00000142)
+Well, whatever.
+<LINE>
+I let out a sigh and continued walking.%NShouldn’t take me more than fifteen minutes to%Nreach my base from here.
+<END>
+
+#WRITE(PTR, $00000152)
+I was only a short walk from the station, yet the dazzling neon%Nlights and thick crowds had all but vanished.
+<END>
+
+#WRITE(PTR, $00000162)
+There were the occasional passersby—usually older couples heading to love hotels, or random businessmen heading home—but aside from that, the place was deserted.
+<END>
+
+#WRITE(PTR, $00000172)
+Hard to believe this was still Shibuya, home of the bustling,%NDQN-infested Center-gai.
+<END>
+
+#WRITE(PTR, $00000182)
+Somehow, it was already nighttime. And if that weren’t enough, it%Nwas especially cloudy tonight, making it even darker than usual%Nsince the moonlight couldn’t shine through.
+<END>
+
+#WRITE(PTR, $00000252)
+【拓巳】
+“...Here we go again.”
+<END>
+
+#WRITE(PTR, $00000262)
+I’d walked down this dirty alley more times than I could count.
+<END>
+
+#WRITE(PTR, $00000272)
+But for some reason, walking through it today, I couldn’t help but%Nfeel as if I’d stepped into another world.
+<END>
+
+#WRITE(PTR, $00000282)
+The alley was the same as ever, but it felt like it was the first%Ntime I’d ever set foot in it.
+<END>
+
+#WRITE(PTR, $00000292)
+What’s more, the stench of rotting garbage was lingering in the%Nair.
+<END>
+
+#WRITE(PTR, $000002A2)
+The moisture in the atmosphere was so thick that, if I hadn’t known any better, I’d’ve assumed that it’d just been raining.%NThe air was like syrup on my skin.
+<END>
+
+#WRITE(PTR, $000002BC)
+【拓巳】
+“Wait, hold on...”
+<END>
+
+#WRITE(PTR, $000002CC)
+Why did I say “again?” Has this happened before?
+<END>
+
+#WRITE(PTR, $000002F4)
+Hadn’t I felt this sense of 
+<DICT>
+jamais vu
+</DICT>
+ before...?
+<END>
+
+#WRITE(PTR, $0000030C)
+Fuck, was I getting my delusions mixed up with reality or%Nsomething?
+<LINE>
+That sounded like the kind of nonsense some “expert” psychiatrist%Nwould say on one of those TV talk shows.
+<END>
+
+#WRITE(PTR, $0000031C)
+Well, whatever. The point was, *right at that moment,*%NI was feeling a strange sense of jamais vu.
+<END>
+
+#WRITE(PTR, $0000032C)
+But...
+<LINE>
+On top of that...
+<END>
+
+#WRITE(PTR, $0000033C)
+I could feel a prickling sensation on the nape of my neck.
+<LINE>
+A sensation I knew very well...%NThe feeling of being watched from the heavens.
+<END>
+
+#WRITE(PTR, $0000034C)
+And I could say for sure that it was no delusion.%NIt felt inescapable—as if, no matter where I went, the “gaze”%Nwould follow.
+<END>
+
+#WRITE(PTR, $0000035C)
+There was no doubt in my mind: somebody was watching me. That was%Njust how powerful the sensation was.
+<END>
+
+#WRITE(PTR, $0000036C)
+I desperately wanted to look behind me.
+<LINE>
+But I challenged myself not to.
+<END>
+
+#WRITE(PTR, $0000037C)
+It was a game that I played every once in a while. A test.
+<END>
+
+#WRITE(PTR, $0000038C)
+I called it the, “It’ll take more than THAT to make me turn around!” game.
+<END>
+
+#WRITE(PTR, $0000039C)
+The aim of the game, obviously, was to avoid turning around.
+<END>
+
+#WRITE(PTR, $000003AC)
+I played it when I heard a weird sound or felt like I was being%Nwatched.
+<END>
+
+#WRITE(PTR, $000003BC)
+Whenever I felt the “gaze,” I tended to imagine some kind of%Ninsanely terrifying ghost or monster lurking behind me.
+<END>
+
+#WRITE(PTR, $000003CC)
+Not like I’d ever actually seen anything in the past seventeen%Nyears, though. Even on the occasions when I’d lost my patience and%Nturned around.
+<END>
+
+#WRITE(PTR, $000003DC)
+Still, I’d always been able to have at least a little bit of fun%Nwith it.
+<END>
+
+#WRITE(PTR, $000003EC)
+I’d listen to the wind, raise an eyebrow suspiciously, and say%Nphrases ripped straight out of a manga.
+<END>
+
+#WRITE(PTR, $000003FC)
+That was the only reason why I did it—because it was fun.%NDefinitely not because I was scared or anything.
+<END>
+
+#WRITE(PTR, $0000040C)
+【拓巳】
+“Wh-What do you think you’re looking at... bastard?”
+<END>
+
+#WRITE(PTR, $0000041C)
+【拓巳】
+“Whose eyes are those eyes?”
+<END>
+
+#WRITE(PTR, $0000042C)
+【拓巳】
+“Hehe, gotcha♪”
+<END>
+
+#WRITE(PTR, $0000043C)
+Okay, to be honest, I was really just trying to act calm.
+<LINE>
+But before I knew it, I’d stopped dead in my tracks.
+<END>
+
+#WRITE(PTR, $0000044C)
+I sensed a change in the atmosphere, paralyzing my body in place.%NI then noticed my face was soaked with sweat, and my knees were%Nshaking.
+<END>
+
+#WRITE(PTR, $0000045C)
+Unable to take it anymore, I turned around.
+<END>
+
+#WRITE(PTR, $0000046C)
+Which meant that I’d lost. But thankfully, there was no one behind%Nme. Not even a car passing by or something.
+<END>
+
+#WRITE(PTR, $0000047C)
+So why did I feel so uneasy...?
+<END>
+
+#WRITE(PTR, $000004A2)
+【拓巳】
+“Ah...”
+<END>
+
+#WRITE(PTR, $000004B2)
+The ringing in my ears ceased.
+<END>
+
+#WRITE(PTR, $000004C2)
+I hadn’t even realized it, but I’d been hearing some ringing sound%Nthis whole time.
+<END>
+
+#WRITE(PTR, $000004D2)
+But still, until now, I had been completely oblivious to it.
+<END>
+
+#WRITE(PTR, $000004E2)
+And now that it was gone, I couldn’t hear anything at all.
+<LINE>
+For a place like Tokyo, this sort of sudden silence seemed %Ncompletely unreal.
+<END>
+
+#WRITE(PTR, $000004F2)
+It was the sort of perfect silence where you could hear a pin drop, if you focused hard enough.
+<END>
+
+#WRITE(PTR, $00000502)
+So I closed my eyes and listened closely, just to see what I could%Nhear.
+<END>
+
+#WRITE(PTR, $00000574)
+But I still couldn’t hear anything at all.
+<END>
+
+#WRITE(PTR, $00000584)
+That was pretty strange.
+<END>
+
+#WRITE(PTR, $00000594)
+No, that was *definitely* strange...
+<END>
+
+#WRITE(PTR, $000005A4)
+There were all sorts of things I should’ve been hearing.%NTrains running by, car horns in the distance...%N*Some* sort of small noise...
+<END>
+
+#WRITE(PTR, $000005B4)
+So why did I hear nothing?
+<LINE>
+Was something wrong with my ears?
+<END>
+
+#WRITE(PTR, $000005C4)
+I felt compelled to shout, just so I could hear *something.*%NI felt like I might go crazy otherwise.
+<END>
+
+#WRITE(PTR, $000005D4)
+But I couldn’t do it.
+<END>
+
+#WRITE(PTR, $000005E4)
+The silence was deafening, but it made me fear what would happen if I broke it.
+<END>
+
+#WRITE(PTR, $00000616)
+【拓巳】
+“...!”
+<END>
+
+#WRITE(PTR, $00000626)
+Suddenly, a single sound resounded through the silent world.
+<END>
+
+#WRITE(PTR, $00000686)
+I turned my head to look for the source, but instead, I found a slew of shining objects scattered across the asphalt.
+<END>
+
+#WRITE(PTR, $00000696)
+【拓巳】
+“Are those... crosses?”
+<END>
+
+#WRITE(PTR, $000006A6)
+When I saw them, my body suddenly unfroze.%NAnd, naturally—perhaps too naturally—I started moving toward%Nthem.
+<END>
+
+#WRITE(PTR, $000006B6)
+Driven by curiosity, I picked one up. It was made of metal, with a%Nlong, pointy end like a needle.
+<END>
+
+#WRITE(PTR, $00000716)
+*A stake? Or a nail, maybe?*
+<END>
+
+#WRITE(PTR, $00000726)
+Whatever it was, it was shaped like a cross, hence my initial%Nconfusion. It felt almost phantasmal, like it might float away at%Nany moment. 
+<LINE>
+I tightened my grip on it.
+<END>
+
+#WRITE(PTR, $00000786)
+And the sound... continued to reverberate faintly in the distance.
+<END>
+
+#WRITE(PTR, $00000796)
+A sound cold enough to send chills down my spine.
+<LINE>
+Repeating incessantly.
+<END>
+
+#WRITE(PTR, $000007A6)
+Even so, I couldn’t help but move toward its source. It was like I%Nwas in a trance.
+<END>
+
+#WRITE(PTR, $000007B6)
+Was it just morbid curiosity?
+<LINE>
+Or was I hoping that the noise would save me?
+<LINE>
+That it would grant me salvation from this silent world?
+<END>
+
+#WRITE(PTR, $000007C6)
+You know, this reminded me of that one German folktale.
+<END>
+
+#WRITE(PTR, $000007D6)
+What was it called again...? Oh yeah, the Pied Piper of Hamelin.%NA story in which the sound of one man’s pipe lured over 100 children into following him.
+<END>
+
+#WRITE(PTR, $000007EE)
+The clanging sound refused to stop.
+<LINE>
+And the farther I walked, the louder it got.
+<END>
+
+#WRITE(PTR, $000007FE)
+It was coming from farther down the alley,%Npast the corner on my left.
+<LINE>
+I could already tell: if I turned that corner,%NI would be met with the source of that sound.
+<END>
+
+#WRITE(PTR, $0000080E)
+And yet, I never thought of turning back. Such a thought didn’t even cross my mind.
+<LINE>
+It was like my body was moving on its own.
+<END>
+
+#WRITE(PTR, $0000081E)
+And so, I turned the corner...
+<LINE>
+...and my eyes were struck by...
+<END>
+
+#WRITE(PTR, $0000087E)
+...a vibrant crimson,
+<LINE>
+shining through the darkness.
+<END>
+
+#WRITE(PTR, $000008FC)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $0000090C)
+My first thought was, “Where have I seen this art piece before?”
+<LINE>
+And my second thought was, “It doesn’t look very realistic.”
+<END>
+
+#WRITE(PTR, $0000091C)
+Maybe I was so shocked that my brain wasn’t processing things%Nproperly.%NNormally, when I saw something this terrifying, I’d freeze, scream%Nlike a little girl, and piss my pants all at once.
+<END>
+
+#WRITE(PTR, $0000092C)
+The work consisted of spikes arranged on a wall, like the quills of a hedgehog or pins in a pin cushion.%NBut... when I looked closer, I realized the “pin cushion” was%Nleaking blood.
+<END>
+
+#WRITE(PTR, $0000093C)
+So then... that meant that the puddle of crimson below it was%Nblood.%NThe feeble glow of a streetlight just barely reached it, causing%Nthe pool to gleam in the darkness.
+<END>
+
+#WRITE(PTR, $0000094C)
+Scattered around were a few shining pieces of what looked like%Nmeat. Maybe. I couldn’t really tell.
+<END>
+
+#WRITE(PTR, $0000095C)
+I tried to gulp, but my throat had gone completely dry.%NNot a single drop of saliva to be found.
+<END>
+
+#WRITE(PTR, $0000096C)
+And then, I realized.
+<END>
+
+#WRITE(PTR, $0000097C)
+The *thing* that was nailed to the wall...
+<END>
+
+#WRITE(PTR, $000009F4)
+...was a human corpse.
+<END>
+
+#WRITE(PTR, $00000A04)
+A murder that was far too unnatural.
+<LINE>
+Far too brutal.
+<LINE>
+Far too immoderate.
+<END>
+
+#WRITE(PTR, $00000A14)
+And the one who’d done it...
+<LINE>
+The one who had nailed these stakes to the wall...
+<END>
+
+#WRITE(PTR, $00000A24)
+...was a single girl.
+<END>
+
+#WRITE(PTR, $00000A34)
+As for how I knew that...
+<END>
+
+#WRITE(PTR, $00000A9A)
+It was because she was right there. Standing in front of her “art,” holding a bundle of stakes in her blood-soaked hand.
+<END>
+
+#WRITE(PTR, $00000AAA)
+I could only see her back from here, so I obviously had no clue what she looked like.
+<END>
+
+#WRITE(PTR, $00000ABA)
+What I *could* tell, though, was what she was wearing... a Suimei%NAcademy uniform.
+<END>
+
+#WRITE(PTR, $00000ACA)
+The stench of rotting garbage was intensifying, and I was hit%Nwith wave after wave of nausea.
+<END>
+
+#WRITE(PTR, $00000ADA)
+I put a hand to my mouth to stop myself from vomiting, but I was%Nnearly at my limit.
+<END>
+
+#WRITE(PTR, $00000AEA)
+And then it suddenly dawned on me.%NThe cause of my déjà vu.%NThe answer to the question, “Where have I seen this before?”
+<END>
+
+#WRITE(PTR, $00000B62)
+【拓巳】
+“The picture... Shogun sent...!”
+<END>
+
+#WRITE(PTR, $00000B78)
+Without meaning to, I’d said that out loud.%NWithout realizing how dangerous, or even deadly,%Nthat mistake could be.
+<END>
+
+#WRITE(PTR, $00000B88)
+In response to my voice, “her” shoulder twitched slightly.
+<END>
+
+#WRITE(PTR, $00000B98)
+And with that, she slowly turned to face me...
+<END>
+
+#WRITE(PTR, $00000BE2)
+In that moment, it was as if her gaze was piercing straight%Nthrough me.
+<LINE>
+Such desolate eyes...
+<END>
+
+#WRITE(PTR, $00000BF2)
+She had just... killed someone...
+<END>
+
+#WRITE(PTR, $000010A2)
+“She,” too, had heard that sound.
+<END>
+
+#WRITE(PTR, $000010B2)
+Before, there had been a strange whirring sound—like something%Ntearing its way through the air.
+<END>
+
+#WRITE(PTR, $000010C2)
+That was when she heard another sound echoing in the distance.%NThe shrill sound of stakes being nailed into a wall.%NAnd, though faint, the whirring sound from before could still be%Nheard as well.
+<END>
+
+#WRITE(PTR, $000010D2)
+The two sounds resonated in grating harmony, creating the illusion%Nthat “her” ears may start bleeding at any moment.
+<END>
+
+#WRITE(PTR, $00001112)
+【梨深２】
+“Am I... too late...?”
+<END>
+
+#WRITE(PTR, $0000112A)
+Lightly biting her lip, she sprinted toward the source of the%Nsound. And there, her eyes landed upon...
+<END>
+
+#WRITE(PTR, $000011A4)
+...a corpse, affixed to a wall by several cross-shaped stakes.
+<END>
+
+#WRITE(PTR, $000011C4)
+Startled, she surveyed her surroundings.
+<END>
+
+#WRITE(PTR, $000011D4)
+Though she loathed to admit it, the status of the victim did not%Nmatter to her in the slightest. If granted the opportunity, she%Nwould naturally have preferred to save him, but it was much too%Nlate. And now, there were more important matters at hand.
+<END>
+
+#WRITE(PTR, $000011E4)
+She couldn’t let *Nishijou Takumi* see this place.
+<LINE>
+She couldn’t let him be consumed by fear.
+<END>
+
+#WRITE(PTR, $000011F4)
+*Where could he be?*
+<END>
+
+#WRITE(PTR, $00001204)
+With that on her mind, she returned her gaze to the corpse.
+<END>
+
+#WRITE(PTR, $0000127E)
+【梨深２】
+“...!”
+<END>
+
+#WRITE(PTR, $0000128E)
+She was at a loss for words.
+<END>
+
+#WRITE(PTR, $0000129E)
+She had only looked away for a second, and yet, in that short%Ntime, countless stakes had gruesomely mutated the corpse.
+<END>
+
+#WRITE(PTR, $000012AE)
+Just a moment ago, there had only been a few stakes on the%Nwall—just enough to suspend the corpse in midair. There hadn’t%Neven been any external injuries, let alone blood.
+<END>
+
+#WRITE(PTR, $000012BE)
+But now, a grisly spectacle lay before her eyes.
+<END>
+
+#WRITE(PTR, $000012CE)
+The sight of it left her reeling in horror, frantically fighting%Nto endure her nausea.%NHer vision distorted as uncertainty seized her heart.
+<END>
+
+#WRITE(PTR, $000012DE)
+【梨深２】
+“Is a delusion... eroding reality...?”
+<END>
+
+#WRITE(PTR, $000012EE)
+In that moment, the girl came to notice...%Nthat the changes did not end there.
+<END>
+
+#WRITE(PTR, $0000135A)
+Her clothes were different.
+<LINE>
+She was wearing a uniform unfamiliar to her,
+<LINE>
+from a school she didn’t recognize.
+<END>
+
+#WRITE(PTR, $0000136A)
+In addition, her body was stained with crimson.
+<LINE>
+And in her hand... was a stake.
+<END>
+
+#WRITE(PTR, $0000137A)
+【梨深２】
+“No... Is this...”
+<END>
+
+#WRITE(PTR, $0000138A)
+【梨深２】
+“A delusion synchro...?!”
+<END>
+
+#WRITE(PTR, $0000148C)
+Someone’s delusion had “edited” the scene around her.
+<END>
+
+#WRITE(PTR, $0000149C)
+The gruesome corpse... her clothes... the rich scarlet blood...
+<LINE>
+Was any of it real?
+<END>
+
+#WRITE(PTR, $000014AC)
+【梨深２】
+“No...”
+<END>
+
+#WRITE(PTR, $000014BC)
+It couldn’t possibly be real.
+<END>
+
+#WRITE(PTR, $000014CC)
+There was no stench of blood. She couldn’t feel the icy chill of%Nthe metal stake in her hand.%NShe put her hand to her bloody cheek, and it came away dry.
+<END>
+
+#WRITE(PTR, $000014DC)
+She carefully reached for one of the stakes planted in the body.
+<LINE>
+But when she tried to grab it, her hand grasped nothing but air.
+<END>
+
+#WRITE(PTR, $000014EC)
+Everything was a delusion.
+<LINE>
+A far, far too vivid delusion...
+<END>
+
+#WRITE(PTR, $000014FC)
+But at any moment, the delusion could become reality.
+<LINE>
+It had already “taken form.”
+<LINE>
+Once realbooted, it would merge with reality.
+<END>
+
+#WRITE(PTR, $0000150C)
+What was she to do?
+<END>
+
+#WRITE(PTR, $0000151C)
+The girl was overtaken by doubt. A delusional space like this,%Noozing negativity, was well beyond anything she was used to%Ndealing with. Such a powerful deluder may have already taken%N*Nishijou Takumi’s* life.
+<END>
+
+#WRITE(PTR, $0000152C)
+She might suddenly find *Takumi* pinned to the wall in this man’s%Nplace. At this point, it would not even surprise her.
+<END>
+
+#WRITE(PTR, $0000153C)
+Driven by anxiety, she let out a soft cry, and right at that%Nmoment...
+<END>
+
+#WRITE(PTR, $0000154C)
+【拓巳】
+“The picture... Shogun sent...!”
+<END>
+
+#WRITE(PTR, $0000155C)
+...the terrified scream of a boy resounded from behind her.
+<END>
+
+#WRITE(PTR, $0000168A)
+【梨深２】
+“Ah...”
+<END>
+
+#WRITE(PTR, $0000169A)
+At first, “she” seemed shocked, but her expression quickly changed%Nto a somber smile.%NAnd then...
+<END>
+
+#WRITE(PTR, $000016DA)
+【梨深２】
+“Thank... goodness...”
+<END>
+
+#WRITE(PTR, $000016EA)
+She softly whispered those words.
+<END>
+
+#WRITE(PTR, $000016FA)
+“Thank goodness”?
+<LINE>
+Thank goodness... for what?
+<END>
+
+#WRITE(PTR, $0000170A)
+And why was “she” smiling at me?
+<END>
+
+#WRITE(PTR, $0000171A)
+I didn’t understand. The questions kept piling up, to the point%Nwhere it sent a chill down my spine.%NNow panicking, I tried averting my eyes.
+<END>
+
+#WRITE(PTR, $0000172A)
+The first thing that came to mind was,%N“I don’t want anything to do with this.”
+<END>
+
+#WRITE(PTR, $0000173A)
+I mean, for starters, I could hardly make eye contact with regular%N3D girls, let alone psycho killers, and the police would be here%Nsoon, and I was hungry...
+<END>
+
+#WRITE(PTR, $0000174A)
+That’s why I should just go home. Yeah.
+<LINE>
+I need to get out of here. As fast as humanly possible.%NIf I don’t, I’ll...
+<END>
+
+#WRITE(PTR, $0000175A)
+...go insane—
+<END>
+
+#WRITE(PTR, $0000176A)
+【梨深２】
+“Taku...”
+<END>
+
+#WRITE(PTR, $0000177A)
+【拓巳】
+“H-Huh?!”
+<END>
+
+#WRITE(PTR, $0000178A)
+Suddenly, “she” called me by name.
+<LINE>
+Even though I’d never told “her” my name.%NEven though I’d never even met her before.
+<END>
+
+#WRITE(PTR, $000017D2)
+【梨深２】
+“I was looking for you...”
+<END>
+
+#WRITE(PTR, $000017E2)
+As she looked at me, “her” lips twisted into a horrifically%Nfearsome smile...
+<LINE>
+Almost like “she” was a demon...
+<END>
+
+#WRITE(PTR, $0000187E)
+Screaming at the top of my lungs,
+<LINE>
+I ran as fast as my legs could carry me.
+<LINE>
+It hurt to breathe, but I didn’t care. I just kept screaming and%Nrunning as if my life depended on it.
+<END>
+
+#WRITE(PTR, $0000188E)
+At one point along the way, I turned my head to look behind me, but “she” didn’t seem to be chasing me.
+<END>
+
+#WRITE(PTR, $000018B4)
+DELUS_OUT.PMF
+$00 $90 $90 $9E $00 $00 $00 $00 $00 $00 $00 $02 $00 $00 $00 $00 $00 $00 $00
+<END2>
+

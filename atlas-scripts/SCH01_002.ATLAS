@@ -1,0 +1,596 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00002192)
+
+#WRITE(PTR, $00000C06)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC I couldn't see the “gaze.” %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000C1C)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC I couldn't see it, even though it was watching me.
+<LINE>
+It was strange. %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000C32)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC For as long as I could remember, %LE
+<LINE>
+%LC I sometimes felt like I was being watched by some mysterious
+<LINE>
+“gaze.” %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000C48)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC But whenever I turned to look, there was never anyone there. %LE
+<LINE>
+%T030%LC Still, I was convinced that someone was watching me. %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000C5E)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC I could tell by the chills that ran down my neck. %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000C74)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC Was I just being too self-conscious? %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000C8A)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC Or did I just have a fear of being watched? %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000CA0)
+<LINE>
+<LINE>
+<LINE>
+%LC Way back in elementary school, I'd thought of it differently. %LE
+<LINE>
+%T030%LC “That ‘gaze’ is God watching over me.” %LE
+<LINE>
+%T030%LC And I genuinely believed it, too. %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000CB6)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC I'd even written an essay about it back then. %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000CE4)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC In retrospect, I must've just had a base case of chuunibyou. %LE
+<LINE>
+%T030%LC But now, it hurt just thinking about it. %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000D02)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC If anyone were to read it now, %LE
+<LINE>
+%LC I'd probably shut myself away from society for the rest of my
+<LINE>
+life. %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000D18)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC Fuhihi. %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000D2E)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC I could still remember the tittle of that essay. %LE
+<ENDPANEL>
+
+#WRITE(PTR, $00000EC0)
+My chair groaned hoarsely as I leaned back.
+<END>
+
+#WRITE(PTR, $00000ED0)
+【拓巳】
+“Don't look at me.” 
+<END>
+
+#WRITE(PTR, $00000EE0)
+I muttered that toward the gloomy ceiling, irritaded.
+<LINE>
+Naturally, there was no response.
+<END>
+
+#WRITE(PTR, $00000EF0)
+This was my room.
+<LINE>
+I lived here alone.
+<END>
+
+#WRITE(PTR, $00000F00)
+Aside from me, of course, there wasn't a single person here.
+<END>
+
+#WRITE(PTR, $00000F10)
+I tried turning around.
+<END>
+
+#WRITE(PTR, $00000FC8)
+My room was dim and cluttered, with various belongings stacked all%Nthe way to the ceiling.
+<END>
+
+#WRITE(PTR, $00001080)
+The only source of light in the room was the desk lamp near my PC.
+<END>
+
+#WRITE(PTR, $00001090)
+There weren't any windows, so the darkness should come as no%Nsurprise.
+<END>
+
+#WRITE(PTR, $000010A0)
+And since you couldn't see outside, you couldn't even tell whether%Nit was night or day.
+<END>
+
+#WRITE(PTR, $00001106)
+I started speaking into the dark corners of my room.
+<END>
+
+#WRITE(PTR, $0000111A)
+【拓巳】
+“My name is Nishijou Takumi. I'm 17, and I'm in my second year at%NSuimei Academy. %K
+<END2>
+
+#WRITE(PTR, $0000112A)
+Not like I really go to the school much, though.”
+<END>
+
+#WRITE(PTR, $0000113A)
+【拓巳】
+“My name is Nishijou Takumi.%NI'm 17, and I'm in my second year at%N Suimei Academy.
+<LINE>
+Not like I really go to the school much, though.”
+<END2>
+
+#WRITE(PTR, $0000114C)
+【拓巳】
+“Well, that's just because I study from home.” %K%P
+<END2>
+
+#WRITE(PTR, $0000115C)
+“As long as I come in to take the tests,%N I can ace them all just fine.” %K%P
+<END2>
+
+#WRITE(PTR, $0000116C)
+“I'm pretty smart, y'know.”
+<END>
+
+#WRITE(PTR, $0000117C)
+【拓巳】
+“Well, that's just because I study from home. As long as I come in to take the tests, I can ace them all just fine. I'm pretty smart, y'know.”
+<END2>
+
+#WRITE(PTR, $0000118A)
+It wasn't like talking to myself would accomplish anything.
+<LINE>
+It wasn't like anyone was gonna show up out of nowhere.
+<END>
+
+#WRITE(PTR, $0000119A)
+The darkness just kept on sitting there and being darkness.
+<END>
+
+#WRITE(PTR, $000011AA)
+Still, darkness was delusion fuel.
+<END>
+
+#WRITE(PTR, $000011BA)
+After all, the unseen might as well be the unknown.
+<END>
+
+#WRITE(PTR, $000011CA)
+In the darkness, even if you knew it was impossible, you couldn't%Nhelp but wonder 
+if something might be there, lurking in the%Nshadows...
+<END>
+
+#WRITE(PTR, $000011DA)
+Dammit this wasn't helping. I was only making my own creepy%Ndelusions worse. Why 
+did I do this to myself...?
+<END>
+
+#WRITE(PTR, $000011EA)
+To get off the topic, I decided to keep monologuing.
+<END>
+
+#WRITE(PTR, $000011FA)
+【拓巳】
+“Right now, I'm deep in enemy territory... er, I mean, I'm living%N in Shibuya.” 
+<END>
+
+#WRITE(PTR, $000012D0)
+【拓巳】
+“This is the KURENAI Conference Hall. It's owned by my dad's%N property management company,
+<END>
+
+#WRITE(PTR, $0000133A)
+【拓巳】
+“but I'm just renting out a cheap shipping container on the roof.” 
+<END>
+
+#WRITE(PTR, $00001492)
+【拓巳】
+“The area around here really does suck, though. I'm in Shinsen,%N
+ which means a lot of small hills. It's exhausting. And if that%N
+ weren't bad enough, the love hotel district is right around%N
+ the corner.”
+<END>
+
+#WRITE(PTR, $0000170E)
+【拓巳】
+“If only I lived in Akiba instead. Now THAT'd be epic.”
+<END>
+
+#WRITE(PTR, $0000178A)
+【拓巳】
+“Seriously though, Shibuya is such a horrible city. It's as shitty as Denes Valley in ESO.”
+<END>
+
+#WRITE(PTR, $00001802)
+ESO was the name of an 
+<DICT>
+ＭＭＯＲＰＧ
+</DICT>
+ that was basically my life.
+<END>
+
+#WRITE(PTR, $0000181A)
+Its full tittle was “Empire Sweeper Online.”
+<END>
+
+#WRITE(PTR, $0000182A)
+I'd dive into Baselard―that's the world of ESO―pretty much every day at this point.
+<LINE>
+Sacrificing sleep in the process, of course.
+<END>
+
+#WRITE(PTR, $0000183A)
+Denes Valley was a region in ESO that was full of annoying mobs.
+<END>
+
+#WRITE(PTR, $0000184A)
+They hit super hard, and yet they couldn't even be bothered to drop any decent loot.
+<END>
+
+#WRITE(PTR, $0000185A)
+Only idiots went there to grind.
+<END>
+
+#WRITE(PTR, $0000186A)
+Every vet worth his shit would go to the Forest of Lieid instead.
+   It was a much better place to grind, and it was right nearby.
+<END>
+
+#WRITE(PTR, $0000187A)
+Of course, that was where I went.
+<END>
+
+#WRITE(PTR, $000018B2)
+【拓巳】
+“Like I was saying, this city if full of 
+<DICT>
+ＤＱＮ
+</DICT>
+ and egotistical%N douchebags looking for an easy lay. I wish it'd just get%Ndemolished already.”
+<END>
+
+#WRITE(PTR, $000018CA)
+【拓巳】
+“So long as I'm in the comfort of my own room, though,%N
+ I don't need to put up with any of that.”
+<END>
+
+#WRITE(PTR, $000018DA)
+【拓巳】
+“I have a top-of-the-line PC and super-fast Internet, and that's  all I need.”
+<END>
+
+#WRITE(PTR, $000018EA)
+【拓巳】
+“It's all *any* student could ever need, really.
+<LINE>
+ Oh, right―that's why I call this room my ‘base.’”
+<END>
+
+#WRITE(PTR, $000018FA)
+As always, the wasn't a single living creature in here except me.
+<END>
+
+#WRITE(PTR, $0000190A)
+Realizing how ridiculous I sounded talking to myself like this,%N
+I decided to stop introducing myself to whoever was watching me.
+<END>
+
+#WRITE(PTR, $00001970)
+【拓巳】
+“Heh, still though, this room is a total mess.”
+<END>
+
+#WRITE(PTR, $00001980)
+The whole room reeked of rot.
+<LINE>
+I could feel the stagnating air crawling on my skin.
+<END>
+
+#WRITE(PTR, $00001990)
+Empty soda bottles and boxed lunches from the convenience store were scattered all over the floor.
+<END>
+
+#WRITE(PTR, $000019A0)
+Also, my bed was covered in piles and piles of **eroge**.
+<LINE>
+Thanks to that, I always slept on the couch instead.
+<END>
+
+#WRITE(PTR, $000019B4)
+【拓巳】
+“Seriously though, this place is a pigsty. Who the hell makes%N
+a mess like th―
+<END2>
+
+#WRITE(PTR, $000019C4)
+ Oh.
+<LINE>
+Me.
+<END2>
+
+#WRITE(PTR, $00001A28)
+<LINE>
+Fuhihi.”
+<END>
+
+#WRITE(PTR, $00001A38)
+【拓巳】
+“Seriously though, this place is a pigsty. Who the hell makes%N
+a mess like th― Oh.%NMe.%NFuhihi.”
+<END2>
+
+#WRITE(PTR, $00001A64)
+Fed up with my own creepy laugh, I took out my frustation on a%N
+plastic bottle lying by my foot.
+<END>
+
+#WRITE(PTR, $00001BB6)
+The bottle ricocheted off the wall and flew straight toward my%N
+shelf of perfectly organized figures. With a shriek, I leapt%N
+out of my chair to catch it.
+<END>
+
+#WRITE(PTR, $00001BC6)
+I'd never let anyone lay a finger on any of my 100ish waifus,%N
+daughters, and older sisters. These girls were my darlings.%N
+Just looking at them soothed my aching heart.
+<END>
+
+#WRITE(PTR, $00001BD6)
+I made sure to tidy up their shelf once a week; it was the only%N
+place in the room I ever cleaned.%K
+%NI was always looking for the best ways to display their cuteness.
+<END>
+
+#WRITE(PTR, $00001BE6)
+I would constantly rotate and reposition them, trying to create%N
+the ultimate layout. Naturally if i let them get dusty, them the%N
+whole thing would be ruined so I always made sure to clean them%N
+regularly.
+<END>
+
+#WRITE(PTR, $00001C64)
+Breathing a sigh of relief, I tossed the bottle aside and turned%Nback to my PC.
+<END>
+
+#WRITE(PTR, $00001C74)
+I kept my beloved PC enshrined at the back end of my room.
+<END>
+
+#WRITE(PTR, $00001D02)
+Next to my monitor was 
+<DICT>
+Seira-tan (1/8 scale - Pre-Awakening Version)
+</DICT>
+, a figure from my%Ncurrent favorite anime, *Blood Tune: THE ANIMATION.*
+<END>
+
+#WRITE(PTR, $00001D12)
+She sat there, striking a **moe** pose and smiling at me.
+<END>
+
+#WRITE(PTR, $00001D2A)
+【拓巳】
+“Seira... You're so cute, Seira...”
+<END>
+
+#WRITE(PTR, $00001D3A)
+Staring longingly into Seira-tan's eyes, I grabbed a nearly%N
+bottle of Cola and took a sip.
+<END>
+
+#WRITE(PTR, $00001D4A)
+It was lukewarm, but I didn't care.
+<END>
+
+#WRITE(PTR, $00001D5A)
+【拓巳】
+“All right, let's get back to ESO.”
+<END>
+
+#WRITE(PTR, $00001DBC)
+I sat back down and plopped my hands onto the keyboard.
+<LINE>
+Just assuming that position made me feel relaxed.
+<END>
+
+#WRITE(PTR, $00001DE8)
+My character in ESO, Neidhardt, was a 
+<DICT>
+paladin
+</DICT>
+.%NI’d already leveled him up to the max and reset twice.
+<END>
+
+#WRITE(PTR, $00001E00)
+Right now, he was back to the max level: 50.%NThat was the highest rank you could reach on official servers.
+<END>
+
+#WRITE(PTR, $00001E10)
+ESO players far and wide knew me as “Lightning-Fast Neidhardt.”
+<END>
+
+#WRITE(PTR, $00001E20)
+They treated me like a god.
+<END>
+
+#WRITE(PTR, $00001E30)
+I already had all the rare weapons, armor, and magic.
+<LINE>
+I still only had 95% of the total rare items... but eh, whatever,%Nit was still a work in progress.
+<END>
+
+#WRITE(PTR, $00001E58)
+I had so much gold that I didn’t even know what to do with it. 
+<LINE>
+Well, aside from 
+<DICT>
+ＲＭＴ
+</DICT>
+ (real money trading), which I made a living  off of. Even if I stopped grinding right now, I’d still have enough to keep living like this for half a year.
+<END>
+
+#WRITE(PTR, $00001EC6)
+Aside from just ESO stuff,%NI was particularly adept at chatting online.
+<END>
+
+#WRITE(PTR, $00001ED6)
+It was the only source of social interaction I ever got, after all.
+<END>
+
+#WRITE(PTR, $00001EE6)
+I gave advice on the huge anonymous forum “@channel.”%NI posted in epic threads too, of course.
+<END>
+
+#WRITE(PTR, $00001F0E)
+Oh yeah, and I had over 100 friends on FrePara%N(a 
+<DICT>
+social network
+</DICT>
+ I used.)
+<END>
+
+#WRITE(PTR, $00001F80)
+<LINE>
+<LINE>
+%t160Respect...
+<LINE>
+<END2>
+
+#WRITE(PTR, $00001F96)
+%t160Trust...
+<LINE>
+<END2>
+
+#WRITE(PTR, $00001FAC)
+%t160I had it all right here.%K
+<END2>
+
+#WRITE(PTR, $00001FEC)
+%O060
+<END2>
+
+#WRITE(PTR, $0000201E)
+I didn’t go to school.
+<END>
+
+#WRITE(PTR, $0000202E)
+It wasn’t so much that I didn’t want to,%Nand more that I had no reason to.
+<END>
+
+#WRITE(PTR, $0000203E)
+I could study anything online.
+<LINE>
+School’s completely useless when you can get%Neverything done from home.
+<END>
+
+#WRITE(PTR, $0000204E)
+Well, I did need to attend every once in a while, or else I wouldn’t earn enough credits to graduate. That was why I went to school as   little as I possibly could.%K
+<LINE>
+That was the smartest way for a student to live.
+<END>
+
+#WRITE(PTR, $0000205E)
+My parents always nagged me about it, though.
+<END>
+
+#WRITE(PTR, $0000214A)
+To make things easier, I’d invented the “Minimum Attendance Chart.”
+<END>
+
+#WRITE(PTR, $0000215A)
+According to the chart, I only needed to attend two to three times a week.
+<END>
+
+#WRITE(PTR, $0000216A)
+The other students would always make fun of me for being an%N
+“otaku freak,” but as far as I was concerned, they were the stupid%N
+ones for going to school every day. Maybe try thinking for yourself for once, dipshits.
+<END>
+
+#WRITE(PTR, $0000217A)
+All in all, my life here really isn't all bad.
+<END>
+診
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

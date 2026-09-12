@@ -1,0 +1,166 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($000009AE)
+
+#WRITE(PTR, $0000015E)
+About a day had passed, and I’d spent pretty much every hour of it%Nin Baselard. I’d hardly even made time to eat. I’d immersed myself%Nfully into the role of Neidhardt, and in the process, completely%Nerased every trace of Nishijou Takumi.
+<END>
+
+#WRITE(PTR, $0000016E)
+In ESO, I was an absolute god. No demon could ever strike fear into *my* heart. And I was respected by everyone.
+<END>
+
+#WRITE(PTR, $0000017E)
+If only I could live in such a comfortable world for all eternity.%NI was certain I’d be far happier that way.
+<END>
+
+#WRITE(PTR, $0000037C)
+【拓巳】
+“Wh—?! H-Hooooly shit! An Angelic Circlet! No fucking way!
+<LINE>
+A Legendary drop, holy shit! Fuhihihihihi!”
+<END>
+
+#WRITE(PTR, $000004B2)
+【拓巳】
+“I n-need to equip this right away...%NOkay, Equipment, Equipment...”
+<END>
+
+#WRITE(PTR, $000004DA)
+【拓巳】
+“Whoa, it even shows up on the character model! That’s so epic!%NHey, look! Over here, over here! Check me out, Grimm!”
+<END>
+
+#WRITE(PTR, $000004EA)
+【拓巳】
+“Hm?”
+<END>
+
+#WRITE(PTR, $00000606)
+【拓巳】
+“‘Chill out, Neidhardt’?%NShut up and kill yourselves, losers. Fuhihihi!”
+<END>
+
+#WRITE(PTR, $00000616)
+【拓巳】
+“I should head back to town and show off.”
+<END>
+
+#WRITE(PTR, $00000632)
+【七海？】
+“Big Brooooo!”%NFinally, another Legendary item to add to my collection.%NNaturally, I was stoked; my depression from earlier had been%Ncompletely blown away.
+<END>
+
+#WRITE(PTR, $0000064C)
+【七海？】
+“Do you hear me in there?!”%NThe Angelic Circlet had a drop rate of 0.0001%. It was so rare,%Nsome players thought it was unobtainable!
+<END>
+
+#WRITE(PTR, $00000668)
+【七海？】
+“Heeey! Open uuup!”%NWell, its stats were shit, so it was pretty much just a cosmetic%Nitem.
+<END>
+
+#WRITE(PTR, $00000678)
+But that was good enough. People could tell you had an Angelic%NCirclet just by looking at you, which was enough to make *anyone*%Ngreen with envy.
+<END>
+
+#WRITE(PTR, $00000690)
+【拓巳】
+“Fuhihi, I’ve done it... Neidhardt is now one step closer to%Nachieving godhood...!”
+<END>
+
+#WRITE(PTR, $000006A2)
+【七海？】
+“C’mooooon! Opeeeen uuuuup!”
+<END>
+
+#WRITE(PTR, $0000075A)
+Shut up!%NWho the hell’s been banging on my door for so goddamn long?!
+<END>
+
+#WRITE(PTR, $0000076A)
+Just when I’d finally managed to get ahold of a rare item, this%Nhappened. Couldn’t a man enjoy his victories for one second?
+<END>
+
+#WRITE(PTR, $0000077A)
+【七海？】
+“You big jeeeerk!”
+<END>
+
+#WRITE(PTR, $0000078A)
+【拓巳】
+“Oh god...”
+<END>
+
+#WRITE(PTR, $0000079A)
+That voice...
+<END>
+
+#WRITE(PTR, $000007AA)
+The moment I realized who it was, my mood instantly took a%Nnosedive.
+<LINE>
+There was no mistaking it: that was the voice of an assassin sent%Nby my parents—my little sister, Nanami. What a pain in the ass.
+<END>
+
+#WRITE(PTR, $000007BA)
+【七海？】
+“If you don’t open the door right now, then you’re really mean!”
+<END>
+
+#WRITE(PTR, $000007D2)
+Well, shit...
+<END>
+
+#WRITE(PTR, $000007E2)
+Here came the storm to rain on my parade.
+<END>
+
+#WRITE(PTR, $000007F2)
+I really didn’t want to let her in, but if I didn’t, my parents%Nwould probably get on my case about it.%N“Stop living alone and move back in with us!” they’d say.
+<END>
+
+#WRITE(PTR, $00000802)
+I’d ignore them if I could, but my dad basically owned this%Nbuilding, so it’d take just a snap of his fingers for him to kick me out.
+<END>
+
+#WRITE(PTR, $00000812)
+Ugh, this was the worst...
+<END>
+
+#WRITE(PTR, $00000822)
+【七海？】
+“HEEEEEEY!”
+<END>
+
+#WRITE(PTR, $00000852)
+<DICT>
+STFUUUUUU!
+</DICT>
+<END>
+
+#WRITE(PTR, $0000086A)
+I swear, her voice was so shrill it could shatter glass...
+<END>
+
+#WRITE(PTR, $00000980)
+The banging just didn’t stop.
+<LINE>
+And since the metal walls were pretty thin, the sound echoed loudly all throughout the container. Nanami was well aware of that—in%Nfact, that was exactly why she was doing it.
+<END>
+
+#WRITE(PTR, $00000990)
+In the end, I had no choice.%NI reluctantly removed the padlock and opened the door.
+<END>
+ 
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>

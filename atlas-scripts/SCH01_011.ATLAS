@@ -1,0 +1,184 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00002854)
+
+#WRITE(PTR, $00001F5E)
+【七海２】
+“Oh, there you are!”
+<END>
+
+#WRITE(PTR, $0000200A)
+【七海２】
+“Routine survival check!”
+<END>
+
+#WRITE(PTR, $0000201A)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $0000202A)
+This baby-faced runt was my little sister.%NShe was a year younger than me.
+<END>
+
+#WRITE(PTR, $0000203A)
+【七海２】
+“At least *say* something when I knock on your door. I thought you%Nwere dead or something!”
+<END>
+
+#WRITE(PTR, $0000204A)
+Of course the first thing out of her mouth was bitching.%NAnd to make things worse, she was standing there with her hands on%Nher hips, like the bratty little shit she was.
+<END>
+
+#WRITE(PTR, $0000205A)
+The spitting image of “irritating.”
+<END>
+
+#WRITE(PTR, $0000206A)
+Her existence brought me nothing but suffering.
+<END>
+
+#WRITE(PTR, $0000207A)
+【七海２】
+“Wow, this place is still a total pigsty... Can’t you at least tidy up a *little* bit every once in a while?”
+<END>
+
+#WRITE(PTR, $0000208A)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00002120)
+Nanami just waltzed right on in without even asking.%NWhat the hell did she think she was doing?
+<END>
+
+#WRITE(PTR, $00002130)
+What, did she think she could get away with whatever she wanted%Njust because she was my little sister?
+<END>
+
+#WRITE(PTR, $00002140)
+And to think there were people out there who seriously believed%Nthat little sisters were moe.
+<END>
+
+#WRITE(PTR, $00002150)
+I always wanted to tell those guys how much of an epic fail that%Nwas.
+<END>
+
+#WRITE(PTR, $00002160)
+Well, even though she was my sister, she certainly didn’t look...%N*unsavory.* She had a loli body type, so I could see why that might make her pretty damn popular in some circles.
+<END>
+
+#WRITE(PTR, $00002170)
+But as her older brother, I didn’t care about that. I wasn’t into%Nher at all. As far as I was concerned, she was downright repulsive, not to mention immature. Didn’t help that she smelled like piss.
+<END>
+
+#WRITE(PTR, $00002180)
+Not to say I didn’t like lolis, of course—just only 2D ones.%NFuhihi.
+<END>
+
+#WRITE(PTR, $000021C0)
+【七海】
+“Ewwww... It smells like mold... I tell you to clean up every time%NI come here. Is it really that hard?”
+<END>
+
+#WRITE(PTR, $000021D0)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000021E0)
+【七海】
+“Well, I mean, I already know the answer: you’re just too lazy to%Nclean up, and you don’t have a girlfriend to do it for you.”
+<END>
+
+#WRITE(PTR, $000021F0)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00002230)
+【七海】
+“Well, whatever. I guess I’ll just have to clean it for you.”
+<END>
+
+#WRITE(PTR, $00002240)
+【拓巳】
+“B... 
+<DICT>
+But I refuse
+</DICT>
+...”
+<END>
+
+#WRITE(PTR, $00002280)
+【七海】
+“What?! Why?!”
+<END>
+
+#WRITE(PTR, $00002290)
+【拓巳】
+“I-I don’t want you to... destroy my room...”
+<END>
+
+#WRITE(PTR, $000022A0)
+【七海】
+“Wooow... I can’t believe you just said that. Is that really how you thank your little sister for checking in on you?”
+<END>
+
+#WRITE(PTR, $000022B0)
+Maybe things would change if you showed your older brother a little respect. And why should I be grateful that you’re checking on me?%NI sure as hell didn’t ask for that.
+<END>
+
+#WRITE(PTR, $000022F0)
+【七海】
+“Geez Louise... Why do I have to be related to someone *this*%Ndifficult? Sometimes I wish I wasn’t.”
+<END>
+
+#WRITE(PTR, $00002330)
+【七海】
+“*sigh*... Anyway, I’m pretty thirsty. Lemme just grab a drink.”
+<END>
+
+#WRITE(PTR, $000023E4)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00002400)
+Nanami walked right past me and over to the mini fridge, once again acting like she owned the place.
+<END>
+
+#WRITE(PTR, $00002624)
+【七海】
+“Is there nothing but Cola in here? You could’ve at least gotten%Nsome milk tea for me or something.”
+<END>
+
+#WRITE(PTR, $00002634)
+【拓巳】
+“H-How should I have known you’d be here...?”
+<END>
+
+#WRITE(PTR, $00002674)
+【七海】
+“Well, whatever. Cola it is, I guess.”
+<END>
+
+#WRITE(PTR, $00002684)
+Surprise, fucking surprise, she went ahead and did as she pleased.%NThere’s this thing called “permission,” you know.
+<END>
+
+#WRITE(PTR, $00002694)
+She grabbed a bottle of Cola from the fridge—one I had already%Ndrank from, no less—and after only a second of hesitation, she%Ncracked it open and gulped it down.
+<END>
+$
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
