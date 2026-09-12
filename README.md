@@ -6,7 +6,7 @@ Un parche para Chaos;Head Noah de PSP al inglés.
 
 (Se está probando tanto en PPSSPP como en una PSVita bajo Adrenaline v7)
 
-# Cambios
+## Cambios
 
 - 60FPS --- (Probado igualmente en CWCheat)
 
@@ -21,7 +21,7 @@ _L 0x200EC508 0x00000000
 
 - Ahora 4 líneas por pantalla (caja de texto)
 
-# Créditos
+## Créditos
 
 - HaselLoyance
 
@@ -63,12 +63,12 @@ De aquí sale todo lo que ves traducido: imágenes, textos...
 
 Muchas gracias a todos por sus aportes a la comunidad, gracias a ello, es posible realizar esto.
 
-# Problemas conocidos (mínimos)
+## Problemas conocidos (mínimos)
 
 - El Backlog maneja un margen de espacio diferente al que se tiene in-game, lo que termina ocasionando palabras cortadas. <br>
 E igualmente, todos los textos no llevan un margen de espacio adecuado (texto 1 -> texto 2), por lo que están pegados.
 
-# Screenshots
+## Screenshots
 <img src="images/ULJM05692_00001.jpg" width="470" height="470"> <img src="images/ULJM05692_00017.jpg" width="470" height="470">
 
 <img src="images/ULJM05692_00018.jpg" width="470" height="470"> <img src="images/ULJM05692_00019.jpg" width="470" height="470">
