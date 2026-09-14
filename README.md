@@ -1,6 +1,6 @@
 # Chaos;Head Noah [PSP] - English Patch
 
-*“Whose eyes are those eyes”*
+*“Whose eyes are those eyes?”*
 
 Un parche para Chaos;Head Noah de PSP al inglés.
 
