@@ -6,747 +6,745 @@
 #JMP($000032EA)
 
 #WRITE(PTR, $00001E66)
-僕のベースのあるビルまで、僕も優愛も無言だった。
+Neither of us said a word until we reached the building where my%Nbase was located.
 <END>
 
 #WRITE(PTR, $00001E76)
-女子とまともな会話なんてできるわけがない。
+After all, there was no way I could hold a half-decent conversation with a girl, let alone one I didn’t know.
 <END>
 
 #WRITE(PTR, $00001E86)
-アニメやゲーム、フィギュアの話題を振ったって、三次元女は理解しようともせずにただ“キモい”って条件反射のように言うに決まってる。
+I knew that the second I’d bring up anime or video games, she’d%Nautomatically go “eww, what a freak,” just like every other 3D%Ngirl. She wouldn’t even bother listening or trying to understand.
 <END>
 
 #WRITE(PTR, $00001E96)
-僕にしてみれば、そんなクソ女どもとは話す価値もなかった。
+From my point of view, there was just no point in talking to%Nbitches like that.
 <END>
 
 #WRITE(PTR, $00001EA6)
 【拓巳】
-「こ、ここで、もう、いいから……」
+“H-Here’s fine... You can go now...”
 <END>
 
 #WRITE(PTR, $00001EB6)
-なんとかそれだけつぶやいて、相手の反応を窺う。
+That grumble was about all I could muster, and I looked at Yua to%Nmake sure she understood it.
 <LINE>
-優愛は小さくうなずくと、僕を支えていた手を離した。
+She gave me a gentle nod in response, then removed her arm from%Nunder me.
 <END>
 
 #WRITE(PTR, $00001EF6)
-まだ少しふらつく。
+I was still a little unstable, but I managed to stay upright.
 <END>
 
 #WRITE(PTR, $00001F06)
 【優愛】
-「やっぱり、その……お部屋までついていきましょうか？」
+“How about I at least, umm... help you up to your room?”
 <END>
 
 #WRITE(PTR, $00001F16)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00001F2E)
-その申し出を無視して、僕はビルのエントランスに向かう。
+I completely ignored her suggestion and walked toward the lobby.
 <END>
 
 #WRITE(PTR, $00001F3E)
-エントランスと言っても、エレベーターホールへ通じる狭い入り口だ。少し階段状になっていて、そこを登ろうと足を上げた途端、激痛が走ってまたよろけそうになった。
+Well, I say “lobby,” but it was really just a narrow entryway to%Nthe elevator hall. Still, the moment I lifted my foot to start%Nclimbing the small staircase leading up to it, a sharp pain ran%Nthrough me, and I nearly fell over again.
 <END>
 
 #WRITE(PTR, $00001F7E)
 【優愛】
-「だ、大丈夫ですか？」
+“A-Are you okay?”
 <END>
 
 #WRITE(PTR, $00001F8E)
-優愛が飛んできて僕を支えてくれる。
+Yua rushed over to support me.
 <LINE>
-くそう、まだいたのかこの女……。
+Dammit, why was she still here...?
 <END>
 
 #WRITE(PTR, $00001F9E)
 【優愛】
-「やっぱり部屋まで送ります。ぜ、絶対、送りますからっ」
+“All right, I’m coming with you to your room.%NI-I won’t let you down!”
 <END>
 
 #WRITE(PTR, $00001FAE)
-なぜか必死な様子でそう宣言した。
+She sounded almost desperate.
 <END>
 
 #WRITE(PTR, $00002068)
-正直なことを言えば、優愛にここまでついてきてもらったことでかなり助かった。
+I hated to admit it, but Yua had been a huge help, and in the end,%Nshe had taken me all the way back to my base.
 <END>
 
 #WRITE(PTR, $00002078)
-僕のベースがある屋上へは、エレベーターで８階まで上がってからさらに、急勾配の非常階段を登らなくちゃいけないんだけど、今の僕じゃとてもひとりで登れなかったんだ。
+To get there, first we had to go all the way up to the eighth floor, then take a steep flight of emergency stairs up to the roof.%NIn my current state, there was no way I could have ever possibly%Nmanaged that alone.
 <END>
 
 #WRITE(PTR, $00002088)
-優愛は見た目にもそれほど体力があるようには見えない。
+Yua wasn’t “strong” in any sense of the word—she was very clearly%Nrunning on fumes.
 <LINE>
-なのに一生懸命僕を支えて、息を切らしながら登らせてくれた。
+And yet, she had helped me up the stairs as if her life depended on it.
 <END>
 
 #WRITE(PTR, $000020C8)
 【優愛】
-「こ、こんなところに……住んでるんですね……」
+“S-So... this is where you live... huh?”
 <END>
 
 #WRITE(PTR, $000020D8)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $000020E8)
-コンテナハウスを見て、優愛は絶句している。
+Yua was left speechless when she saw my container house.
 <LINE>
-まあ、普通の人から見たらコンテナに住んでるなんて信じられないんだろう。
+No surprise there. Normal people probably would never believe%Nsomeone could live in a container.
 <END>
 
 #WRITE(PTR, $00002128)
 【優愛】
-「なんか……その、憧れます」
+“It’s kind of... um... kind of nice.”
 <END>
 
 #WRITE(PTR, $00002138)
 【拓巳】
-「え……？」
+“Huh...?”
 <END>
 
 #WRITE(PTR, $00002148)
 【優愛】
-「アウトローな感じがして、いいですよね。こういうのって」
+“It has this sense of... rebelliousness to it. I like it.”
 <END>
 
 #WRITE(PTR, $00002158)
-まさかそう言われるとは思わなかった。
+I never thought she’d say something like that.
 <LINE>
-僕に媚びでも売ってるつもりか？
+Was she just trying to flatter me or something?
 <LINE>
-騙されないぞ。三次元女には絶対騙されないからな。
+You won’t fool me, wench.%NI will *never* fall for a 3D girl’s tricks.
 <END>
 
 #WRITE(PTR, $00002168)
-僕は優愛に支えられたまま、扉にかけておいた南京錠を外して中に入った。
+With Yua still propping me up, we walked up to the container door,%Nremoved the padlock, and stepped inside.
 <END>
 
 #WRITE(PTR, $000021E8)
-はあ、やっと戻ってこられた……。
+Whew... I was finally back...
 <LINE>
-今日も災難だった。やっぱり引きこもっているのが一番いいよ。
+Today was another total catastrophe.%NThis was why you really couldn’t beat staying indoors.
 <END>
 
 #WRITE(PTR, $000021F8)
 【優愛】
-「真っ暗ですね……あの、電気のスイッチは、どこに……？」
+“It’s so dark... Um... where’s the light switch...?”
 <END>
 
 #WRITE(PTR, $00002208)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00002218)
-この女……図々しく部屋の中にまで入ってきたぞ。
+Did she... Did she really not have any shame, just coming into my%Nroom like this?
 <LINE>
-いや、まあ、僕にずっと肩を貸してくれていたからっていうのはあるんだけど……。
+I mean, to be fair, she *had* brought me all the way here on her%Nshoulder...
 <END>
 
 #WRITE(PTR, $00002228)
-できれば部屋の中をあんまり見られたくなかったのに。
+But I really didn’t want her seeing the rest of the room if I could help it.
 <END>
 
 #WRITE(PTR, $00002238)
-なにしろ、棚にはフィギュアがたくさん並んでるし、ベッドの上はエロゲのパッケージが積み上げられてるし、床はゴミだらけだし。
+I mean, I had dozens upon dozens of figures lined up on my shelves, piles of eroge boxes on my bed, and trash all over the floor.
 <END>
 
 #WRITE(PTR, $00002248)
 【拓巳】
-「も、もう、いいから……は、離して」
+“I-I’m fine... now... L-Let me go...”
 <END>
 
 #WRITE(PTR, $00002258)
-そう伝えて、優愛の手が離れるのを待つ。
+After I said that, I waited for Yua to let go of me.
 <LINE>
-でもなかなか離してくれなかった。
+But she didn’t budge.
 <END>
 
 #WRITE(PTR, $00002268)
 【優愛】
-「床、すごく散らかって――じゃなくて、えっと、歩きにくいと思うんですけど……。絶対危ないです」
+“Your floor’s a little... messy— I-I mean, it seems a little hard%Nfor you to walk across... It’s dangerous in your current state.”
 <END>
 
 #WRITE(PTR, $00002278)
 【優愛】
-「ソファまで、行きましょう。そこで離しますから」
+“Let me take you over to the couch first.%NI’ll let you go after that.”
 <END>
 
 #WRITE(PTR, $00002288)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00002298)
-結局、言われるままにしてしまう。
+In the end, I just kept on doing whatever she said.
 <LINE>
-ソファの上にもＣＤや雑誌が散乱していたけど、優愛は僕を支えたまま手早くそれらを片付けて、僕を座らせてくれる。
+The couch was covered in CDs and magazines, but Yua quickly cleared them out of the way—as quickly as she could while still holding me%Nup, anyway. As soon as she was finished, I sat right down.
 <END>
 
 #WRITE(PTR, $000022A8)
-優しいし、よく気が付く人だな……。
+Man, she’s just so sweet and caring...
 <LINE>
-って、騙されないぞ！　騙されないからな！
+...Wait, what am I saying?! I’m not gonna fall for it! I’m *not!*
 <END>
 
 #WRITE(PTR, $000022B8)
 【優愛】
-「平気ですか？」
+“Are you all right now?”
 <END>
 
 #WRITE(PTR, $000022C8)
 【拓巳】
-「う、うん……」
+“Y-Yeah...”
 <END>
 
 #WRITE(PTR, $000022D8)
-部屋の中に、僕と彼女のふたりきり。
-<LINE>
-扉は開けっ放しにしてあるから、かろうじて外からの月明かりが入ってくるけど、室内はほとんど真っ暗だ。
+The two of us were all alone in the room.%NIt was almost pitch black, save for the tiny bit of moonlight%Nshining through the open doorway.
 <END>
 
 #WRITE(PTR, $000022E8)
-だから優愛がどんな表情をしているか確かめることはできない。でも、よく見えないことで、逆に優愛の息づかいがやけに淫靡なものに聞こえてくる。
+As a result, I couldn’t tell what sort of expression Yua had on her face. On the bright side, though, hearing a girl breathing in the%Ndark was pretty hot.
 <END>
 
 #WRITE(PTR, $000022F8)
-考えてみたら、この部屋に人が訪ねてくるなんて、妹以外じゃ初めてだ。しかもほぼ初対面の女子……。
+Come to think of it, it was the first time anyone aside from my%Nlittle sister had ever seen my room. Which meant it was the first%Ntime I’d had an actual girl up here...
 <END>
 
 #WRITE(PTR, $00002308)
-ゲームならすでにフラグが立った状態だよね。
+If this were a game, then I would’ve tripped some sort of flag.
 <LINE>
-この後、いい雰囲気になって、
+After that, soon enough, the mood would turn romantic,
 <LINE>
-キスとかしちゃうようなシチュエーション。
+and before we knew it, we’d be all over each other.
 <END>
 
 #WRITE(PTR, $00002318)
-でも僕はそんなもの期待してない。
+That said, I wasn’t expecting anything like that.
 <LINE>
-現実はどこまでも残酷だ。二次元とは違う。
+Reality was complete and utter shit—it was nothing like the 2D
 <LINE>
-それにこの女は普通じゃない。ストーカー女なんだ。
+world. And besides, this Yua girl wasn’t normal—she was a stalker.%NSo yeah.
 <END>
 
 #WRITE(PTR, $00002328)
-っていうか優愛は、いつまで僕の目の前に突っ立ってるつもりだろう？
+Wait, why was she still here? How long was she planning on staying?
 <LINE>
-用は済んだんだからさっさと帰ればいいのに。
+Her job here was done, so shouldn’t she be leaving now?
 <END>
 
 #WRITE(PTR, $00002338)
-そこまで考えて、ハッとした。
+That was when it hit me.
 <LINE>
-まさかこの女、ふたりきりになったことでなにか恐ろしいことを企んでいるんじゃ――
+Wait... No... Was her plan to get me alone in an isolated spot,%Nthen do something horrible to m—
 <END>
 
 #WRITE(PTR, $00002348)
 【優愛】
-「あの、明かりのスイッチは……」
+“Umm, where’s the light switch...?”
 <END>
 
 #WRITE(PTR, $00002358)
 【拓巳】
-「え、えっと、パソコンの……」
+“U-Uh... By my PC...”
 <END>
 
 #WRITE(PTR, $00002368)
 【優愛】
-「パソコン？」
+“Where’s that?”
 <END>
 
 #WRITE(PTR, $00002378)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00002388)
-この部屋の照明は、ＰＣの横に置いてあるデスクライトだけだ。
+The only light source in the room was the desk lamp by my PC.
 <LINE>
-それを点ければいいよ、って言おうとしたけど、できなかった。
+I wanted to tell her to turn that lamp on, but I just couldn’t get%Nthe words out.
 <END>
 
 #WRITE(PTR, $00002398)
 【優愛】
-「あ、そうか。あのデスクライトですね」
+“Oh, I see. That lamp over there, right?”
 <END>
 
 #WRITE(PTR, $000023A8)
 【拓巳】
-「え、う、うん……」
+“Uh, y-yeah...”
 <END>
 
 #WRITE(PTR, $000023B8)
-優愛は足許のゴミを慎重に避けながら、ヨロヨロとした足取りでＰＣデスクまで行き、デスクライトを灯した。
+Yua carefully made her way over to my computer desk, avoiding all%Nthe garbage by her feet, then turned on the lamp.
 <END>
 
 #WRITE(PTR, $0000244E)
-部屋がようやく闇から解放される。
+And then there was light.
 <END>
 
 #WRITE(PTR, $0000245E)
-真っ暗だったときは、見えないせいで逆にいろいろ妄想をかき立てられたけど、はっきり相手の顔が見えたら見えたで、目のやり場に困るし恥ずかしさは倍増する。
+The darkness had put all sorts of embarrassing ideas and delusions%Nin my head, and now that I could see Yua’s face clearly, all those%Nfantasies made it hard to look her in the eye without getting even%Nmore embarrassed than I already was.
 <END>
 
 #WRITE(PTR, $0000246E)
-僕は完全になにも言えなくなって、慌ててうなだれた。
+Panicked, I couldn’t get any words out, so I just kept my head down.
 <END>
 
 #WRITE(PTR, $000024AE)
 【優愛】
-「あ」
+“Ah!”
 <END>
 
 #WRITE(PTR, $000024BE)
 【拓巳】
-「！？」
+“—?!”
 <END>
 
 #WRITE(PTR, $000024CE)
-急に声を上げられて、僕はビクリと身を震わせてしまった。優愛の視線は、ＰＣモニタの横でいつものように萌えポーズを決めている星来たんフィギュアへと向けられていた。
+She’d shouted so suddenly that goosebumps shot across my skin.%NHer gaze was pointed straight at the Seira-tan figure next to my%Nmonitor, who was striking her favorite sexy pose.
 <END>
 
 #WRITE(PTR, $0000250E)
 【優愛】
-「これって、ブラチューの星来ちゃん……ですよね？」
+“That.. That’s Seira-chan from Blood Tune, right?”
 <END>
 
 #WRITE(PTR, $0000251E)
 【拓巳】
-「え……？」
+“Huh...?”
 <END>
 
 #WRITE(PTR, $0000252E)
 【拓巳】
-「……し、知ってる……の？」
+“Y... You know her...?”
 <END>
 
 #WRITE(PTR, $0000256E)
 【優愛】
-「は、はい。ブラチューは大好きで、毎週見てます」
+“Y-Yes. I love Blood Tune. I watch it every week.”
 <END>
 
 #WRITE(PTR, $0000257E)
 【拓巳】
-「へ、へえ……」
+“H-Huh...”
 <END>
 
 #WRITE(PTR, $0000258E)
 【優愛】
-「星来ちゃんがお好きなんですね。わたしもヒロインの中では彼女が一番好きなんですよ。衣装もかわいいですし」
+“You sure love Seira-chan, don’t you?%NShe’s my favorite heroine, too. Her outfit is so cute!”
 <END>
 
 #WRITE(PTR, $0000259E)
-声が弾んでる。お世辞で言ってるわけじゃなさそう。
+Her voice was full of joy. She was clearly speaking%Ngenuinely—there was no way she was just trying to trick me.
 <LINE>
-意外だ。もしかして優愛って……
+Who’d have thought? Could Yua be a...
 <END>
 
 #WRITE(PTR, $000025C6)
 【拓巳】
-「
+“...
 <DICT>
-腐……女子
+fujoshi
 </DICT>
-？」
+...?”
 <END>
 
 #WRITE(PTR, $0000260E)
 【優愛】
-「？？？」
+“...?”
 <END>
 
 #WRITE(PTR, $0000261E)
 【拓巳】
-「あ、ううん……」
+“Uh... nothing...”
 <END>
 
 #WRITE(PTR, $0000262E)
-単なるアニメ好きか。
+Well, maybe she just liked anime.
 <END>
 
 #WRITE(PTR, $0000263E)
 【優愛】
-「あれ、フィギュア……って言うんですよね？
+“That’s a... ‘figure,’ right?
 <LINE>
-ちょっと、見せてもらってもいいですか？」
+Could I take a look at it for a second?”
 <END>
 
 #WRITE(PTR, $0000267E)
 【優愛】
-「あ、すみません。図々しいこと言っちゃって……。もう、帰った方がいいですよね……」
+“Oh, I’m sorry. That was rude of me, wasn’t it...?%NMaybe I should just leave...”
 <END>
 
 #WRITE(PTR, $0000268E)
-慌てて何度も頭を下げている。
+She bowed repeatedly, clearly flustered.
 <END>
 
 #WRITE(PTR, $0000269E)
 【拓巳】
-「……み、見て、いいよ」
+“...S-Sure, you can look.”
 <END>
 
 #WRITE(PTR, $000026AE)
-まあ、僕の嫁が誉められて悪い気はしない。だから少しは親切にしてやろうと思った。
+Well, I couldn’t say I *didn’t* enjoy her laying the praise on my%Nwaifu, so I might as well be a *little* nice to her.
 <END>
 
 #WRITE(PTR, $000026EE)
 【優愛】
-「本当ですか？　ありがとうございます」
+“Really? Thank you so much!”
 <END>
 
 #WRITE(PTR, $000026FE)
-優愛は星来を手に持つと、しげしげとそれを眺め始めた。
+Yua took Seira in her hand and started inspecting her closely.
 <END>
 
 #WRITE(PTR, $0000270E)
 【拓巳】
-「そ、それは山陽堂版の覚醒前バージョンなんだ。星来フィギュアはいくつか種類が出てるけど、さ、最初に出たヤツ」
+“Th-That’s the Sanyodo Pre-Awakening Version. A few Seira figures%Nhave been released, b-but this was the first one.”
 <END>
 
 #WRITE(PTR, $0000274E)
 【優愛】
-「へえ……」
+“Wow...”
 <END>
 
 #WRITE(PTR, $0000275E)
 【拓巳】
-「あんまりクオリティは高くないよ。顔とか、微妙に崩れてるし。ポーズも平凡すぎてあんまりエロくないし……」
+“It’s not very high quality, though. Parts of it are a little%Nmisshapen, like her face. The poses you can do with it are also way too generic—you can’t make her look very sexy at all.”
 <END>
 
 #WRITE(PTR, $00002786)
 【拓巳】
-「でも服の胸元部分を
+“Well, the clothes around her boobs are removable—it’s a 
 <DICT>
-キャストオフ
+cast off
 </DICT>
-できるのは、い、今のところそれだけなんだ」
+%Nfigure—b-but that’s pretty much all it has going for it.”
 <END>
 
 #WRITE(PTR, $000027CE)
 【優愛】
-「む、胸元……」
+“H-Her boobs...?”
 <END>
 
 #WRITE(PTR, $000027DE)
 【拓巳】
-「あ、ちなみに僕は、星来フィギュアは４種類全部そろえてるよ。そ、そっちの棚に制服バージョンと、メイドバージョン、あと水着バージョンが、あ、ある」
+“Oh, by the way, I’ve collected all four Seira figures that are%Ncurrently available. Th-They’re on those shelves.%NI’ve got the Uniform Version, Maid Version, and Swimsuit Version.”
 <END>
 
 #WRITE(PTR, $0000281E)
 【優愛】
-「そんなに種類が……すごいですね」
+“Wow... I had no idea there were that many.%NIt must’ve been hard to get them all.”
 <END>
 
 #WRITE(PTR, $0000282E)
 【拓巳】
-「一番評価が高いのは、メイドバージョンなんだけど、個人的には、み、水着バージョンも悪くないよ」
+“The most expensive one is the Maid Version. But if you ask me,%NI-I’d say the S-Swimsuit Version is pretty good too...”
 <END>
 
 #WRITE(PTR, $0000286E)
 【優愛】
-「そうなんですか。見てみたいですねえ。でもちょっと暗くて……」
+“You think so? Can you show me?%N...Actually, it’s still a little dark...”
 <END>
 
 #WRITE(PTR, $0000287E)
 【拓巳】
-「もうすぐ、アルファから待望の覚醒後バージョンが、で、出るんだけど、これはかなりクオリティ高そうなんだ」
+“A-Alpha’s releasing the Ultimate Post-Awakening version s-soon...%Nand it seems like i-it’ll be pretty high quality.”
 <END>
 
 #WRITE(PTR, $0000288E)
 【拓巳】
-「キャストオフも、胸元だけじゃなくてほぼ全身可能だって言うし、ひ、表情もポーズも質感も、言うことなしだね」
+“Th-They’re saying *all* of her clothes will be removable, n-not%Njust her b-boobs. Plus, the different expressions a-and poses are%Ngonna be top-notch.”
 <END>
 
 #WRITE(PTR, $0000289E)
 【拓巳】
-「あとはカラーさえバッチリなら、今年発売されたフィギュアの中でもＭＶＰ候補だよ」
+“If they nail the paintwork too,%Nit’ll definitely be a candidate for figure of the year.”
 <END>
 
 #WRITE(PTR, $000028DE)
 【優愛】
-「アルファ？」
+“Alpha?”
 <END>
 
 #WRITE(PTR, $000028EE)
 【拓巳】
-「メ、メーカーだよ。フィギュアの」
+“They’re a m-manufacturer... They make figures.”
 <END>
 
 #WRITE(PTR, $0000292E)
 【優愛】
-「ああ、なるほど」
+“Oh, I see!”
 <END>
 
 #WRITE(PTR, $0000293E)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00002956)
-ハッとして、僕は口をつぐんだ。
+Suddenly realizing what I’d done, I clamped my mouth shut.
 <LINE>
-自分が、喋りすぎだって気付いたんだ。
+I’d been rambling on for way too long.
 <END>
 
 #WRITE(PTR, $00002966)
-しかも美少女フィギュアのことをペラペラと……。
+I’d gone off on a tangent about goddamn anime girl figures.
 <LINE>
-服がキャストオフできるとか、ポーズがエロいとか、
+“Removable pieces”... “sexy poses”...
 <LINE>
-アホなことを言っちゃった気がする……。
+I bet I looked like a total idiot to Yua.
 <END>
 
 #WRITE(PTR, $00002976)
-優愛がどんな表情をしているか確かめたいけど、その勇気はなかった。絶対に、汚物でも見るような目を僕に向けているに違いない……。
+I wanted to know what sort of face she was making, but I couldn’t%Nbring myself to look at her.%NEither way, though, it was obvious—she must have thought I was%Ntotal human trash.
 <END>
 
 #WRITE(PTR, $00002986)
-だから必死で顔をあらぬ方向へ向けてドキドキしていたら、
+I started panicking. My heart was beating out of my chest.%NI tried to avert my gaze as far away as I could...
 <END>
 
 #WRITE(PTR, $00002996)
 【優愛】
-「あの」
+“Umm...”
 <END>
 
 #WRITE(PTR, $000029A6)
-呼びかけられて、僕は反射的に優愛へと顔を向けてしまった。
+...but that’s when she called out to me, and I reflexively turned%Nback to look at her.
 <END>
 
 #WRITE(PTR, $000029B6)
-彼女の表情は、僕が恐れていたような、
+Her expression...
 <LINE>
-軽蔑の混じったものではなくて――
+It *wasn’t* actually full of horror and disgust like I’d expected.
 <END>
 
 #WRITE(PTR, $000029F6)
 【優愛】
-「さっき言っていた、戦闘バージョンとか、メイドバージョンも、見せてもらっていいですか？」
+“You said you had the Combat Version and the Maid Version, right?%NMay I see them?”
 <END>
 
 #WRITE(PTR, $00002A06)
 【拓巳】
-「え……う、うん……。そ、そっちの棚に……」
+“Umm... S-Sure... Th-They’re on the shelf...”
 <END>
 
 #WRITE(PTR, $00002A16)
-僕は完全に戸惑ってしまった。
+I was totally baffled.
 <LINE>
-だって優愛は、すごく楽しそうに微笑んでいたから。
+There wasn’t a hint of anything on her face other than a wide,%Nbright smile.
 <END>
 
 #WRITE(PTR, $00002A56)
 【優愛】
-「わあ、すごいですね！　こんなにたくさん！」
+“Wow, this is amazing! You have such a big collection!”
 <END>
 
 #WRITE(PTR, $00002A66)
-フィギュアが並んだ棚を見ても、むしろ目を輝かせている。まさか、これを見てひかない三次元女がいるなんて。
+In fact, her eyes were sparkling as she looked at my shelves full%Nof figures.%NNo way... Were there actually 3D women that *weren’t* disgusted by%Nthis stuff?
 <END>
 
 #WRITE(PTR, $00002A76)
-世界は広い、っていうことなのかな？
+It must’ve been a one-in-a-billion chance, but I suppose there%N*were* billions of people in the world.
 <END>
 
 #WRITE(PTR, $00002AB6)
 【優愛】
-「あ、メイド星来ちゃんってこれですね。ふむふむ、アニメの印象とはちょっと違うけど、すごくかわいいです！」
+“Oh, so this is Maid Seira-chan? Hmm, I see... It’s a little%Ndifferent from how she looks on the show, but she’s still so cute!”
 <END>
 
 #WRITE(PTR, $00002AC6)
 【優愛】
-「うふふっ。下着までちゃんと作り込んであるんだ……。こういうの実物で見たのは初めてですけど、いいですねぇ。わたしも買ってみようかな」
+“Hehe. They even went so far as to make her little underwear,%Ntoo... This is the first time I’ve ever seen something like this,%Nbut I really like it. Maybe I should get one for myself?”
 <END>
 
 #WRITE(PTR, $00002AD6)
 【拓巳】
-「だ、だったら……覚醒後バージョンを、よ、予約した方がいいよ。あれは、絶対オススメ、だから」
+“I-If you want one... Y-You should p-pre-order the Post-Awakening%Nversion. That’s my recommendation.”
 <END>
 
 #WRITE(PTR, $00002B5C)
 【優愛】
-「そうですね。あなたの話を聞いていたら、その覚醒後バージョンは本気で欲しくなりました」
+“You think so? I’m really interested in that one too, considering%Nhow you talked about it earlier.”
 <END>
 
 #WRITE(PTR, $00002B9C)
 【優愛】
-「覚醒後って、１２話のあのシーンのことですよね？」
+“The Post-Awakening Version is from that scene in episode twelve,%Nright?”
 <END>
 
 #WRITE(PTR, $00002BAC)
 【拓巳】
-「よく知ってますなあ、おぬし、かなりのマニアですな？」
+“Ohoho, you sure know your stuff, dear lady...%NYou must be quite the fan.”
 <END>
 
 #WRITE(PTR, $00002BBC)
 【優愛】
-「はい。好きですから。特にあのときの覚醒シーンは毎日録画したものを見返してます」
+“Yes! I love the show. I’ve rewatched the clip of the Awakening%Nscene every single day since it came out!”
 <END>
 
 #WRITE(PTR, $00002BCC)
 【拓巳】
-「あのシーンって、演出と作画が宮地なんだ。だからクオリティ高くて当然」
+“You know, the animation in that scene is all Miyaji. He directed%Nit too, so there’s no wonder it’s so high quality.”
 <END>
 
 #WRITE(PTR, $00002C0C)
 【優愛】
-「宮地？」
+“Miyaji?”
 <END>
 
 #WRITE(PTR, $00002C1C)
 【拓巳】
-「そういう神クリエーターがいるんだ。あの人の演出はマジで神だよ。＠ちゃんの実況板でも神キターってなるし」
+“He’s a god-tier animator. Hell, everything he *makes* is total%Ngod tier. Whenever his work shows up in anything, people post on%N@channel like ‘MIYAJI FTW!’ and stuff like that.”
 <END>
 
 #WRITE(PTR, $00002C2C)
 【優愛】
-「そうなんですかぁ」
+“Oh, really? I see.”
 <END>
 
 #WRITE(PTR, $00002C6C)
 【優愛】
-「すごく知識が豊富なんですね。わたし、スタッフが誰かなんて、まるで気にしてませんでした」
+“You certainly know a lot about this, huh? I never really pay much%Nattention to the production staff.”
 <END>
 
 #WRITE(PTR, $00002C7C)
 【拓巳】
-「監督と演出と脚本は、チェックしとくといいよ。特に新作なんかは、それを調べるだけで内容の良し悪しがだいたい予測できるし」
+“It’s a good idea to check the director, the producer, and the%Nscenario writer, at least. When it comes to new IPs, you can%Nusually tell off of those alone whether it’ll be worth watching or%Nnot.”
 <END>
 
 #WRITE(PTR, $00002CBC)
 【優愛】
-「分かりました。今度からそうしてみますね」
+“I see! I’ll start doing that from now on.”
 <END>
 
 #WRITE(PTR, $00002CCC)
-そう答えて、優愛はまた僕に向かって愛らしい笑みを浮かべた。
+As Yua said that, she turned to face me with another lovely smile.
 <END>
 
 #WRITE(PTR, $00002CDC)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00002CEC)
-女の子に、笑いかけてもらうなんて……こんなエロゲ的な会話シーンがリアルに存在したとは！　しかも僕自身が実際にそれを体験できるとは！
+I’d made a girl smile... I never thought I’d see this kind of eroge%Nstuff happen IRL! Let alone to me!
 <END>
 
 #WRITE(PTR, $00002CFC)
-三次元の女は、妹も含めて、バカにしたような笑みを向けてくるのが普通だったのに。
+Usually, 3D women—including my little sister—only ever smiled when%Nthey were making fun of me.
 <LINE>
-なにか裏がある。そうに違いない。
+There had to be some kind of catch. There was just no other%Nexplanation.
 <END>
 
 #WRITE(PTR, $00002D0C)
-星来たんの言葉を忘れるな。
+I couldn’t forget what Seira-tan had told me.
 <END>
 
 #WRITE(PTR, $00002D1C)
-“誰も信じちゃ駄目。誰の言葉にも耳を傾けちゃ駄目”
+“Till then, ya can’t trust anyone!%NDon’t listen to *anythin’* that *anyone* says!”
 <END>
 
 #WRITE(PTR, $00002D5C)
 【優愛】
-「あの……」
+“Um...”
 <END>
 
 #WRITE(PTR, $00002D6C)
 【拓巳】
-「え？」
+“Huh?”
 <END>
 
 #WRITE(PTR, $00002D7C)
 【優愛】
-「こ、こんなこと聞いていいかどうか、分からないんですけど……」
+“I-I’m not sure if I have any right to ask, but...”
 <END>
 
 #WRITE(PTR, $00002D8C)
 【拓巳】
-「な、なに……？」
+“Wh-What...?”
 <END>
 
 #WRITE(PTR, $00002DA8)
-優愛は急にモジモジし始めた。うつむきがちで、視線を合わせようとしない。
+Yua got all shy out of nowhere; she was looking down and avoiding%Neye contact.
 <END>
 
 #WRITE(PTR, $00002DB8)
 【優愛】
-「聞かせてもらっても、いいでしょうか？　あなたの、お名前」
+“But is it all right if I ask anyway?%NI’d like to know... your name.”
 <END>
 
 #WRITE(PTR, $00002DC8)
 【拓巳】
-「名前……」
+“My name...?”
 <END>
 
 #WRITE(PTR, $00002DD8)
-そう言えば、優愛は自己紹介してくれたけど、僕はしてないっけ。
+Now that she’d mentioned it...%NYua had introduced herself to me, but I’d never returned the favor.
 <END>
 
 #WRITE(PTR, $00002DE8)
 【拓巳】
-「に、西條……拓巳……」
+“N-Nishijou... Takumi...”
 <END>
 
 #WRITE(PTR, $00002DF8)
-なんだか気恥ずかしくて、ついぼそぼそとつぶやくように言ってしまった。
+I was a little embarrassed, so I ended up weakly mumbling it out.
 <END>
 
 #WRITE(PTR, $00002E38)
 【優愛】
-「西條拓巳、くんですね。何年生？」
+“Nishijou Takumi...kun? I see. What year are you in?”
 <END>
 
 #WRITE(PTR, $00002E48)
 【拓巳】
-「あ、に、２年……」
+“Oh, s-second year...”
 <END>
 
 #WRITE(PTR, $00002E88)
 【優愛】
-「わたしは３年。わたしの方が年上さんですね♪」
+“I’m a third year. I guess I’m older than you, then♪”
 <END>
 
 #WRITE(PTR, $0000307E)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $0000308E)
-やばい、今の萌え仕草にはクラッと来そうになった。
+Oh man, I was getting dizzy from how moe that’d sounded...
 <END>
 
 #WRITE(PTR, $000030B6)
-優愛って“おっとりお姉さん”
+Could Yua be the kind older sister 
 <DICT>
-属性
+type
 </DICT>
-か？
+?
 <LINE>
-僕を誘惑するなんて、この女危険だ。絶対なにか企んでる！
+Dammit, trying to seduce me and shit... This woman was dangerous.%NShe must be up to something!
 <END>
 
 #WRITE(PTR, $000030FE)
 【優愛】
-「それであの、西條くんに、お願いがあるんです……」
+“By the way... Umm, Nishijou-kun, I have a request...”
 <END>
 
 #WRITE(PTR, $0000310E)
-お、お願い……？
+A-A request...?
 <LINE>
-まさか……
+Seriously...?
 <END>
 瑞嵩
 <DUMMY>
