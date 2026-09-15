@@ -11,7 +11,7 @@ Un parche para Chaos;Head Noah de PSP al inglés.
 - 60FPS --- (Probado igualmente en CWCheat)
 
 ```
-_S ULJM05692
+_S ULJM-05692
 _G Chaos;Head Noah [Japan]
 _C1 60 FPS Patch (Chaos;Head Noah)
 _L 0x200EC508 0x00000000
