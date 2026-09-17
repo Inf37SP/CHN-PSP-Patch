@@ -51,17 +51,20 @@ A Legendary drop, holy shit! Fuhihihihihi!”
 
 #WRITE(PTR, $00000632)
 【七海？】
-“Big Brooooo!”%NFinally, another Legendary item to add to my collection.%NNaturally, I was stoked; my depression from earlier had been%Ncompletely blown away.
+%LC“Big Brooooo!”%LE
+%NFinally, another Legendary item to add to my collection.%NNaturally, I was stoked; my depression from earlier had been%Ncompletely blown away.
 <END>
 
 #WRITE(PTR, $0000064C)
 【七海？】
-“Do you hear me in there?!”%NThe Angelic Circlet had a drop rate of 0.0001%. It was so rare,%Nsome players thought it was unobtainable!
+%LC“Do you hear me in there?!”%LE
+%NThe Angelic Circlet had a drop rate of 0.0001%. It was so rare,%Nsome players thought it was unobtainable!
 <END>
 
 #WRITE(PTR, $00000668)
 【七海？】
-“Heeey! Open uuup!”%NWell, its stats were shit, so it was pretty much just a cosmetic%Nitem.
+%LC“Heeey! Open uuup!”%LE
+%NWell, its stats were shit, so it was pretty much just a cosmetic%Nitem.
 <END>
 
 #WRITE(PTR, $00000678)

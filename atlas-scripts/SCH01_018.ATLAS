@@ -1,0 +1,875 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00002298)
+
+#WRITE(PTR, $00000B3E)
+ポジティブ妄想
+<END2>
+
+#WRITE(PTR, $00000B48)
+ネガティブ妄想
+<END2>
+
+#WRITE(PTR, $00000B52)
+妄想しない
+<END2>
+
+#WRITE(PTR, $00000E3E)
+DELUS_IN.PMF
+<END2>
+
+#WRITE(PTR, $00000F16)
+【優愛】
+“Nishijou-kun... I... I-I love you.”
+<END>
+
+#WRITE(PTR, $00000F26)
+【優愛】
+“I’ve had my eyes on you for a long, long time now...”
+<END>
+
+#WRITE(PTR, $00000F36)
+【優愛】
+“B-But... just looking at you isn’t enough anymore...”
+<END>
+
+#WRITE(PTR, $00000F46)
+Yua’s face turned bright red, and right after her sudden%Nconfession, she abruptly started undressing.
+<END>
+
+#WRITE(PTR, $00000FC4)
+I was so bewildered, I could hardly bring myself to even peek at%Nher. But when I did, I noticed she wasn’t just taking off her top,%Nbut also her skirt. Her underwear flickered in and out of sight%Nfrom beneath the hem of her blouse. It was black.
+<END>
+
+#WRITE(PTR, $00000FD4)
+Being so bold, despite being clearly embarrassed—sure, it was a%Nhuge turn-on for me, but...
+<END>
+
+#WRITE(PTR, $00000FE4)
+Things were happening so suddenly, my mind could hardly keep up.%NIt took all my strength just to swallow the saliva that had built%Nup in my mouth.
+<END>
+
+#WRITE(PTR, $00000FF4)
+Next, Yua started fiddling with the buttons on her blouse.%NShe was undoing them, one by one, from top to bottom.
+<END>
+
+#WRITE(PTR, $00001056)
+Then, almost as if trying to tease me, she slowly, ever so softly,%Ndropped her blouse to the floor.
+<LINE>
+And for some reason, underneath it...
+<END>
+
+#WRITE(PTR, $00001066)
+...she was wearing a competition swimsuit.
+<END>
+
+#WRITE(PTR, $00001076)
+It was a high-leg swimsuit, and it was skintight. With the way it%Npressed in on her body, a little bit of her thighs spilled out over the edges. So, those dark-colored panties I’d caught glimpses of earlier... were actually a swimsuit?
+<END>
+
+#WRITE(PTR, $0000109E)
+Man, how did a girl *this* timid have boobs *this* huge?
+<LINE>
+And another thing—she didn’t take her knee-high socks off.%N
+<DICT>
+GJ
+</DICT>
+ Yua. That’s the right choice.
+<END>
+
+#WRITE(PTR, $000010B6)
+But...
+<END>
+
+#WRITE(PTR, $00001114)
+【優愛】
+“Please... just do what you want to me...”
+<END>
+
+#WRITE(PTR, $00001124)
+【優愛】
+“You can even... ravage me, if you so please...”
+<END>
+
+#WRITE(PTR, $00001134)
+【拓巳】
+“Wh... Wha...”
+<END>
+
+#WRITE(PTR, $00001144)
+I was speechless.
+<END>
+
+#WRITE(PTR, $00001154)
+It was pretty strange for a 3D girl to say all this stuff to a guy%Nshe’d *just met.* No sane girl would do that. Sure, it was sexy, but it wasn’t even remotely moe.
+<END>
+
+#WRITE(PTR, $00001164)
+My sense of reason threatened to completely shatter right then and%Nthere, and I struggled desperately to keep it contained.
+<END>
+
+#WRITE(PTR, $00001174)
+【拓巳】
+“B-Bu-Bu...”
+<END>
+
+#WRITE(PTR, $0000118A)
+【拓巳】
+“But I refuse!”
+<END>
+
+#WRITE(PTR, $0000119A)
+DELUS_OUT.PMF
+<END2>
+
+#WRITE(PTR, $0000122E)
+【優愛】
+“Eek!”
+<END>
+
+#WRITE(PTR, $0000124A)
+While I was lost in my usual delusions, Yua suddenly had a huge%Nfall and landed flat on her rear.%NShe rubbed her butt while on the verge of tears.
+<END>
+
+#WRITE(PTR, $00001264)
+DELUS_IN.PMF
+<END2>
+
+#WRITE(PTR, $00001346)
+【優愛】
+“Nishijou-kun, I love you.”
+<END>
+
+#WRITE(PTR, $00001356)
+【優愛】
+“I’ve had my eyes on you for a long, long time now, Nishijou-kun.”
+<END>
+
+#WRITE(PTR, $00001366)
+【優愛】
+“But... just looking at you isn’t enough anymore.”
+<END>
+
+#WRITE(PTR, $000013D0)
+Yua’s face turned bright red, and right after this sudden%Nconfession, she started fishing around in her bag.%NShe must’ve been looking for something.
+<END>
+
+#WRITE(PTR, $000013E0)
+【優愛】
+“I want all of you to be mine.”
+<END>
+
+#WRITE(PTR, $000013F0)
+【優愛】
+“I’ve thought about it a lot...”
+<END>
+
+#WRITE(PTR, $00001458)
+【優愛】
+“And I’ve come up with the most lovely way... to achieve just that.”
+<END>
+
+#WRITE(PTR, $0000146E)
+She finally pulled something out of her bag...%NA brand-new kitchen knife.
+<LINE>
+Its blade glimmered with light reflected from my desk lamp.
+<END>
+
+#WRITE(PTR, $0000147E)
+I just stood there, staring at her like an idiot. That was all I%N*could* do. Things were happening so suddenly, my mind could hardly keep up. It took all my strength just to swallow the saliva that had built up in my mouth.
+<END>
+
+#WRITE(PTR, $00001508)
+【優愛】
+“You see, I... I love you... I love you too much for me to bear...%NI just can’t take it anymore...”
+<END>
+
+#WRITE(PTR, $00001518)
+Yua grasped the knife in her hand tightly.%NSo tightly, in fact, her fingers were turning pale.
+<END>
+
+#WRITE(PTR, $00001528)
+And then, she swung the blade toward me.
+<END>
+
+#WRITE(PTR, $00001538)
+I shook my head frantically, doing everything in my power to get her to stop. But it didn’t seem like I could get through to her anymore.
+<END>
+
+#WRITE(PTR, $00001548)
+【優愛】
+“I’ll take it all... Your flesh...”
+<END>
+
+#WRITE(PTR, $00001558)
+【優愛】
+“Your bones...”
+<END>
+
+#WRITE(PTR, $00001568)
+【優愛】
+“Your skin...”
+<END>
+
+#WRITE(PTR, $00001578)
+【優愛】
+“Your intestines...”
+<END>
+
+#WRITE(PTR, $00001588)
+【優愛】
+“Your brain...”
+<END>
+
+#WRITE(PTR, $00001598)
+【優愛】
+“Your eyeballs...”
+<END>
+
+#WRITE(PTR, $000015A8)
+【優愛】
+“And of course... your unmentionables...”
+<END>
+
+#WRITE(PTR, $000015B8)
+【優愛】
+“I’ll take it all...”
+<END>
+
+#WRITE(PTR, $000015E2)
+【優愛】
+“I’ll take it all and eat it...! Heheheheheheh, AHAHAHAHAHA!”
+<END>
+
+#WRITE(PTR, $000015F2)
+And as she screamed, Yua lunged straight for my chest.
+<END>
+
+#WRITE(PTR, $00001662)
+Suddenly, I felt a dull impact.
+<LINE>
+And an intense pressure.
+<LINE>
+I looked down at my chest.
+<END>
+
+#WRITE(PTR, $00001672)
+It was the tip of the kitchen knife, sinking deep into my body.
+<END>
+
+#WRITE(PTR, $00001682)
+【優愛】
+“Aaaah...”
+<END>
+
+#WRITE(PTR, $00001692)
+Yua let out a moan near my ear dripping with ecstasy.
+<LINE>
+The knife gouged my flesh. My bones.
+<END>
+
+#WRITE(PTR, $000016A2)
+And yet, I couldn’t feel any pain.
+<END>
+
+#WRITE(PTR, $000016B2)
+Which could only mean one thing.
+<LINE>
+This...
+<END>
+
+#WRITE(PTR, $000016C2)
+This was all a delusion.
+<END>
+
+#WRITE(PTR, $000016D2)
+DELUS_OUT.PMF
+<END2>
+
+#WRITE(PTR, $0000178A)
+Hoooooly shit. That was way, way, way, way, WAY too goddamn scary!%N
+<DICT>
+Yandere
+</DICT>
+ girls are fucking terrifying!
+<LINE>
+I knew it was just a delusion, but it was so intense, it left me%Nwith a lingering dread that gave me goosebumps.
+<END>
+
+#WRITE(PTR, $000017A2)
+【優愛】
+“Eek!”
+<END>
+
+#WRITE(PTR, $000017BE)
+While I was lost in my usual delusions, Yua suddenly had a huge%Nfall and landed flat on her rear.%NShe rubbed her butt while on the verge of tears.
+<END>
+
+#WRITE(PTR, $000017D2)
+Was she going to ask for one of my Seira-tan figures?!
+<END>
+
+#WRITE(PTR, $000017E2)
+If so, then she can fuck right off!
+<END>
+
+#WRITE(PTR, $000017F2)
+She had the gall to ask me to part with one of my waifus?%NRidiculous! Total insanity!
+<END>
+
+#WRITE(PTR, $00001802)
+There was nothing *anyone* could say, and there was no price anyone could *pay,* to make me give up one of my Seira-tan figures!%NIt wasn’t fucking happening!%NIf you want one so bad, go buy one yourself!
+<END>
+
+#WRITE(PTR, $00001826)
+【優愛】
+“Eeek!”
+<END>
+
+#WRITE(PTR, $00001836)
+While I was yelling at her in my head, Yua suddenly had a huge%Nfall, landing flat on her rear.%NShe rubbed her butt while on the verge of tears.
+<END>
+
+#WRITE(PTR, $00001886)
+【優愛】
+“O-Oh no... I think I just tripped on one of your CDs...%NThe case might’ve broken...”
+<END>
+
+#WRITE(PTR, $00001896)
+【優愛】
+“I’m really, really sorry... I-I’ll make sure to clean it up...”
+<END>
+
+#WRITE(PTR, $000018AE)
+【拓巳】
+“I-It’s fine...”
+<END>
+
+#WRITE(PTR, $000018BE)
+いいからさっさと帰れよ……。
+<LINE>
+それにさっき言ってた“お願い”って結局なんなんだよ。
+<END>
+
+#WRITE(PTR, $000018CE)
+僕が断ったにもかかわらず、優愛は足許に散乱しているゴミやＣＤを整理し始めた。その表情は申し訳なさそうだから、まるで僕が悪いみたいに思えてくる。
+<END>
+
+#WRITE(PTR, $0000190E)
+【優愛】
+「じゃ、じゃあ、足の踏み場だけでも……その、確保させてください。すいません……。その後で、お願い、言いますから……」
+<END>
+
+#WRITE(PTR, $00001926)
+せっせと片付けていく優愛の姿は、まるで母親みたいだ。
+<LINE>
+人の都合なんておかまいなく、自分のやりたいことだけに突っ走っていく。
+<END>
+
+#WRITE(PTR, $00001936)
+まさに余計なお節介……。
+<END>
+
+#WRITE(PTR, $00001946)
+こういうとき、僕の立場としては優愛を手伝ってあげるべきなんだろう。
+<END>
+
+#WRITE(PTR, $00001956)
+それで、互いにゴミへと伸ばした手が触れちゃって『あ……』とか言いつつ見つめ合っていい雰囲気になったりするんだろう。
+<END>
+
+#WRITE(PTR, $00001966)
+どんなラブコメだよ！
+<END>
+
+#WRITE(PTR, $00001976)
+僕は絶対手伝わないからな。
+<END>
+
+#WRITE(PTR, $00001986)
+【優愛】
+「あ……」
+<END>
+
+#WRITE(PTR, $00001996)
+雑誌の山を神経質そうに積み重ねていた優愛の手が止まった。ちょうど僕に背中を向ける形になっていて、優愛の手許はよく見えない。
+<END>
+
+#WRITE(PTR, $000019A6)
+【拓巳】
+「…………？」
+<END>
+
+#WRITE(PTR, $000019E6)
+【優愛】
+「い、いえっ。気に、気にしないでください……」
+<END>
+
+#WRITE(PTR, $000019F6)
+やけに慌てている。これは怪しい。
+<END>
+
+#WRITE(PTR, $00001A0E)
+よく考えたら、僕の部屋の中を物色されているのと変わらない状況じゃないか。なにか盗まれるかもしれない。
+<END>
+
+#WRITE(PTR, $00001A1E)
+フィギュアなんてあれだけ数があるからどうせ１人ぐらいいなくなってもバレないだろう、とか考えてるかも。
+<END>
+
+#WRITE(PTR, $00001A2E)
+でもそうはいくか！
+<END>
+
+#WRITE(PTR, $00001A3E)
+僕は自分の嫁のことは全部把握してるんだからな！
+<LINE>
+ひとりでもいなくなればすぐに分かるんだぞ！
+<END>
+
+#WRITE(PTR, $00001A4E)
+【拓巳】
+「フィ、フィギュアには触らないでね」
+<END>
+
+#WRITE(PTR, $00001A5E)
+【優愛】
+「は、はい。いえ、違うんです……」
+<END>
+
+#WRITE(PTR, $00001A9E)
+【優愛】
+「その……ブラチューの同人誌、って言うんですか？　それが、落ちてまして……ちょっと中身を見てみたら……」
+<END>
+
+#WRITE(PTR, $00001AAE)
+ブラチューの同人誌……。
+<LINE>
+エ、エロいやつだ……。
+<END>
+
+#WRITE(PTR, $00001ABE)
+【優愛】
+「す、凄かったので、びっくりしました……」
+<END>
+
+#WRITE(PTR, $00001ACE)
+【拓巳】
+「…………か、勝手に、見ないでよっ」
+<END>
+
+#WRITE(PTR, $00001ADE)
+【優愛】
+「あ、すいませんっ」
+<END>
+
+#WRITE(PTR, $00001AF6)
+優愛は慌てたようにまた手を動かし始めた。
+<LINE>
+そうして、なんとか座れるだけのスペースを手早く作ると、
+<LINE>
+僕に向き直った。
+<END>
+
+#WRITE(PTR, $00001B36)
+【優愛】
+「それで、あの、さっき言った……お願い、ですけど……」
+<END>
+
+#WRITE(PTR, $00001B46)
+来た……！
+<END>
+
+#WRITE(PTR, $00001B56)
+僕はゴクリと息を呑んで、本能的に身構えてしまった。
+<END>
+
+#WRITE(PTR, $00001B66)
+【優愛】
+「さっき言った……フィギュアの予約、一緒に行ってもらえませんか？」
+<END>
+
+#WRITE(PTR, $00001B76)
+【拓巳】
+「え？　ええ？」
+<END>
+
+#WRITE(PTR, $00001B86)
+【優愛】
+「わたし、そういう、アニメショップみたいなところって、今まで行ったことなくて……」
+<END>
+
+#WRITE(PTR, $00001B96)
+【優愛】
+「って、あ、わたし、なんだかすごくぶしつけなお願いしてますよね、すいません……」
+<END>
+
+#WRITE(PTR, $00001BA6)
+【優愛】
+「わたしのせいで、西條くんはケガをしたのに……」
+<END>
+
+#WRITE(PTR, $00001BB6)
+【拓巳】
+「…………」
+<END>
+
+#WRITE(PTR, $00001BC6)
+危険だ。
+<LINE>
+これは迂闊に返事をしていい問題じゃない。
+<END>
+
+#WRITE(PTR, $00001BD6)
+そもそも、優愛とは確かに趣味が合いそうだし、星来を好きだって言ってるし、僕の話も興味深そうに聞いてくれるし、オタの僕からすればかなり話しやすい相手ではある。
+<END>
+
+#WRITE(PTR, $00001BE6)
+でもこれはきっと罠だ。
+<LINE>
+こんなエロゲみたいなご都合主義的な展開が現実に起こるなんてあり得ない。
+<END>
+
+#WRITE(PTR, $00001BF6)
+三次元に毒されるな。
+<LINE>
+考えろ……。優愛はいったいなにが目的なんだ……。
+<END>
+
+#WRITE(PTR, $00001C06)
+【優愛】
+「す、すいません、今のお願いは、忘れてください……っ」
+<END>
+
+#WRITE(PTR, $00001C16)
+【優愛】
+「わたし、西條くんがいろいろ話してくれるのが……
+<LINE>
+その、嬉しくて……」
+<END>
+
+#WRITE(PTR, $00001C26)
+【拓巳】
+「…………」
+<END>
+
+#WRITE(PTR, $00001C36)
+頭を下げる優愛。
+<END>
+
+#WRITE(PTR, $00001C46)
+やたら威張りくさってるのがほとんどの三次元女の中じゃ、珍しいくらい控えめだ。
+<END>
+
+#WRITE(PTR, $00001C56)
+こんなかわいくて性格がよさそうな子が現実にいるはずがない。これは……演技だ！
+<END>
+
+#WRITE(PTR, $00001C66)
+断ってやる。男らしくズバンと言ってやる……！
+<END>
+
+#WRITE(PTR, $00001C76)
+【優愛】
+「…………」
+<END>
+
+#WRITE(PTR, $00001C86)
+顔を上げた優愛の、眼鏡の奥に見える目は潤んでいた。
+<END>
+
+#WRITE(PTR, $00001C96)
+もしかして、泣いてるの？
+<LINE>
+僕が無言だから？
+<LINE>
+僕が泣かした？
+<END>
+
+#WRITE(PTR, $00001CA6)
+ひええ、か、勘弁してよ……。
+<END>
+
+#WRITE(PTR, $00001CB6)
+こんな修羅場、ゲームでしか経験したことないよ。
+<END>
+
+#WRITE(PTR, $00001CC6)
+すごくドキドキしてきた。しかも罪悪感まである。
+<END>
+
+#WRITE(PTR, $00001CD6)
+女の涙は武器になるってよく言うけど、今ようやくその言葉が真実だって実感した。
+<LINE>
+正直、どうしたらいいか分からない。
+<END>
+
+#WRITE(PTR, $00001CE6)
+ただ気ばかりが焦って、オロオロしてしまう。
+<END>
+
+#WRITE(PTR, $00001CF6)
+【拓巳】
+「い……」
+<END>
+
+#WRITE(PTR, $00001D06)
+一緒に行ってあげるよ、と言おうとしたけどできなかった。
+<END>
+
+#WRITE(PTR, $00001D16)
+もしもそう言った後で“本気にすんなよバーカ。キモい”とか言われたらどうしよう？
+<END>
+
+#WRITE(PTR, $00001D26)
+そんな被害妄想にとらわれて、声が出なくなった。
+<END>
+
+#WRITE(PTR, $00001D36)
+【優愛】
+「無理してくれなくていいです。わたしのワガママに、西條くんを付き合わせるのはよくないですし……ぐすっ」
+<END>
+
+#WRITE(PTR, $00001D46)
+なんだかさっきより瞳が潤んでるぞ……。
+<LINE>
+今にも雫が目尻からこぼれ落ちそうだ……。
+<END>
+
+#WRITE(PTR, $00001D56)
+【拓巳】
+「い、行く……よ……」
+<END>
+
+#WRITE(PTR, $00001DA2)
+【優愛】
+「え？」
+<END>
+
+#WRITE(PTR, $00001DB2)
+【拓巳】
+「…………」
+<END>
+
+#WRITE(PTR, $00001DF2)
+【優愛】
+「行って、もらえるんですか？」
+<END>
+
+#WRITE(PTR, $00001E02)
+仕方なくうなずく。
+<END>
+
+#WRITE(PTR, $00001E12)
+こうするしか、優愛を泣きやませる方法を思いつかなかった。
+<LINE>
+まんまと罠にはめられた気がするけど……。
+<END>
+
+#WRITE(PTR, $00001E22)
+優愛はホッとしたように息をつくと、眼鏡を外して涙を拭った。
+<END>
+
+#WRITE(PTR, $00001E62)
+【優愛】
+「断られて当然だと思ってたのに……。西條くん、ありがとうございます」
+<END>
+
+#WRITE(PTR, $00001E72)
+お礼を言ってきた……。
+<END>
+
+#WRITE(PTR, $00001E82)
+なんとか本格的に泣かせるまでには至らなかったみたいだ。
+<END>
+
+#WRITE(PTR, $00001E92)
+助かったのはこっちだよ……。
+<LINE>
+はあ、なんでこんなに追い詰められてるんだろう。
+<END>
+
+#WRITE(PTR, $00001EA2)
+くそぅ、三次元女め……油断大敵だ……。
+<END>
+
+#WRITE(PTR, $00001EE2)
+【優愛】
+「行くとしたら、いつがいいでしょう？」
+<END>
+
+#WRITE(PTR, $00001EF2)
+しかも、さっきまでの悲しそうな表情がどこへやら。
+<LINE>
+すっかり嬉しそうな顔になってるし。
+<END>
+
+#WRITE(PTR, $00001F02)
+やっぱり、嘘泣きだったんじゃないかな……。
+<LINE>
+もしそうなら、女優なみの演技力だぞ。
+<END>
+
+#WRITE(PTR, $00001F12)
+【優愛】
+「星来ちゃんの新しいフィギュアは、もうすぐ発売なんですよね？」
+<END>
+
+#WRITE(PTR, $00001F22)
+【拓巳】
+「う、うん。きっとすぐに完売しちゃう……だろうね」
+<END>
+
+#WRITE(PTR, $00001F32)
+【優愛】
+「だったら、早めに行った方がよさそうですね……」
+<END>
+
+#WRITE(PTR, $00001F42)
+【優愛】
+「明日とか……？」
+<END>
+
+#WRITE(PTR, $00001F52)
+【拓巳】
+「…………」
+<END>
+
+#WRITE(PTR, $00001F62)
+確か今週の僕のスケジュールだと、明日は学校に行く日だ。今週はよりによって３回行かなくちゃいけないんだ。その分、来週は２回なんだけど。
+<END>
+
+#WRITE(PTR, $00001F72)
+明日はますます憂鬱な日になりそうだ。
+<END>
+
+#WRITE(PTR, $00001F82)
+でもすっかり行く気になってる優愛に“やっぱり行かない”なんて言ったらまた泣かれるかも……。
+<LINE>
+うう、翻弄されてる……。
+<END>
+
+#WRITE(PTR, $00001F92)
+【拓巳】
+「わ、分かったよ……」
+<END>
+
+#WRITE(PTR, $00001FA2)
+渋々、了解した。
+<LINE>
+優愛は嬉しそうだ。
+<END>
+
+#WRITE(PTR, $00001FB2)
+そんな顔をしたって騙されないんだからな。
+<END>
+
+#WRITE(PTR, $00001FC2)
+【優愛】
+「西條くんは何組？　明日、放課後に迎えに行きますよ」
+<END>
+
+#WRITE(PTR, $00001FD2)
+【拓巳】
+「……Ｂ組」
+<END>
+
+#WRITE(PTR, $00001FE2)
+【優愛】
+「２年Ｂ組ですね。じゃあ、授業が終わったら待っててください」
+<END>
+
+#WRITE(PTR, $00001FF2)
+早く優愛に帰ってもらいたくて、僕はコクコクとうなずく。
+<END>
+
+#WRITE(PTR, $00002002)
+女の子と、一緒に遊びに行く約束……。これって、夢とか妄想じゃないよなあ……？
+<END>
+
+#WRITE(PTR, $00002012)
+試しに頬をつねってみた。痛かった。
+<END>
+
+#WRITE(PTR, $00002022)
+【優愛】
+「それじゃあ、長い間お邪魔しちゃって、すいませんでした。足、もし痛かったらお医者さんに行ってくださいね？」
+<END>
+
+#WRITE(PTR, $00002032)
+【拓巳】
+「あ、うん……」
+<END>
+
+#WRITE(PTR, $000020A0)
+僕はソファに座ったまま、優愛が出ていくのを見送る。
+<LINE>
+優愛は部屋から出ていく直前、僕を振り返って小さく手を振った。
+<END>
+
+#WRITE(PTR, $000020E0)
+【優愛】
+「西條くん、また明日」
+<END>
+
+#WRITE(PTR, $000020F0)
+【拓巳】
+「…………」
+<END>
+
+#WRITE(PTR, $000021B0)
+【拓巳】
+「また明日、だってさ……」
+<END>
+
+#WRITE(PTR, $000021C0)
+【拓巳】
+「しかも手を振ったりして……」
+<END>
+
+#WRITE(PTR, $000021D0)
+【拓巳】
+「…………ふひひ」
+<END>
+
+#WRITE(PTR, $000021E0)
+自然と頬が緩みそうになって、慌てて引き締めた。
+<END>
+
+#WRITE(PTR, $000021F0)
+【拓巳】
+「あの女、絶対僕に惚れてる。間違いないね。ふひひ」
+<END>
+
+#WRITE(PTR, $00002200)
+【拓巳】
+「ま、付き合うか付き合わないかは僕に選択肢があるわけだし？　あの女を情け容赦なく振ってやるさ」
+<END>
+
+#WRITE(PTR, $00002210)
+【拓巳】
+「“お前は僕の女にふさわしくない。星来よりいい女になって出直してこい。まあ一生無理だけどな。なにしろ星来は永遠の１７歳だからな”みたいな。ふひひひひひひひ」
+<END>
+
+#WRITE(PTR, $00002220)
+星来たんよりいい女なんているもんか。
+<END>
+
+#WRITE(PTR, $00002230)
+フィギュアを手に取って、頬ずりしてあげた。
+<LINE>
+星来たんは嬉しそうだった。
+<END>
+ｫ
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
+
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
