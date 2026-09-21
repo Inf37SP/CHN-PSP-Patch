@@ -349,519 +349,517 @@ While I was yelling at her in my head, Yua suddenly had a huge%Nfall, landing fl
 <END>
 
 #WRITE(PTR, $000018BE)
-いいからさっさと帰れよ……。
+Just get out of here already... You’ve done enough.
 <LINE>
-それにさっき言ってた“お願い”って結局なんなんだよ。
+And what the hell was that “request” you mentioned earlier?
 <END>
 
 #WRITE(PTR, $000018CE)
-僕が断ったにもかかわらず、優愛は足許に散乱しているゴミやＣＤを整理し始めた。その表情は申し訳なさそうだから、まるで僕が悪いみたいに思えてくる。
+Yua started cleaning up the trash and CD cases lying all over the%Nfloor, even though I’d told her that she didn’t have to. She looked so apologetic, it almost made *me* feel guilty—like *I* had done%Nsomething wrong.
 <END>
 
 #WRITE(PTR, $0000190E)
 【優愛】
-「じゃ、じゃあ、足の踏み場だけでも……その、確保させてください。すいません……。その後で、お願い、言いますから……」
+“W-Well, let me just... clear enough space so I don’t step on%Nanything else... I’m really sorry... I-I’ll tell you about my%Nrequest after I’m done.”
 <END>
 
 #WRITE(PTR, $00001926)
-せっせと片付けていく優愛の姿は、まるで母親みたいだ。
+With the way she’d just instantly started cleaning up—and
 <LINE>
-人の都合なんておかまいなく、自分のやりたいことだけに突っ走っていく。
+thoroughly, at that—she reminded me somewhat of my mom.
 <END>
 
 #WRITE(PTR, $00001936)
-まさに余計なお節介……。
+Not caring in the slightest about what may cause problems for other people, rushing straight into doing whatever she pleased...%NY’know, the typical meddler.
 <END>
 
 #WRITE(PTR, $00001946)
-こういうとき、僕の立場としては優愛を手伝ってあげるべきなんだろう。
+In that case, I should probably start helping her, shouldn’t I.
 <END>
 
 #WRITE(PTR, $00001956)
-それで、互いにゴミへと伸ばした手が触れちゃって『あ……』とか言いつつ見つめ合っていい雰囲気になったりするんだろう。
+We’d both reach for a piece of trash at the same time, our hands%Nwould touch, and we’d both say “Ah...!”%NThen, we’d stare into each other’s eyes, just soaking in the glow of the moment... Right?
 <END>
 
 #WRITE(PTR, $00001966)
-どんなラブコメだよ！
+Wrong! The fuck do you think this is, some kinda romcom?!
 <END>
 
 #WRITE(PTR, $00001976)
-僕は絶対手伝わないからな。
+No way in hell was I helping her.
 <END>
 
 #WRITE(PTR, $00001986)
 【優愛】
-「あ……」
+“Ah...”
 <END>
 
 #WRITE(PTR, $00001996)
-雑誌の山を神経質そうに積み重ねていた優愛の手が止まった。ちょうど僕に背中を向ける形になっていて、優愛の手許はよく見えない。
+While in the middle of piling up magazines, Yua suddenly stopped.%NHer back was turned, so I couldn’t tell what she’d just picked up.
 <END>
 
 #WRITE(PTR, $000019A6)
 【拓巳】
-「…………？」
+“...?”
 <END>
 
 #WRITE(PTR, $000019E6)
 【優愛】
-「い、いえっ。気に、気にしないでください……」
+“I-It’s fine. D-Don’t mind me...”
 <END>
 
 #WRITE(PTR, $000019F6)
-やけに慌てている。これは怪しい。
+What was she getting so nervous about?%NSomething about it made me suspicious...
 <END>
 
 #WRITE(PTR, $00001A0E)
-よく考えたら、僕の部屋の中を物色されているのと変わらない状況じゃないか。なにか盗まれるかもしれない。
+Come to think of it, she was essentially ransacking my room at this point. What if she was trying to steal something?
 <END>
 
 #WRITE(PTR, $00001A1E)
-フィギュアなんてあれだけ数があるからどうせ１人ぐらいいなくなってもバレないだろう、とか考えてるかも。
+Maybe she was thinking that I had so many figures,%NI wouldn’t notice if one went missing?
 <END>
 
 #WRITE(PTR, $00001A2E)
-でもそうはいくか！
+But little did she know, she was DEAD WRONG!
 <END>
 
 #WRITE(PTR, $00001A3E)
-僕は自分の嫁のことは全部把握してるんだからな！
+I’d perfectly memorized every single waifu on that shelf!
 <LINE>
-ひとりでもいなくなればすぐに分かるんだぞ！
+If even a single one went missing, I’d be able to tell in a%Nnanosecond!
 <END>
 
 #WRITE(PTR, $00001A4E)
 【拓巳】
-「フィ、フィギュアには触らないでね」
+“D-Don’t touch any of my figures, okay?”
 <END>
 
 #WRITE(PTR, $00001A5E)
 【優愛】
-「は、はい。いえ、違うんです……」
+“A-All right. But... I think there’s been a misunderstanding...”
 <END>
 
 #WRITE(PTR, $00001A9E)
 【優愛】
-「その……ブラチューの同人誌、って言うんですか？　それが、落ちてまして……ちょっと中身を見てみたら……」
+“Umm... this is a Blood Tune... ‘doujinshi,’ I think it’s called,%Nright? I just... saw it fall down, and... I decided to take a look%Nat it...”
 <END>
 
 #WRITE(PTR, $00001AAE)
-ブラチューの同人誌……。
+My Blood Tune doujins...?
 <LINE>
-エ、エロいやつだ……。
+Sh-Shit, th-they’re all porn...
 <END>
 
 #WRITE(PTR, $00001ABE)
 【優愛】
-「す、凄かったので、びっくりしました……」
+“I-It was v-very... interesting... so I was just surprised.%NThat’s all...”
 <END>
 
 #WRITE(PTR, $00001ACE)
 【拓巳】
-「…………か、勝手に、見ないでよっ」
+“...D-Don’t go looking at stuff without asking.”
 <END>
 
 #WRITE(PTR, $00001ADE)
 【優愛】
-「あ、すいませんっ」
+“Oh, I’m sorry...”
 <END>
 
 #WRITE(PTR, $00001AF6)
-優愛は慌てたようにまた手を動かし始めた。
+Yua began tidying up again, nervous as ever.
 <LINE>
-そうして、なんとか座れるだけのスペースを手早く作ると、
+Shortly after, she quickly cleared a space to sit down, and then
 <LINE>
-僕に向き直った。
+turned toward me.
 <END>
 
 #WRITE(PTR, $00001B36)
 【優愛】
-「それで、あの、さっき言った……お願い、ですけど……」
+“So, umm... about that request I mentioned earlier... well...”
 <END>
 
 #WRITE(PTR, $00001B46)
-来た……！
+Finally...!
 <END>
 
 #WRITE(PTR, $00001B56)
-僕はゴクリと息を呑んで、本能的に身構えてしまった。
+I gulped, then instinctively braced myself for impact.
 <END>
 
 #WRITE(PTR, $00001B66)
 【優愛】
-「さっき言った……フィギュアの予約、一緒に行ってもらえませんか？」
+“Earlier... you mentioned that one figure pre-order...%NDo you think we could go do that together?”
 <END>
 
 #WRITE(PTR, $00001B76)
 【拓巳】
-「え？　ええ？」
+“Huh...? Huh?!”
 <END>
 
 #WRITE(PTR, $00001B86)
 【優愛】
-「わたし、そういう、アニメショップみたいなところって、今まで行ったことなくて……」
+“You see, I’ve uh, never gone to an anime shop or anything like that before...”
 <END>
 
 #WRITE(PTR, $00001B96)
 【優愛】
-「って、あ、わたし、なんだかすごくぶしつけなお願いしてますよね、すいません……」
+“Wait, what am I even saying? I’m so, so sorry...%NYou must think I’m being so rude...”
 <END>
 
 #WRITE(PTR, $00001BA6)
 【優愛】
-「わたしのせいで、西條くんはケガをしたのに……」
+“It’s my fault you got injured, after all...”
 <END>
 
 #WRITE(PTR, $00001BB6)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00001BC6)
-危険だ。
+This was some dangerous territory.
 <LINE>
-これは迂闊に返事をしていい問題じゃない。
+I couldn’t afford to just blurt out an answer.
 <END>
 
 #WRITE(PTR, $00001BD6)
-そもそも、優愛とは確かに趣味が合いそうだし、星来を好きだって言ってるし、僕の話も興味深そうに聞いてくれるし、オタの僕からすればかなり話しやすい相手ではある。
+On one hand, Yua and I had shared interests—hell, she was even a fan of Seira. She also seemed very interested in what I had to say,%Nwhich meant she was someone I could get along with as an otaku.
 <END>
 
 #WRITE(PTR, $00001BE6)
-でもこれはきっと罠だ。
-<LINE>
-こんなエロゲみたいなご都合主義的な展開が現実に起こるなんてあり得ない。
+But on the other, it had to be some sort of trap.%NThere was just no way in hell something like this—something so%Nperfect—would actually happen to me in real life.%NIt was an eroge cliché. Nothing more.
 <END>
 
 #WRITE(PTR, $00001BF6)
-三次元に毒されるな。
+I couldn’t let 3D corrupt me.
 <LINE>
-考えろ……。優愛はいったいなにが目的なんだ……。
+Think, Takumi, think... What the hell could Yua’s true goal be...?
 <END>
 
 #WRITE(PTR, $00001C06)
 【優愛】
-「す、すいません、今のお願いは、忘れてください……っ」
+“I-I’m so sorry... Please, just forget what I said...”
 <END>
 
 #WRITE(PTR, $00001C16)
 【優愛】
-「わたし、西條くんがいろいろ話してくれるのが……
+“It’s just, all the things we talked about... It...
 <LINE>
-その、嬉しくて……」
+It made me happy...”
 <END>
 
 #WRITE(PTR, $00001C26)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00001C36)
-頭を下げる優愛。
+Yua sat there with her head hung low.
 <END>
 
 #WRITE(PTR, $00001C46)
-やたら威張りくさってるのがほとんどの三次元女の中じゃ、珍しいくらい控えめだ。
+Pretty much every 3D girl ever was insanely full of themselves, and meanwhile, this girl was remarkably timid.
 <END>
 
 #WRITE(PTR, $00001C56)
-こんなかわいくて性格がよさそうな子が現実にいるはずがない。これは……演技だ！
+And there was no way a 3D girl could be so pretty AND have such a%Ncute personality. Everyone knew that. Meaning... she had to be%Nfaking it!
 <END>
 
 #WRITE(PTR, $00001C66)
-断ってやる。男らしくズバンと言ってやる……！
+I’d turn her down. I’d gather all my strength... all the power%Nvested in me as a man... and shoot her down...!
 <END>
 
 #WRITE(PTR, $00001C76)
 【優愛】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00001C86)
-顔を上げた優愛の、眼鏡の奥に見える目は潤んでいた。
+As Yua looked back up at me,%NI saw tears welling up behind her glasses.
 <END>
 
 #WRITE(PTR, $00001C96)
-もしかして、泣いてるの？
+Wait, was she crying?
 <LINE>
-僕が無言だから？
+Was it because I wasn’t saying anything?
 <LINE>
-僕が泣かした？
+Had I just made her cry?
 <END>
 
 #WRITE(PTR, $00001CA6)
-ひええ、か、勘弁してよ……。
+Oh no... G-Give me a break...
 <END>
 
 #WRITE(PTR, $00001CB6)
-こんな修羅場、ゲームでしか経験したことないよ。
+What a life-or-death situation...%NI’d never experienced anything like this outside of video games.
 <END>
 
 #WRITE(PTR, $00001CC6)
-すごくドキドキしてきた。しかも罪悪感まである。
+My heart was pounding out of my chest.%NI was even starting to feel a little guilty.
 <END>
 
 #WRITE(PTR, $00001CD6)
-女の涙は武器になるってよく言うけど、今ようやくその言葉が真実だって実感した。
+They say that women weaponize their tears, but only now was that%Nreally starting to ring true for me.
 <LINE>
-正直、どうしたらいいか分からない。
+Honestly, I had absolutely no clue how to deal with it.
 <END>
 
 #WRITE(PTR, $00001CE6)
-ただ気ばかりが焦って、オロオロしてしまう。
+I was getting more and more nervous by the second.
 <END>
 
 #WRITE(PTR, $00001CF6)
 【拓巳】
-「い……」
+“We...”
 <END>
 
 #WRITE(PTR, $00001D06)
-一緒に行ってあげるよ、と言おうとしたけどできなかった。
+“We can go together,” I tried to say, but ultimately, I couldn’t%Nbring myself to.
 <END>
 
 #WRITE(PTR, $00001D16)
-もしもそう言った後で“本気にすんなよバーカ。キモい”とか言われたらどうしよう？
+Because if I did, surely she’d just say something like “Ewww, this%Ndumbass actually took it seriously? What a freak.”
 <END>
 
 #WRITE(PTR, $00001D26)
-そんな被害妄想にとらわれて、声が出なくなった。
+Call it a persecution complex, but that was how I felt.%NI just couldn’t do it.
 <END>
 
 #WRITE(PTR, $00001D36)
 【優愛】
-「無理してくれなくていいです。わたしのワガママに、西條くんを付き合わせるのはよくないですし……ぐすっ」
+“It’s okay if you don’t want to. After all, it’s not right for me... to ask for something so selfish... *sniffle*...”
 <END>
 
 #WRITE(PTR, $00001D46)
-なんだかさっきより瞳が潤んでるぞ……。
+Her eyes seemed even more wet than before...
 <LINE>
-今にも雫が目尻からこぼれ落ちそうだ……。
+I saw a single tear dripping out from the corner of her eye.
 <END>
 
 #WRITE(PTR, $00001D56)
 【拓巳】
-「い、行く……よ……」
+“I-I’ll come... with you...”
 <END>
 
 #WRITE(PTR, $00001DA2)
 【優愛】
-「え？」
+“Huh?”
 <END>
 
 #WRITE(PTR, $00001DB2)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00001DF2)
 【優愛】
-「行って、もらえるんですか？」
+“You’ll... come along with me?”
 <END>
 
 #WRITE(PTR, $00001E02)
-仕方なくうなずく。
+I had no choice but to nod.
 <END>
 
 #WRITE(PTR, $00001E12)
-こうするしか、優愛を泣きやませる方法を思いつかなかった。
+I couldn’t think of any other way to make her stop crying.
 <LINE>
-まんまと罠にはめられた気がするけど……。
+Still, it felt like I was stepping right into a trap.
 <END>
 
 #WRITE(PTR, $00001E22)
-優愛はホッとしたように息をつくと、眼鏡を外して涙を拭った。
+Yua seemed incredibly relieved. She took a deep breath, took off her glasses, and wiped away her tears.
 <END>
 
 #WRITE(PTR, $00001E62)
 【優愛】
-「断られて当然だと思ってたのに……。西條くん、ありがとうございます」
+“I never would’ve thought you’d agree to it...%NThank you so much, Nishijou-kun...”
 <END>
 
 #WRITE(PTR, $00001E72)
-お礼を言ってきた……。
+Huh, she was thanking me...
 <END>
 
 #WRITE(PTR, $00001E82)
-なんとか本格的に泣かせるまでには至らなかったみたいだ。
+Seemed like I’d been able to stop her from *completely* breaking%Ndown.
 <END>
 
 #WRITE(PTR, $00001E92)
-助かったのはこっちだよ……。
+Maybe I should be the one thanking her.
 <LINE>
-はあ、なんでこんなに追い詰められてるんだろう。
+Shit... How did I get myself into such a mess?
 <END>
 
 #WRITE(PTR, $00001EA2)
-くそぅ、三次元女め……油断大敵だ……。
+Goddamn 3D women... You can never let your guard down around them...
 <END>
 
 #WRITE(PTR, $00001EE2)
 【優愛】
-「行くとしたら、いつがいいでしょう？」
+“So then, when should we go? What time would suit you best?”
 <END>
 
 #WRITE(PTR, $00001EF2)
-しかも、さっきまでの悲しそうな表情がどこへやら。
+Hold on, where the hell had her sad-looking expression gone?
 <LINE>
-すっかり嬉しそうな顔になってるし。
+Only a second had passed, and she was already looking happy as a%Nclam.
 <END>
 
 #WRITE(PTR, $00001F02)
-やっぱり、嘘泣きだったんじゃないかな……。
+Those really *were* crocodile tears, weren’t they?
 <LINE>
-もしそうなら、女優なみの演技力だぞ。
+If so, she should win a fucking Academy Award.
 <END>
 
 #WRITE(PTR, $00001F12)
 【優愛】
-「星来ちゃんの新しいフィギュアは、もうすぐ発売なんですよね？」
+“The new Seira-chan figure is going on sale soon, right?”
 <END>
 
 #WRITE(PTR, $00001F22)
 【拓巳】
-「う、うん。きっとすぐに完売しちゃう……だろうね」
+“Y-Yeah. It’ll probably sell out instantly... I think.”
 <END>
 
 #WRITE(PTR, $00001F32)
 【優愛】
-「だったら、早めに行った方がよさそうですね……」
+“So we should hurry and pre-order it as soon as possible, then...”
 <END>
 
 #WRITE(PTR, $00001F42)
 【優愛】
-「明日とか……？」
+“How about... we go tomorrow?”
 <END>
 
 #WRITE(PTR, $00001F52)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $00001F62)
-確か今週の僕のスケジュールだと、明日は学校に行く日だ。今週はよりによって３回行かなくちゃいけないんだ。その分、来週は２回なんだけど。
+According to my schedule, I needed to go to school tomorrow.%NThat made it three times total this week. Then, the week after,%NI’d only have to go twice.
 <END>
 
 #WRITE(PTR, $00001F72)
-明日はますます憂鬱な日になりそうだ。
+I had a feeling that tomorrow was going to suck even more than%Nusual.
 <END>
 
 #WRITE(PTR, $00001F82)
-でもすっかり行く気になってる優愛に“やっぱり行かない”なんて言ったらまた泣かれるかも……。
+But I’d already told Yua I’d go with her. If I tried changing my%Nmind now, she’d start the waterworks all over again.
 <LINE>
-うう、翻弄されてる……。
+Ugh... I really had no choice here, huh?
 <END>
 
 #WRITE(PTR, $00001F92)
 【拓巳】
-「わ、分かったよ……」
+“F-Fine...”
 <END>
 
 #WRITE(PTR, $00001FA2)
-渋々、了解した。
+I was incredibly reluctant, but still, I agreed.
 <LINE>
-優愛は嬉しそうだ。
+Yua seemed happy to hear that.
 <END>
 
 #WRITE(PTR, $00001FB2)
-そんな顔をしたって騙されないんだからな。
+But she couldn’t fool me with that face of hers.
 <END>
 
 #WRITE(PTR, $00001FC2)
 【優愛】
-「西條くんは何組？　明日、放課後に迎えに行きますよ」
+“Which class are you in, Nishijou-kun?%NWe can meet up after school tomorrow.”
 <END>
 
 #WRITE(PTR, $00001FD2)
 【拓巳】
-「……Ｂ組」
+“...Class C.”
 <END>
 
 #WRITE(PTR, $00001FE2)
 【優愛】
-「２年Ｂ組ですね。じゃあ、授業が終わったら待っててください」
+“Class 2-C then, right?%NOkay, I’ll be waiting for you once classes are over.”
 <END>
 
 #WRITE(PTR, $00001FF2)
-早く優愛に帰ってもらいたくて、僕はコクコクとうなずく。
+I nodded quickly in response, hoping that’d make her leave faster.
 <END>
 
 #WRITE(PTR, $00002002)
-女の子と、一緒に遊びに行く約束……。これって、夢とか妄想じゃないよなあ……？
+Wait—I’d just made a promise to hang out with a girl...?%NWas this a dream? A delusion?
 <END>
 
 #WRITE(PTR, $00002012)
-試しに頬をつねってみた。痛かった。
+I pinched my cheek to test that theory.%NIt definitely hurt.
 <END>
 
 #WRITE(PTR, $00002022)
 【優愛】
-「それじゃあ、長い間お邪魔しちゃって、すいませんでした。足、もし痛かったらお医者さんに行ってくださいね？」
+“All right, well... I’m really sorry for taking so much of your time today... If your legs keep hurting, please go see a doctor, all%Nright?”
 <END>
 
 #WRITE(PTR, $00002032)
 【拓巳】
-「あ、うん……」
+“Oh, sure...”
 <END>
 
 #WRITE(PTR, $000020A0)
-僕はソファに座ったまま、優愛が出ていくのを見送る。
+I sat on the couch and watched Yua leave.
 <LINE>
-優愛は部屋から出ていく直前、僕を振り返って小さく手を振った。
+She turned around and waved goodbye, then exited out the front door.
 <END>
 
 #WRITE(PTR, $000020E0)
 【優愛】
-「西條くん、また明日」
+“I’ll see you tomorrow, Nishijou-kun!”
 <END>
 
 #WRITE(PTR, $000020F0)
 【拓巳】
-「…………」
+“...”
 <END>
 
 #WRITE(PTR, $000021B0)
 【拓巳】
-「また明日、だってさ……」
+“She said ‘See you tomorrow’...”
 <END>
 
 #WRITE(PTR, $000021C0)
 【拓巳】
-「しかも手を振ったりして……」
+“And she even waved goodbye to me...”
 <END>
 
 #WRITE(PTR, $000021D0)
 【拓巳】
-「…………ふひひ」
+“...Fuhihi.”
 <END>
 
 #WRITE(PTR, $000021E0)
-自然と頬が緩みそうになって、慌てて引き締めた。
+I felt like I was about to melt with bliss, so I quickly stiffened%Nback up.
 <END>
 
 #WRITE(PTR, $000021F0)
 【拓巳】
-「あの女、絶対僕に惚れてる。間違いないね。ふひひ」
+“That bitch has definitely fallen for me. No doubt about it.%NFuhihi.”
 <END>
 
 #WRITE(PTR, $00002200)
 【拓巳】
-「ま、付き合うか付き合わないかは僕に選択肢があるわけだし？　あの女を情け容赦なく振ってやるさ」
+“But really, it’s up to me whether or not I end up dating her,%Nright? So I’m just gonna dump that whore. No mercy, no sympathy.”
 <END>
 
 #WRITE(PTR, $00002210)
 【拓巳】
-「“お前は僕の女にふさわしくない。星来よりいい女になって出直してこい。まあ一生無理だけどな。なにしろ星来は永遠の１７歳だからな”みたいな。ふひひひひひひひ」
+“You know what I’m gonna say? ‘As you are now, you’re not fit to be my woman. Come back once you’ve surpassed Seira—which is to say,%Nnever. After all, there’s no way you can beat Seira. She’s forever%Nseventeen!’ Something along those lines. Fuhihihihihihihi.”
 <END>
 
 #WRITE(PTR, $00002220)
-星来たんよりいい女なんているもんか。
+There was no way any girl could ever be better than Seira-tan.
 <END>
 
 #WRITE(PTR, $00002230)
-フィギュアを手に取って、頬ずりしてあげた。
+I picked up the Seira figure and rubbed her against my cheek.
 <LINE>
-星来たんは嬉しそうだった。
+And Seira-tan couldn’t have looked happier.
 <END>
 ｫ
 <DUMMY>
