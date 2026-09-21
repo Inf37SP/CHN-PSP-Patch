@@ -1,0 +1,468 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00001A0C)
+
+#WRITE(PTR, $00000B9C)
+【数学教師】
+“Oh, looks like we’re out of time. As I’m sure you all know, we have a test coming up soon, so make sure you take good notes, you hear%Nme? Anyway, that’s all for today.”
+<END>
+
+#WRITE(PTR, $00000BAC)
+【日直】
+“Rise.”
+<END>
+
+#WRITE(PTR, $00000C18)
+【日直】
+“Bow.”
+<END>
+
+#WRITE(PTR, $00000C7E)
+The math teacher—wait, what was his name again...?%NWell, whatever—the teacher left the classroom, and that was the end of classes for the day.
+<END>
+
+#WRITE(PTR, $00000C8E)
+Some students started chatting about where they’d go after school.%NThose who were in clubs gathered with their fellow members and%Nheaded for their clubrooms. And the rest were just getting ready to go home ASAP.
+<END>
+
+#WRITE(PTR, $00000C9E)
+I was in the last camp. As soon as the bell rang, I was always the%Nfirst to pack up and leave.
+<END>
+
+#WRITE(PTR, $00000CAE)
+But today, I stayed glued to my seat, trying to avoid eye contact%Nwith any of my classmates. My anxiety was killing me.
+<END>
+
+#WRITE(PTR, $00000CBE)
+After all, my date with Yua was very soon...
+<END>
+
+#WRITE(PTR, $00000CE6)
+Any normal, non-
+<DICT>
+vidya
+</DICT>
+-obsessed person would’ve been%Nlosing their mind to have a date with a girl planned.
+<END>
+
+#WRITE(PTR, $00000CFE)
+But this was *me* we were talking about, and I couldn’t feel any%Nmore depressed.
+<END>
+
+#WRITE(PTR, $00000D0E)
+I couldn’t relax at all. I was feeling physically sick.
+<END>
+
+#WRITE(PTR, $00000D1E)
+This would be the first time I’d ever gone on a date with a girl,%Nso I had no clue what to do.
+<END>
+
+#WRITE(PTR, $00000D2E)
+Besides, would Yua even show up?
+<LINE>
+Maybe she’d just been fucking with me yesterday, and she planned on standing me up. She was probably watching from the shadows right%Nnow, giggling at how gullible I was.
+<END>
+
+#WRITE(PTR, $00000D3E)
+Well, now that I thought about it, that honestly might be better%Nthan her actually showing up...
+<END>
+
+#WRITE(PTR, $00000D4E)
+Wait, did I really have to just sit around waiting?%NI mean, I *could* just blow her off and go home.
+<END>
+
+#WRITE(PTR, $00000D5E)
+All right, it’s settled—time to head home. We were in different%Ngrades anyway, so if I just canceled our date at the last minute, I’d never have to see her again for the rest of my life.
+<END>
+
+#WRITE(PTR, $00000D6E)
+Fully determined to follow through with that plan, I stood up.
+<END>
+
+#WRITE(PTR, $00000E62)
+【三住】
+“Yo, Taku! You still here?”
+<END>
+
+#WRITE(PTR, $00000E72)
+Out of nowhere, my back fell victim to a hard slap.
+<LINE>
+I knew who was behind me without even looking.
+<LINE>
+The only guy in class who ever talked to me—none other than%NMisumi-kun.
+<END>
+
+#WRITE(PTR, $00000E82)
+【三住】
+“You plannin’ on heading home? You usually vanish before the bell’s even finished ringin’. In my head, I call it ‘Takumi’s Supersonic%NSplit.’”
+<END>
+
+#WRITE(PTR, $00000E92)
+【拓巳】
+“I-I’m about to leave...”
+<END>
+
+#WRITE(PTR, $00000ED2)
+【三住】
+“You waitin’ on someone?”
+<END>
+
+#WRITE(PTR, $00000EE2)
+【拓巳】
+“Huh...?!”
+<END>
+
+#WRITE(PTR, $00000EF2)
+How the hell did he know...?!
+<END>
+
+#WRITE(PTR, $00000F32)
+【三住】
+“No way, was I right on the money?”
+<END>
+
+#WRITE(PTR, $00000F42)
+【拓巳】
+“No way, was I right on the money?”
+<END>
+
+#WRITE(PTR, $00000F52)
+【三住】
+“Well, you’re actin’ pretty damn fidgety. You’ve also looked over at the door about a hundred times.”
+<END>
+
+#WRITE(PTR, $00000F62)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00000F72)
+He was good...
+<END>
+
+#WRITE(PTR, $00000F82)
+Either way, I probably shouldn’t say anything that’d make me stand%Nout too much.
+<END>
+
+#WRITE(PTR, $00000F92)
+Don’t you forget, Takumi. You’ve gotta be invisible at this school. You’ve gotta blend in—be like air.
+<END>
+
+#WRITE(PTR, $00000FA2)
+【拓巳】
+“No, I’m not really... waiting for anyone...”
+<END>
+
+#WRITE(PTR, $00000FE2)
+【三住】
+“Oh, reaaaally? Then what’ve you been up to all this time?”
+<END>
+
+#WRITE(PTR, $00000FF2)
+【拓巳】
+“W-Well...”
+<END>
+
+#WRITE(PTR, $0000101A)
+Fuck. Misumi-kun wasn’t a bad guy, but at times like these, he could get really fucking annoying. Take a hint, 
+<DICT>
+FFS
+</DICT>
+.
+<END>
+
+#WRITE(PTR, $00001032)
+【優愛】
+“Nishijou-kun?”
+<END>
+
+#WRITE(PTR, $00001042)
+Shivers ran down my spine.
+<END>
+
+#WRITE(PTR, $0000111E)
+I slowly turned my head toward the voice.
+<LINE>
+Yua was standing by the classroom door, looking apologetic.
+<END>
+
+#WRITE(PTR, $0000112E)
+Oh, god damn it...%NBecause of Misumi-kun, I’d lost my chance to escape...
+<END>
+
+#WRITE(PTR, $00001212)
+【三住】
+“Huh— Who— Wh-What’s going on?! What the hell’s going on?!”
+<END>
+
+#WRITE(PTR, $00001222)
+Misumi-kun looked unusually shocked.%NIn fact, he was literally shaking.
+<LINE>
+He put his arm around my shoulder and gave me a stern look.
+<END>
+
+#WRITE(PTR, $00001232)
+【三住】
+“Dude. Taku. What the hell? Explain.”
+<END>
+
+#WRITE(PTR, $00001242)
+【三住】
+“That your girlfriend?”
+<END>
+
+#WRITE(PTR, $00001252)
+【拓巳】
+“N-No, she’s not...”
+<END>
+
+#WRITE(PTR, $00001262)
+How many times have I told you, Misumi-kun? I’m not into 3D.
+<END>
+
+#WRITE(PTR, $000012A2)
+【三住】
+“*Then who is she?* And I’m not buying any bullshit, like ‘she’s my sister’ or something.”
+<END>
+
+#WRITE(PTR, $000012B2)
+【三住】
+“What the hell did a shut-in like *you* do to meet a beaut like%N*that?*”
+<END>
+
+#WRITE(PTR, $000012C2)
+【拓巳】
+“Sh-She followed me around y-yesterday...”
+<END>
+
+#WRITE(PTR, $00001302)
+【三住】
+“Ohhhh, so it’s like *that,* then? *She* picked *you* up?
+<LINE>
+Damn bro, lucky bastard!”
+<END>
+
+#WRITE(PTR, $00001312)
+He put his hand on his chin, pondering for a moment.
+<LINE>
+And then, he finally let me go.
+<END>
+
+#WRITE(PTR, $00001352)
+【三住】
+“I see, I see... Well, different strokes for different folks, huh.%NGotta be someone out there that’s into whatever you’ve got. But I’ll tell you what, Taku: I’m kinda relieved you’ve got at least a *half*-normal sex life.”
+<END>
+
+#WRITE(PTR, $00001362)
+【拓巳】
+“S-Sex life...?”
+<END>
+
+#WRITE(PTR, $00001372)
+【拓巳】
+“I-I told you, it’s not like that...”
+<END>
+
+#WRITE(PTR, $000013B2)
+【三住】
+“Heh heh, right, whatever you say. Good luck out there, Taku!”
+<END>
+
+#WRITE(PTR, $000013CE)
+Misumi-kun wasn’t taking me seriously at all. He just got all%Nexcited over his own assumptions, then slapped my back even harder%Nthan before.
+<LINE>
+Ugh. At this point, he was just screwing with me.
+<END>
+
+#WRITE(PTR, $000013DE)
+【三住】
+“Chill out, dude. I won’t steal your girl.”
+<END>
+
+#WRITE(PTR, $000013EE)
+【拓巳】
+“I-I’m trying to tell you, it’s not like that...”
+<END>
+
+#WRITE(PTR, $000014DA)
+【三住】
+“Hahaha, whatever man, just get going. Your girl’s waiting!”
+<END>
+
+#WRITE(PTR, $000014EA)
+Misumi-kun ordered me to move, so I stumbled over to Yua.%NDespite my best efforts, I hadn’t been able to escape...
+<END>
+
+#WRITE(PTR, $00001532)
+【優愛】
+“Um... I came to pick you up... Am I disturbing you?”
+<END>
+
+#WRITE(PTR, $00001542)
+【拓巳】
+“Er, no, not really...”
+<END>
+
+#WRITE(PTR, $00001552)
+Yes, yes you fucking are.
+<END>
+
+#WRITE(PTR, $00001562)
+I turned to look at Misumi-kun, but he just grinned and gave me the finger. Honestly, I couldn’t tell whether he was trying to pick a%Nfight or cheer me on.
+<END>
+
+#WRITE(PTR, $00001572)
+I couldn’t deal with his shit any longer, so I decided to just hurry up and leave with Yua.
+<END>
+
+#WRITE(PTR, $000016B4)
+【優愛】
+“Again, I’m really sorry. We only just met yesterday, so asking you to come with me for something like this isn’t really...”
+<END>
+
+#WRITE(PTR, $000016C4)
+【拓巳】
+“It’s fine...”
+<END>
+
+#WRITE(PTR, $000016D4)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $000016E4)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000016F4)
+I-I was so nervous...
+<END>
+
+#WRITE(PTR, $0000171C)
+I was leaving school together with a 3D girl... Was I a 
+<DICT>
+normie
+</DICT>
+ now, or what? I’d always felt like this was all in a completely different world from mine.
+<END>
+
+#WRITE(PTR, $00001734)
+I never would’ve thought I’d get to experience something like%Nthis...
+<END>
+
+#WRITE(PTR, $00001744)
+But now I was feeling the intense pressure of Yua’s silence.%NWe were just walking side-by-side—not even talking—so why was this%Nso stressful...?
+<END>
+
+#WRITE(PTR, $00001754)
+And to top it all off, I didn’t really know who Yua was, or what her goal was.
+<LINE>
+Just what did she want from an otaku freak like me...?
+<END>
+
+#WRITE(PTR, $00001794)
+【優愛】
+“So, did you watch—”
+<END>
+
+#WRITE(PTR, $000017A4)
+【拓巳】
+“Huh?!”
+<END>
+
+#WRITE(PTR, $000017E4)
+【優愛】
+“I’m sorry?!”
+<END>
+
+#WRITE(PTR, $000017F4)
+【拓巳】
+“Ah, uh, nothing...”
+<END>
+
+#WRITE(PTR, $00001804)
+She started talking to me out of nowhere, so I got surprised, and
+<LINE>
+that weird sound I’d made just came out...
+<END>
+
+#WRITE(PTR, $00001814)
+Yua also seemed really nervous. Her expression was so tense.%NShe was older than me, so how was she still so innocent?%NHow surprisingly moe...
+<END>
+
+#WRITE(PTR, $00001824)
+Then again, I probably wasn’t the best person to be talking about%Ninnocence, since I could hardly manage more than a quick sidelong%Nglance at her. I was too embarrassed to take a proper look at her%Nface. I just couldn’t do it.
+<END>
+
+#WRITE(PTR, $00001864)
+【優愛】
+“You watched the new Blood Tune episode, right? The one that aired%Nthe day before yesterday?”
+<END>
+
+#WRITE(PTR, $00001874)
+【拓巳】
+“Uhh, y-yeah...”
+<END>
+
+#WRITE(PTR, $000018B4)
+【優愛】
+“There was this one part that I didn’t quite understand.”
+<END>
+
+#WRITE(PTR, $000018C4)
+【優愛】
+“Susumu-kun always rushes to rescue Seira-chan, right?%NBut this time, how did he even know that Seira-chan was in danger?%NI don’t quite get it.”
+<END>
+
+#WRITE(PTR, $000018D4)
+【拓巳】
+“Th-That... umm... was foreshadowed in last week’s episode.%NThere was that tiny scene where Seira’s phone rang for a moment,%Nright? Susumu’s name was on the caller ID...”
+<END>
+
+#WRITE(PTR, $00001914)
+【優愛】
+“Oh, ohhhh!”
+<END>
+
+#WRITE(PTR, $00001924)
+【優愛】
+“Now that you mention it, I think I remember that!”
+<END>
+
+#WRITE(PTR, $00001934)
+【拓巳】
+“Yamataku loves putting that sort of foreshadowing in.%NThere were similar things in GoldGoal, too.”
+<END>
+
+#WRITE(PTR, $00001944)
+【優愛】
+“Yamataku? GoldGoal?”
+<END>
+
+#WRITE(PTR, $00001954)
+【拓巳】
+“Y-Yamataku is the nickname of the Blood Tune director.%NAnd he did an anime called GoldGoal before Blood Tune.”
+<END>
+
+#WRITE(PTR, $00001994)
+【優愛】
+“Oh, really? So, Yamataku-san is a famous director?”
+<END>
+
+#WRITE(PTR, $000019A4)
+【拓巳】
+“Well, I like him, at least. As for why, well...”
+<END>
+瑞\
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
