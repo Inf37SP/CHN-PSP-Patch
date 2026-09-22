@@ -1,0 +1,133 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00000FE6)
+
+#WRITE(PTR, $00000B9C)
+A fire burned bright into the sky.
+<END>
+
+#WRITE(PTR, $00000BAC)
+Scorching red cinders danced around the incinerator.
+<LINE>
+The flame was fueled by a sailor-style school uniform, along with%Ncountless textbooks.
+<END>
+
+#WRITE(PTR, $00000D52)
+On a foothill overlooking the Seto Inland Sea, a girl stood in%Nher home’s garden.
+<LINE>
+The steam whistles of boats echoed in the distance, and the nearby%Ntrees gently swayed in the refreshing sea breeze.
+<END>
+
+#WRITE(PTR, $00000D62)
+In the midst of such a serene scene, the girl, Orihara Kozue, stood still and alone in front of the incinerator, bathing in the somber%Nambience of its cinders.
+<END>
+
+#WRITE(PTR, $00000D72)
+The girl’s gaze was locked onto the school uniform and textbooks as they were slowly reduced to ashes, each becoming clad in a crimson%Nglimmer.
+<END>
+
+#WRITE(PTR, $00000D82)
+Until only yesterday, they had been *her* school uniform and *her*%Ntextbooks.
+<END>
+
+#WRITE(PTR, $00000D92)
+Despite having lit the fire herself, the girl did not move from the spot—perhaps out of a lingering sense of regret.
+<END>
+
+#WRITE(PTR, $00000DA2)
+That, too, lasted only a moment. She suddenly knitted her eyebrows%Nand covered her ears as hard as she could.
+<END>
+
+#WRITE(PTR, $00000E10)
+【梢２】
+“...Nh...”
+<END>
+
+#WRITE(PTR, $00000E20)
+She gasped in agony.
+<LINE>
+And yet, she did nothing more.
+<END>
+
+#WRITE(PTR, $00000E30)
+The girl did not moan, nor did she raise any tearful%Ncomplaints—all she let out was a series of ragged breaths.
+<END>
+
+#WRITE(PTR, $00000E40)
+She shook her head repeatedly from side to side, as if to express a fierce, visceral objection.
+<END>
+
+#WRITE(PTR, $00000E50)
+And as she did, her strength slowly started to crumble, and she%Ncollapsed to the ground. She fell on her backside with a thud, let%Nher jaw droop as if utterly exhausted, and looked up to the sky with a dazed expression on her face.
+<END>
+
+#WRITE(PTR, $00000E60)
+Minutes later, she was still in that exact same position, not having moved a single muscle.
+<END>
+
+#WRITE(PTR, $00000E70)
+Until suddenly, she turned around with conviction, as if she had%Nheard someone call out to her.
+<END>
+
+#WRITE(PTR, $00000ED2)
+She looked toward the house’s porch.
+<LINE>
+The wooden house had been built over 50 years ago, so despite it%Nbeing daytime, it appeared quite dim. Anything beyond the porch%Ncould barely be seen.
+<END>
+
+#WRITE(PTR, $00000EE2)
+Kozue slowly stood back up and walked over to the porch. And at that very moment, her mother appeared with impeccable timing.
+<END>
+
+#WRITE(PTR, $00000EF2)
+【梢の母２】
+“Oh, there you are, Kozue-chan. I’ve been looking all over for you. Have you finished packing yet?”
+<END>
+
+#WRITE(PTR, $00000F02)
+Kozue promptly nodded and slowly sat down.
+<END>
+
+#WRITE(PTR, $00000F12)
+【梢の母】
+“We’ll have to say goodbye to our little ol’ place in a couple of%Ndays.”
+<END>
+
+#WRITE(PTR, $00000F22)
+Her mother took a seat next to her, gazing toward the Inland Sea%Nwith a gentle look in her eye.
+<END>
+
+#WRITE(PTR, $00000F32)
+【梢の母】
+“This will be your first time in Tokyo, won’t it, Kozue-chan?”
+<END>
+
+#WRITE(PTR, $00000F42)
+【梢の母】
+“Don’t worry... I’m sure you’ll make lots and lots of friends.”
+<END>
+
+#WRITE(PTR, $00000F52)
+【梢】
+“...”
+<END>
+
+#WRITE(PTR, $00000F62)
+Despite her mother’s caring words, Kozue did not nod, nor even shake her head in response.
+<END>
+
+#WRITE(PTR, $00000F72)
+She simply remained silent, gazing wistfully toward the%Nstill-burning incinerator in the corner of the garden...
+<END>
+
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
