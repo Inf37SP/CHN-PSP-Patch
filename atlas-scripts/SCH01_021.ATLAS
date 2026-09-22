@@ -1,0 +1,211 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00002446)
+
+#WRITE(PTR, $00000212)
+競泳水着
+<END2>
+
+#WRITE(PTR, $0000021C)
+スクール
+<END2>
+
+#WRITE(PTR, $00000226)
+それ以外
+<END2>
+
+#WRITE(PTR, $00000278)
+優愛ルート有り
+<END2>
+
+#WRITE(PTR, $00000282)
+優愛ルート無し
+<END2>
+
+#WRITE(PTR, $00000598)
+<END>
+
+#WRITE(PTR, $00000660)
+<END>
+
+#WRITE(PTR, $00000728)
+<END>
+
+#WRITE(PTR, $000007F0)
+<END>
+
+#WRITE(PTR, $000008B8)
+<END>
+
+#WRITE(PTR, $00000996)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000009A6)
+That night, I decided to consult Grimm about Yua.
+<END>
+
+#WRITE(PTR, $000009B6)
+I figured I might as well. If I just kept my paranoia to myself,%NI wouldn’t get anywhere.
+<END>
+
+#WRITE(PTR, $000009C6)
+And that was the response I’d gotten.
+<LINE>
+Well, not like I could blame him—the first time I’d spoken with%NYua, I reacted the exact same way.
+<END>
+
+#WRITE(PTR, $000009E6)
+<END>
+
+#WRITE(PTR, $00000B14)
+<END>
+
+#WRITE(PTR, $00000BD0)
+Grimm’s reaction was almost identical to Misumi-kun’s.
+<LINE>
+Were they the same person or something?
+<END>
+
+#WRITE(PTR, $00000C6E)
+<END>
+
+#WRITE(PTR, $00000D5C)
+<END>
+
+#WRITE(PTR, $00000E3E)
+【星来】
+“You’ve got mail, ya big dum-dum♪”
+<END>
+
+#WRITE(PTR, $00000E4E)
+Oh?%NOut of nowhere, I heard Seira-tan’s voice.
+<LINE>
+That was my custom e-mail notification sound.
+<END>
+
+#WRITE(PTR, $00000E5E)
+I casually went to check my e-mail, and the sender’s name was...
+<END>
+
+#WRITE(PTR, $00000E6E)
+Kusunoki Yua.
+<END>
+
+#WRITE(PTR, $00000E7E)
+【拓巳】
+“Wow... she sent one *already?*”
+<END>
+
+#WRITE(PTR, $00000E9E)
+<END>
+
+#WRITE(PTR, $00000F66)
+<END>
+
+#WRITE(PTR, $00001044)
+This... This was the first time I’d ever gotten an e-mail... from a 3D girl...
+<LINE>
+I gulped, then clicked to open it.
+<END>
+
+#WRITE(PTR, $000010A4)
+Yua’s usual elegance and purity shone through the e-mail. And by%Nusing a lot of emoticons, she gave it a bit of a friendly tone too.
+<END>
+
+#WRITE(PTR, $000010B4)
+But... when she said things like, “Maybe it was because Nishijou-kun was with me,” or, “I was hoping I’d be able to say hello tomorrow%Nmorning”...
+<END>
+
+#WRITE(PTR, $000010C4)
+...I just couldn’t help but feel like she was up to something.
+<END>
+
+#WRITE(PTR, $00001112)
+<END>
+
+#WRITE(PTR, $000011DA)
+<END>
+
+#WRITE(PTR, $000015A8)
+Grimm wouldn’t stop pestering me, so I just gave up and posted the%Nentire e-mail. Though, I did censor my and Yua’s personal%Ninformation at least.
+<END>
+
+#WRITE(PTR, $0000162E)
+<END>
+
+#WRITE(PTR, $000016F6)
+<END>
+
+#WRITE(PTR, $00001846)
+<END>
+
+#WRITE(PTR, $0000190E)
+<END>
+
+#WRITE(PTR, $000019D6)
+<END>
+
+#WRITE(PTR, $00001AC0)
+<END>
+
+#WRITE(PTR, $00001BE2)
+Yeah, I was fully aware...
+<LINE>
+But she really *was* just that nice... and that’s exactly what%Ndidn’t feel right to me.
+<END>
+
+#WRITE(PTR, $00001CE4)
+Well, th-that might not be so bad...
+<END>
+
+#WRITE(PTR, $00001CF4)
+No, scratch that! That was *exactly* what I wanted!
+<END>
+
+#WRITE(PTR, $00001D36)
+<END>
+
+#WRITE(PTR, $00001E58)
+【拓巳】
+“You’re right, but...”
+<END>
+
+#WRITE(PTR, $00001EFA)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00001F0A)
+If I could just “do it,” I wouldn’t be going through so much%Nturmoil.
+<END>
+
+#WRITE(PTR, $00001F1A)
+Like, I’d realized something when I was talking with Yua the other%Nday.
+<END>
+
+#WRITE(PTR, $00001F2A)
+Sure, there were a couple of moments where I had fun or felt happy, but aside from that, I just felt annoyed and completely exhausted.
+<END>
+
+#WRITE(PTR, $00001F3A)
+If that was what I had to go through with every IRL interaction,%Nthen I’d honestly rather just live in the 2D world, where I could do whatever I wanted.
+<END>
+
+#WRITE(PTR, $00001F4A)
+And that was why I decided not to reply to Yua’s e-mail.
+<END>
+瑞-
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
+
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
