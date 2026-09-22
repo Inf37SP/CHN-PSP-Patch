@@ -1,0 +1,243 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($0000070E)
+
+#WRITE(PTR, $000000C2)
+I had been lecturing Yua about the various facets of anime, when%NI realized we were already in front of Animeight. Time flew by way%Nfaster than I’d expected.
+<END>
+
+#WRITE(PTR, $000000D2)
+I’d let myself get carried away and talked way too much...
+<END>
+
+#WRITE(PTR, $000000E2)
+Well, it didn’t help that Yua was such a good listener.%NShe paid such close attention while I shared my wisdom.
+<END>
+
+#WRITE(PTR, $000000F2)
+I couldn’t help but want to tell her everything I knew—even though%NI knew I was falling right into her trap.
+<END>
+
+#WRITE(PTR, $00000102)
+All this, and yet I wasn’t even good at talking. This was the first time I’d ever felt this way.%NI was talking out loud, but it felt like I was chatting online.%NIt was a strange feeling.
+<END>
+
+#WRITE(PTR, $00000142)
+【優愛】
+“Oh dear... I’m getting a little nervous...”
+<END>
+
+#WRITE(PTR, $00000152)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00000162)
+【優愛】
+“Umm... Please don’t leave without me, okay?”
+<END>
+
+#WRITE(PTR, $00000172)
+【拓巳】
+“S-Sure...”
+<END>
+
+#WRITE(PTR, $000001EC)
+Yua only got more and more nervous as she went up and spoke to the%Nstore employee. It was clear that she was out of her comfort zone,%Nbut all I could do was just stand there and watch as she placed the pre-order for the Post-Awakening Ver. Seira figure.
+<END>
+
+#WRITE(PTR, $000001FC)
+There weren’t any opportunities to escape. Yua kept anxiously%Nglancing back at me, so I couldn’t budge an inch.
+<END>
+
+#WRITE(PTR, $0000020C)
+Right after that, she even forced me to look around the store with%Nher.
+<END>
+
+#WRITE(PTR, $0000021C)
+Yua was looking all around with a big grin on her face, saying%Nthings like, “Wow, there’s not enough money in the world to buy all these figures!” But even in the face of all that enthusiasm, I just couldn’t find it in me to smile back at her.
+<END>
+
+#WRITE(PTR, $00000294)
+So apparently Yua took the train to school, which meant I had to%Naccompany her all the way to Shinsen Station.
+<END>
+
+#WRITE(PTR, $000002A4)
+She might not look like it, but she was a devious one, all right.%NShe always managed to get her way, all without making herself look%Neven remotely selfish.
+<END>
+
+#WRITE(PTR, $000002CC)
+Clever girl... Talk about a 
+<DICT>
+wolf in sheep’s clothing
+</DICT>
+.
+<END>
+
+#WRITE(PTR, $00000314)
+【優愛】
+“So, Nishijou-kun, do you have a cell phone?”
+<END>
+
+#WRITE(PTR, $00000324)
+Once we’d reached the station, Yua suddenly asked me that question.
+<END>
+
+#WRITE(PTR, $00000334)
+A cell phone...?
+<LINE>
+I shook my head weakly.
+<END>
+
+#WRITE(PTR, $00000374)
+【優愛】
+“So you don’t have one... I see... I guess we can’t stay in touch,%Nthen...”
+<END>
+
+#WRITE(PTR, $00000384)
+【拓巳】
+“Wh-Wha...?”
+<END>
+
+#WRITE(PTR, $00000394)
+Why the hell would she want to stay in touch?
+<LINE>
+What, was she going to demand that I texted her about every little%Nthing for the rest of my life?
+<END>
+
+#WRITE(PTR, $000003D4)
+【優愛】
+“Oh, but you do have a computer, don’t you?”
+<END>
+
+#WRITE(PTR, $000003E4)
+【優愛】
+“I have one too, so maybe we could exchange e-mail addresses?”
+<END>
+
+#WRITE(PTR, $000003F4)
+【拓巳】
+“Wh-Why would we...?”
+<END>
+
+#WRITE(PTR, $00000434)
+【優愛】
+“Huh? Umm...”
+<END>
+
+#WRITE(PTR, $00000444)
+【優愛】
+“You know, because when the figure goes on sale...”
+<END>
+
+#WRITE(PTR, $00000454)
+【優愛】
+“I have to come pick up my pre-order...”
+<END>
+
+#WRITE(PTR, $00000464)
+【優愛】
+“So, maybe... we could... go together again...?”
+<END>
+
+#WRITE(PTR, $00000474)
+【優愛】
+“I still don’t have the courage... to go to Animeight all by%Nmyself...”
+<END>
+
+#WRITE(PTR, $00000484)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00000494)
+She was good.
+<END>
+
+#WRITE(PTR, $000004D4)
+【優愛】
+“Besides, umm...”
+<END>
+
+#WRITE(PTR, $000004E4)
+She was way too good.
+<END>
+
+#WRITE(PTR, $000004F4)
+【優愛】
+“You see, Nishijou-kun...”
+<END>
+
+#WRITE(PTR, $00000504)
+I knew she had her claws in me, but I just couldn’t turn her down.%NIf I did, *I’d* look like the bad guy...
+<END>
+
+#WRITE(PTR, $00000514)
+【優愛】
+“I really, really...”
+<END>
+
+#WRITE(PTR, $00000524)
+3D was the scariest fucking thing in the world...
+<END>
+
+#WRITE(PTR, $00000564)
+【優愛】
+“...would like to get to know you better...”
+<END>
+
+#WRITE(PTR, $00000574)
+【拓巳】
+“Nng...”
+<END>
+
+#WRITE(PTR, $00000584)
+How was she doing this? Was it just because I was bad at talking to people? Or was she just too good?
+<END>
+
+#WRITE(PTR, $00000594)
+Either way, Yua seemed intent on not leaving until she had my%Ne-mail. Yet at the same time, I could sense a bit of unease behind%Nthose glasses of hers.
+<END>
+
+#WRITE(PTR, $000005A4)
+I could practically feel my will to resist draining from my body.
+<END>
+
+#WRITE(PTR, $000005B4)
+There were goosebumps all over my body, shivers running down my%Nspine... but I couldn’t run away, and I couldn’t turn her down.
+<END>
+
+#WRITE(PTR, $000005C4)
+There was definitely something up with Yua...
+<LINE>
+This aura she had... It wasn’t normal.
+<END>
+
+#WRITE(PTR, $000005D4)
+I couldn’t really put into words exactly what it was that bothered%Nme so much... But whatever it was, something wasn’t right.
+<END>
+
+#WRITE(PTR, $00000678)
+Before I knew it, I’d torn out a scrap of notebook paper, written%Ndown my e-mail address, and handed it to her.
+<END>
+
+#WRITE(PTR, $00000690)
+She took it, looking happy as can be, then quickly bowed her head%Nand disappeared into the station.
+<END>
+
+#WRITE(PTR, $000006A0)
+It felt like my soul had left my body. I just stood there,%Ncompletely dumbfounded. Even after ten minutes passed, I couldn’t%Nmove an inch.
+<END>
+瑞
+ 1
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
