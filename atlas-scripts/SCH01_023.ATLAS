@@ -1,0 +1,491 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00000ABC)
+
+#WRITE(PTR, $00000092)
+Another week came. And with it, another school day.
+<LINE>
+As usual, I headed to school with my head hung low, depressed as%Never.
+<END>
+
+#WRITE(PTR, $000000A2)
+Autumn was starting to come into full swing.
+<END>
+
+#WRITE(PTR, $000000B2)
+The leaves of the trees in Shoto Park were slowly changing color,%Nand I was starting to feel chilly in my short-sleeve uniform.
+<END>
+
+#WRITE(PTR, $000000C2)
+I supposed it made sense that I’d be surprised by the change of%Nseason, given I rarely went outside in the first place.
+<END>
+
+#WRITE(PTR, $000000D2)
+I still hadn’t really registered that summer had ended.
+<END>
+
+#WRITE(PTR, $000000E2)
+My weekend had consisted of nonstop ESO.
+<LINE>
+Grimm had kept on bugging me about Yua, but I’d just ignored him.
+<END>
+
+#WRITE(PTR, $000000F2)
+I hadn’t gotten an e-mail from Yua since that first one.
+<LINE>
+I hadn’t *replied* to her first one either, so maybe she’d finally%Ngiven up on me.
+<END>
+
+#WRITE(PTR, $00000102)
+I really hoped that was the case.
+<END>
+
+#WRITE(PTR, $00000112)
+Whenever I talked to Yua, my feelings always got all jumbled up.
+<LINE>
+Those interactions almost made me have a little hope.
+<END>
+
+#WRITE(PTR, $00000122)
+But there was no point in being so optimistic. At the end of the%Nday, I was just an otaku freak.
+<LINE>
+My whole life, I’d never ever had any success with 3D, so I’d just%Ngiven up on it.
+<END>
+
+#WRITE(PTR, $00000132)
+Please, don’t give me any hope.
+<LINE>
+Please, don’t have any hope for me.
+<END>
+
+#WRITE(PTR, $00000142)
+Just as I thought that, someone tapped my shoulder from behind.
+<LINE>
+I figured it was Nanami or Misumi-kun, but when I turned around,%NI was shocked.
+<END>
+
+#WRITE(PTR, $00000194)
+【優愛】
+“Nishijou-kun... Huff... huff...”
+<END>
+
+#WRITE(PTR, $000001A4)
+Yua was looking at me with a smile on her face. Her cheeks were a%Nlittle flushed.
+<LINE>
+Why was she so out of breath?
+<END>
+
+#WRITE(PTR, $000001B4)
+【優愛】
+“I... was right behind you... and I thought...%N‘Oh, is that Nishijou-kun?’... so I... ran to catch up...”
+<END>
+
+#WRITE(PTR, $000001C4)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000001D4)
+Had she really not given up yet...?
+<LINE>
+Did she still have some hope left in me?
+<END>
+
+#WRITE(PTR, $00000214)
+【優愛】
+“Good morning, Nishijou-kun.”
+<END>
+
+#WRITE(PTR, $00000224)
+【拓巳】
+“Uh, y-yeah...”
+<END>
+
+#WRITE(PTR, $00000234)
+【優愛】
+“Phew, I finally got a chance to say it... It only took me four%Ndays—if you count the weekend, that is.”
+<END>
+
+#WRITE(PTR, $00000274)
+【優愛】
+“Oh, right, I e-mailed you last week... D-Did you... read it...?”
+<END>
+
+#WRITE(PTR, $00000284)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00000294)
+I found myself nodding out of reflex.
+<END>
+
+#WRITE(PTR, $000002D4)
+【優愛】
+“Oh, good... I didn’t see any replies in my inbox, so I worried that maybe it didn’t send properly... I considered sending it again, but I guess I was right to be patient!”
+<END>
+
+#WRITE(PTR, $000002E4)
+Seriously, what the hell did Yua want from me?
+<END>
+
+#WRITE(PTR, $000002F4)
+Did she expect me to like her back?
+<LINE>
+Did she want me to be her boyfriend?
+<LINE>
+And then did she want us to live out some intimate, lovey-dovey%Nfantasy together?
+<END>
+
+#WRITE(PTR, $00000304)
+...There was no way I could do that.
+<LINE>
+No way I could be that normal, no matter how hard I tried.
+<LINE>
+I really wanted to, but it just wasn’t possible.
+<END>
+
+#WRITE(PTR, $00000314)
+I still didn’t understand why Yua even liked me in the first place.
+<LINE>
+Which made it all the more impossible to trust her.
+<END>
+
+#WRITE(PTR, $00000324)
+So I just couldn’t do it...
+<END>
+
+#WRITE(PTR, $00000364)
+【優愛】
+“Um, Nishijou-kun, are you all right?”
+<END>
+
+#WRITE(PTR, $00000374)
+【拓巳】
+“Huh...?”
+<END>
+
+#WRITE(PTR, $00000384)
+【優愛】
+“Well, umm, you’ve just kind of been standing there for a while%Nnow...”
+<END>
+
+#WRITE(PTR, $00000394)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000003AC)
+Upon realizing that, I quickly started to walk away, leaving Yua%Nbehind.
+<LINE>
+But before I could get very far, Yua had already caught up with me.
+<END>
+
+#WRITE(PTR, $000003EC)
+【優愛】
+“I went over to your classroom yesterday, but you weren’t there,%Nright? So I thought that maybe you’d caught a cold and taken the day off... I was very worried.”
+<END>
+
+#WRITE(PTR, $000003FC)
+【優愛】
+“But you seem to be doing just fine, so that’s good!”
+<END>
+
+#WRITE(PTR, $0000040C)
+【拓巳】
+“S-Sometimes...”
+<END>
+
+#WRITE(PTR, $0000044C)
+【優愛】
+“Sorry?”
+<END>
+
+#WRITE(PTR, $0000045C)
+【拓巳】
+“I... just d-don’t... come to school... sometimes...”
+<END>
+
+#WRITE(PTR, $0000046C)
+【拓巳】
+“E-Everyone... calls me... a sh-shut-in...”
+<END>
+
+#WRITE(PTR, $0000047C)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $0000048C)
+Did that break the spell? You’re totally disillusioned now that you know the truth, right?
+<END>
+
+#WRITE(PTR, $0000049C)
+If so, I don’t mind. I never got my hopes up anyway.
+<END>
+
+#WRITE(PTR, $000004AC)
+Go ahead and call me an otaku freak. And then after that, never talk to me again.
+<END>
+
+#WRITE(PTR, $000004EC)
+【優愛】
+“Oh, really? I see. Well, I’m really glad I got to see you today,%Nthen!”
+<END>
+
+#WRITE(PTR, $000004FC)
+【拓巳】
+“...Wh—”
+<END>
+
+#WRITE(PTR, $0000050C)
+I was left speechless.
+<END>
+
+#WRITE(PTR, $0000051C)
+All I could manage to do was stare at Yua’s smile. But when our eyes met, I got flustered and looked down.
+<END>
+
+#WRITE(PTR, $0000052C)
+How was she not disgusted by me...?
+<END>
+
+#WRITE(PTR, $0000056C)
+【優愛】
+“And if you ask me, even if you don’t always show up, I don’t think that makes you a shut-in...”
+<END>
+
+#WRITE(PTR, $0000057C)
+【優愛】
+“Oh, I-I’m really sorry, I shouldn’t talk like I fully understand%Nyour situation, I just...”
+<END>
+
+#WRITE(PTR, $0000058C)
+【拓巳】
+“B-But...”
+<END>
+
+#WRITE(PTR, $0000059C)
+【拓巳】
+“...going to school... kills me...”
+<END>
+
+#WRITE(PTR, $000005DC)
+【優愛】
+“And that’s exactly why I respect you a lot!”
+<END>
+
+#WRITE(PTR, $000005EC)
+【拓巳】
+“Huh...?”
+<END>
+
+#WRITE(PTR, $000005FC)
+I never thought I’d ever hear someone say that to me. What the hell was respectable about a total loser like me?
+<END>
+
+#WRITE(PTR, $0000060C)
+A gentle smile had spread over Yua’s face.
+<LINE>
+A smile so sweet, it could cure any disease.
+<LINE>
+That was genuinely what I thought in that moment.
+<END>
+
+#WRITE(PTR, $0000061C)
+【優愛】
+“After all, even though it’s so hard for you, you still make the%Neffort to come sometimes.”
+<END>
+
+#WRITE(PTR, $0000062C)
+【優愛】
+“Most people wouldn’t choose to do things that cause them pain.”
+<END>
+
+#WRITE(PTR, $0000063C)
+【拓巳】
+“B-But...”
+<END>
+
+#WRITE(PTR, $0000064C)
+【拓巳】
+“I’m... an otaku... A freak...”
+<END>
+
+#WRITE(PTR, $0000065C)
+【優愛】
+“But I like listening to you talk, Nishijou-kun.”
+<END>
+
+#WRITE(PTR, $0000066C)
+What in the...?
+<LINE>
+What the hell? What was with all this validation?
+<LINE>
+Why did hearing it make me feel so good about myself...?
+<END>
+
+#WRITE(PTR, $0000067C)
+It felt like Yua was embracing me, all the way down to my core.
+<END>
+
+#WRITE(PTR, $0000069E)
+Like she was giving me the right to be here, to exist in this%Nmoment.
+<LINE>
+It felt like... when I was with her... maybe I could even be a%Nnormal person again.
+<END>
+
+#WRITE(PTR, $000006EA)
+【優愛】
+“Oh, o-oh no! The bell!”
+<END>
+
+#WRITE(PTR, $000006FA)
+I hadn’t realized until now, but almost all the students were%Nalready gone.
+<LINE>
+Everyone had made their way into the school building.
+<END>
+
+#WRITE(PTR, $0000070A)
+【優愛】
+“All right, then. I’ll be sure to talk to you later, Nishijou-kun.”
+<END>
+
+#WRITE(PTR, $0000074A)
+【優愛】
+“Oh, I almost forgot! Would you happen to have any time today after school?”
+<END>
+
+#WRITE(PTR, $0000075A)
+【拓巳】
+“Huh...?”
+<END>
+
+#WRITE(PTR, $0000079A)
+【優愛】
+“Umm, m-maybe... we could walk home together... I-If you want,%NI mean...”
+<END>
+
+#WRITE(PTR, $000007AA)
+With a timid tone, Yua mumbled her words, a faint blush on her%Ncheeks.
+<END>
+
+#WRITE(PTR, $000007BA)
+【優愛】
+“I-I’ll wait for you in the courtyard after classes end... so... if you want to come, meet me there... please!”
+<END>
+
+#WRITE(PTR, $000007CA)
+【優愛】
+“Ah, but don’t feel like you have to... I-It’s perfectly fine if you don’t come...”
+<END>
+
+#WRITE(PTR, $000007DA)
+【優愛】
+“I’ll talk to you later! If you want, I mean...!”
+<END>
+
+#WRITE(PTR, $000007F8)
+Yua bowed elegantly, then darted off toward the third year%Nclassrooms.
+<END>
+
+#WRITE(PTR, $00000808)
+I watched her disappear into the building. Then I pinched my cheek.
+<END>
+
+#WRITE(PTR, $00000818)
+It really wasn’t a dream... or a delusion...
+<END>
+
+#WRITE(PTR, $000008CA)
+I couldn’t focus on my classes all day after that.
+<END>
+
+#WRITE(PTR, $000008DA)
+Or rather, I didn’t bother *trying* to focus.
+<LINE>
+I just rested my head on my hand, staring sluggishly into the autumn sky outside the window.
+<END>
+
+#WRITE(PTR, $000008EA)
+My teachers... My classmates... None of them ever paid any attention to me.
+<END>
+
+#WRITE(PTR, $000008FA)
+But Yua *did.*
+<LINE>
+Yua was different from the other shitbags at this school.
+<END>
+
+#WRITE(PTR, $0000090A)
+I couldn’t stop thinking about her, I couldn’t stop having delusions about her, and before I knew it, classes were over for the day.
+<END>
+
+#WRITE(PTR, $0000094A)
+【三住】
+“’Sup, Taku. You got a date today too?”
+<END>
+
+#WRITE(PTR, $0000095A)
+【三住】
+“How’d your last date with the glasses chick go?”
+<END>
+
+#WRITE(PTR, $0000096A)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000009AA)
+【三住】
+“Wait, you’re not holding back just ’cause you’re a NEET, are you?%N*She* made the first move, so it’s not a question of whether or not you take her out. You just gotta, man.”
+<END>
+
+#WRITE(PTR, $000009BA)
+【拓巳】
+“I-I’m not doing any of that!”
+<END>
+
+#WRITE(PTR, $000009FA)
+【三住】
+“Wh-Whoa, what’s with the shouting?”
+<END>
+
+#WRITE(PTR, $00000A0A)
+【拓巳】
+“Yua and I... aren’t like that.”
+<END>
+
+#WRITE(PTR, $00000A1A)
+【三住】
+“Huh? This shit again? Why are you givin’ up on her already? It’s%Nabout time you got out of your shut-in phase, ain’t it?”
+<END>
+
+#WRITE(PTR, $00000A2A)
+【拓巳】
+“I-I’m not a sh-shut-in...”
+<END>
+
+#WRITE(PTR, $00000A3A)
+And that wasn’t even what this was about.
+<END>
+
+#WRITE(PTR, $00000A4A)
+But there was no point in trying to explain that to Misumi-kun, a%Nguy who only thought with the wrong head.
+<END>
+
+#WRITE(PTR, $00000A5A)
+So, ignoring how puzzled Misumi-kun was, I quickly made my way out%Nof the classroom.
+<END>
+神
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<DUMMY>
+<END2>
