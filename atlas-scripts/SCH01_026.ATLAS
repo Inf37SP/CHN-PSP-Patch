@@ -1,0 +1,1436 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($0000340C)
+
+#WRITE(PTR, $00000B3E)
+ポジティブ妄想
+<END2>
+
+#WRITE(PTR, $00000B48)
+ネガティブ妄想
+<END2>
+
+#WRITE(PTR, $00000B52)
+妄想しない
+<END2>
+
+#WRITE(PTR, $00000E66)
+Oh, th-that’s right...
+<END>
+
+#WRITE(PTR, $00000E76)
+Nanami had one attached to her cell phone. *That’s* what I was%Nthinking of.
+<END>
+
+#WRITE(PTR, $00000E86)
+Yeah, it was perfectly normal.%NWhat did I think was so strange about it?
+<LINE>
+I was just paranoid over nothing. I’m so stupid.
+<END>
+
+#WRITE(PTR, $00000E96)
+Nanami *did* say that Gero Froggies were super popular with high%Nschool girls. So really, it should come as no surprise that Yua had some too. Yep, nothing out of the ordinary here. Not even slightly.
+<END>
+
+#WRITE(PTR, $00000EA6)
+Sometimes, having such a big imagination really sucked.
+<LINE>
+And with how terrifying my delusions could be, it got so, so much%Nworse. Hahaha.
+<END>
+
+#WRITE(PTR, $00000F3C)
+【優愛】
+“Nishijou-kun?”
+<END>
+
+#WRITE(PTR, $00000F4C)
+Yua was looking at me, tilting her head in confusion.
+<LINE>
+Not knowing how to reply, I just forced a smile.
+<END>
+
+#WRITE(PTR, $00000F5C)
+【拓巳】
+“Ah, umm...”
+<END>
+
+#WRITE(PTR, $00000F6C)
+【拓巳】
+“Th-Those are r-really... popular... nowadays, aren’t they...?”
+<END>
+
+#WRITE(PTR, $00000F7C)
+【拓巳】
+“Th-Those Gero Froggies...”
+<END>
+
+#WRITE(PTR, $00000FBC)
+【優愛】
+“...Ah!”
+<END>
+
+#WRITE(PTR, $00000FD8)
+Huh...?
+<END>
+
+#WRITE(PTR, $00000FF4)
+What kind of reaction was that?
+<LINE>
+Why had her expression...
+<LINE>
+...turned so... stiff...?
+<END>
+
+#WRITE(PTR, $00001004)
+Did... Had I said something... wrong?
+<END>
+
+#WRITE(PTR, $00001014)
+All I’d done was mention the Gero Froggies as a conversation%Nstarter. Nothing else.
+<LINE>
+So then, why...?
+<END>
+
+#WRITE(PTR, $00001054)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00001064)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $00001074)
+Why had her smile—that gentle smile she’d had this entire%Ntime—suddenly vanished? Why did she hang her head, as if she%Ndidn’t even want to look at me?
+<LINE>
+I couldn’t tell what kind of expression she was making anymore.
+<END>
+
+#WRITE(PTR, $00001084)
+It all gave me a terrible feeling I just couldn’t shake.
+<LINE>
+When I’d first laid eyes on those three Gero Froggies hanging from%Nher bag, I’d been hit by a massive sense of déjà vu.
+<END>
+
+#WRITE(PTR, $00001094)
+Looking back, I guess my instincts were right.
+<END>
+
+#WRITE(PTR, $000010A4)
+I *had* seen those three Gero Froggies somewhere before.
+<LINE>
+And now that I’d mentioned them, Yua was freaking out.
+<END>
+
+#WRITE(PTR, $000010B4)
+Suspicion slowly crept through my head until it completely took over my mind.
+<LINE>
+I wanted to trust Yua, but I didn’t know if I should...
+<END>
+
+#WRITE(PTR, $000010F4)
+【優愛】
+“Oh, N-Nishijou-kun...%Ny-you’ve also heard about G-Gero Froggies, I see.”
+<END>
+
+#WRITE(PTR, $00001104)
+Her voice lacked even the least bit of composure.
+<END>
+
+#WRITE(PTR, $00001114)
+【優愛】
+“Th-They really are popular, aren’t they? Ahaha...%NI mean, I, umm, don’t really find them, umm, th-that cute, but...”
+<END>
+
+#WRITE(PTR, $00001124)
+【優愛】
+“S-Some friends started g-giving them to me...
+<LINE>
+A-And before I knew it, I already had three of them...”
+<END>
+
+#WRITE(PTR, $00001134)
+The more Yua spun her tale, the more artificial it felt.
+<END>
+
+#WRITE(PTR, $00001144)
+She wasn’t looking at me. She didn’t even try to.
+<LINE>
+Her smile was gone.
+<LINE>
+Even though until that very moment, she’d been so gentle. So sweet.
+<END>
+
+#WRITE(PTR, $00001154)
+I started to feel dead inside.
+<LINE>
+“Please, don’t say any more...” I begged inside my head.
+<END>
+
+#WRITE(PTR, $00001164)
+【優愛】
+“W-Would you like a closer look?”
+<END>
+
+#WRITE(PTR, $0000117C)
+Yua reached out for her bag, trying to take the Gero Froggy straps%Noff of it.
+<END>
+
+#WRITE(PTR, $0000118C)
+【優愛】
+“Umm... W-Wait just a moment, please...”
+<END>
+
+#WRITE(PTR, $0000119C)
+Her hands were trembling.
+<LINE>
+She frantically tried to pull them off of her bag, but they just%Nwouldn’t budge.
+<END>
+
+#WRITE(PTR, $000011AC)
+【優愛】
+“Th-This is strange... Why aren’t they coming off...?
+<LINE>
+A-Are they tangled or somethi—”
+<END>
+
+#WRITE(PTR, $00001212)
+【優愛】
+“Ah...!”
+<END>
+
+#WRITE(PTR, $00001222)
+Yua pulled on the straps a bit too hard, causing the bag to fall off the bench. The bag was unzipped, so all of her notebooks and%Ntextbooks spilled out onto the ground.
+<END>
+
+#WRITE(PTR, $00001312)
+【拓巳】
+“...!”
+<END>
+
+#WRITE(PTR, $00001322)
+It was in Room 36!%K
+<LINE>
+Whenever I went to @café, I always used Room 37.%NMeanwhile Room 36, the room next door, was always empty.
+<END>
+
+#WRITE(PTR, $00001332)
+But last week, the day I’d first met Yua, I’d been shocked to find%Nthat someone was actually using it—and they were looking at sites%Ndedicated to New Gen, no less.
+<END>
+
+#WRITE(PTR, $00001342)
+Then, I’d come across Yua inside @café, started panicking,
+<LINE>
+then instantly made a run for it...
+<END>
+
+#WRITE(PTR, $00001352)
+No way...
+<LINE>
+You can’t be serious... Was it really her?%NBack then... in that room...
+<END>
+
+#WRITE(PTR, $0000136E)
+I looked at Yua, who was still sitting on the bench.%NHer eyes stared at me from behind her glasses, and her gaze collided with mine. It was the first time we’d properly made eye contact%Nsince we’d met.
+<END>
+
+#WRITE(PTR, $0000137E)
+There was still a smile on her face for a brief moment, but it%Nquickly changed into a puzzled look.
+<END>
+
+#WRITE(PTR, $0000138E)
+What sort of expression was I making?
+<LINE>
+I couldn’t tell.
+<END>
+
+#WRITE(PTR, $0000139E)
+I turned my gaze toward her bag—toward the toy straps attached to%Nit—once again.
+<END>
+
+#WRITE(PTR, $00001400)
+I felt the air change as she gasped in response.
+<END>
+
+#WRITE(PTR, $00001410)
+【優愛】
+“Nishijou...kun...?”
+<END>
+
+#WRITE(PTR, $00001420)
+A golden leaf fell off a branch swaying in the wind,
+<LINE>
+and ever so gently, ever so gracefully,%Ndanced through the air.
+<END>
+
+#WRITE(PTR, $00001430)
+All sorts of thoughts flashed through my mind.
+<END>
+
+#WRITE(PTR, $00001440)
+I didn’t really understand why, but Gero Froggies *were* popular, so having a few of them dangling from your bag wasn’t anything unusual.
+<END>
+
+#WRITE(PTR, $00001450)
+But...
+<END>
+
+#WRITE(PTR, $00001460)
+On that day...
+<LINE>
+Yua had probably been there, in Room 36...
+<LINE>
+And all this time... she’d never mentioned it even *once.*
+<END>
+
+#WRITE(PTR, $00001470)
+And to make matters worse, she’d been researching New Gen.
+<END>
+
+#WRITE(PTR, $000014E8)
+I’d almost forgotten about those horrible murders...
+<LINE>
+But I remembered I’d been a witness in one of them.
+<END>
+
+#WRITE(PTR, $000014F8)
+That gruesome spectacle revived itself again in my mind.
+<LINE>
+And then...
+<END>
+
+#WRITE(PTR, $0000166A)
+I saw a flash of the culprit’s face.
+<END>
+
+#WRITE(PTR, $0000167A)
+【優愛】
+“I-Is it about these things? They’re called Gero Froggies.%NSome friends started giving them to me... and before I knew it,%NI already had three of them...”
+<END>
+
+#WRITE(PTR, $00001692)
+Yua’s smile had gotten slightly stiffer.
+<LINE>
+She reached out for her bag, trying to take the Gero Froggy straps%Noff of it.
+<END>
+
+#WRITE(PTR, $000016A2)
+【優愛】
+“They’ve gotten very popular with high school girls recently.%NI-I don’t really find them that cute, but...”
+<END>
+
+#WRITE(PTR, $000016B2)
+Yua’s hands were trembling.
+<LINE>
+She frantically tried to pull them off of her bag, but they just%Nwouldn’t budge.
+<END>
+
+#WRITE(PTR, $000016C2)
+【優愛】
+“Th-This is strange... Why aren’t they coming off...?%NW-Wait just a moment, please. I’ll give you a closer look as soon as I get them o—”
+<END>
+
+#WRITE(PTR, $00001728)
+【優愛】
+“Ah...!”
+<END>
+
+#WRITE(PTR, $00001738)
+Yua pulled on the straps a bit too hard, causing the bag to fall off the bench. The bag was unzipped, so all of her notebooks and%Ntextbooks spilled out onto the ground.
+<END>
+
+#WRITE(PTR, $0000174C)
+I just couldn’t put my finger on it...
+<END>
+
+#WRITE(PTR, $0000175C)
+I definitely felt like I’d seen them before, but I just couldn’t%Nremember where.
+<END>
+
+#WRITE(PTR, $0000176C)
+Was my memory really *that* bad?
+<LINE>
+I’d always been confident in my memorization skills, and they never failed to help me score well on my tests.%NI *was* pretty smart, after all.
+<END>
+
+#WRITE(PTR, $0000177C)
+So why were they failing me now, and at such an important time—or%Nat least, what felt like one?
+<END>
+
+#WRITE(PTR, $0000178C)
+Where? Where had I seen them before...?
+<END>
+
+#WRITE(PTR, $0000179C)
+I felt that if I took a closer look at the Gero Froggies, maybe%N*then* I’d remember.
+<LINE>
+As for what would happen next, though, I didn’t know.
+<END>
+
+#WRITE(PTR, $000017AC)
+But I just wanted to stop feeling so hopelessly lost, so I...
+<END>
+
+#WRITE(PTR, $000017BC)
+...almost subconsciously...
+<LINE>
+...extended my hand...
+<LINE>
+...and reached for the bundle of Gero Froggies—
+<END>
+
+#WRITE(PTR, $000017CC)
+【優愛】
+“No!”
+<END>
+
+#WRITE(PTR, $00001884)
+【拓巳】
+“Gh—!”
+<END>
+
+#WRITE(PTR, $00001894)
+Suddenly, Yua slapped my hand away.
+<END>
+
+#WRITE(PTR, $000018A4)
+【拓巳】
+“Wha...?”
+<END>
+
+#WRITE(PTR, $000018B4)
+...Huh?
+<END>
+
+#WRITE(PTR, $000018F4)
+【優愛】
+“Ah...”
+<END>
+
+#WRITE(PTR, $00001904)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $00001928)
+...What had just happened?
+<END>
+
+#WRITE(PTR, $00001938)
+I was dumbfounded.
+<LINE>
+Yua looked away from me, then awkwardly started to get up off the%Nbench.
+<END>
+
+#WRITE(PTR, $00001948)
+But as she did...
+<LINE>
+...her hand hit the three Gero Froggies that were hanging from her%Nbag...
+<END>
+
+#WRITE(PTR, $00001958)
+...and, almost as if in slow motion...
+<END>
+
+#WRITE(PTR, $00001968)
+...her bag...
+<END>
+
+#WRITE(PTR, $00001978)
+...slowly...
+<END>
+
+#WRITE(PTR, $00001988)
+...fell off the bench...
+<END>
+
+#WRITE(PTR, $00001998)
+...and crashed to the ground.
+<END>
+
+#WRITE(PTR, $000019FE)
+【優愛】
+“Ah...”
+<END>
+
+#WRITE(PTR, $00001A0E)
+The bag was unzipped, so all of her notebooks and textbooks spilled out onto the ground.
+<END>
+
+#WRITE(PTR, $00001A22)
+【優愛】
+“O-Oh... Silly me, I’m all over the place today...”
+<END>
+
+#WRITE(PTR, $00001A32)
+Just a few minutes ago...
+<END>
+
+#WRITE(PTR, $00001A42)
+I might’ve even thought of Yua’s ditziness as moe.
+<LINE>
+But at the present moment, I was just frozen in place.
+<LINE>
+And that was because...
+<END>
+
+#WRITE(PTR, $00001A52)
+One of the fallen notebooks had flipped open. Tons of notes and%Nnewspaper snippets were scattered across the ground.
+<END>
+
+#WRITE(PTR, $00001A62)
+It looked like it was some sort of scrapbook.
+<LINE>
+And all the notes, all the newspaper snippets, *everything*...%Nwas focused on a certain string of cases.
+<END>
+
+#WRITE(PTR, $00001A72)
+And its name was written there, clear as day.
+<END>
+
+#WRITE(PTR, $00001A8E)
+“New Gen.”
+<END>
+
+#WRITE(PTR, $00001A9E)
+【拓巳】
+“Wh... Why...?”
+<END>
+
+#WRITE(PTR, $00001AAE)
+My voice came out ragged.
+<LINE>
+Yua, in a panic, started frantically gathering everything up and%Nshoving it back into her bag.
+<END>
+
+#WRITE(PTR, $00001B44)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $00001B54)
+Once she did, she held the bag close to her chest and stood up.%NShe looked toward me and nodded, her expression intensely%Nuncomfortable.%NHer smile from before was nowhere to be found.
+<END>
+
+#WRITE(PTR, $00001B64)
+【拓巳】
+“W-Were those...?”
+<END>
+
+#WRITE(PTR, $00001B74)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $00001B84)
+Yua didn’t answer.
+<END>
+
+#WRITE(PTR, $00001B94)
+Why wouldn’t she talk to me?
+<LINE>
+Please, just say something...
+<LINE>
+Anything...
+<END>
+
+#WRITE(PTR, $00001BA4)
+Even still, she said nothing. Which meant... she must have realized that she’d been caught red-handed.
+<END>
+
+#WRITE(PTR, $00001BB4)
+I’d wanted to trust her so badly...
+<LINE>
+And I’d been just starting to think... that maybe Yua was actually%Non my side...
+<LINE>
+That she could’ve been an ally...
+<END>
+
+#WRITE(PTR, $00001C60)
+【星来】
+“Ya can’t trust anyone.%NDon’t listen to *anythin’* that *anyone* says!”
+<END>
+
+#WRITE(PTR, $00001D5C)
+In the end, Seira was right.
+<END>
+
+#WRITE(PTR, $00001D6C)
+3D girls were the worst pieces of shit imaginable—every last one%Nof them.
+<END>
+
+#WRITE(PTR, $00001D7C)
+Yua never liked me at all...%NShe only wanted to get close because she had ulterior motives.
+<END>
+
+#WRITE(PTR, $00001D8C)
+Maybe she wanted to turn me in to the police.
+<LINE>
+Or maybe she wanted to blackmail me.
+<END>
+
+#WRITE(PTR, $00001D9C)
+God dammit...
+<LINE>
+God fucking dammit...!
+<END>
+
+#WRITE(PTR, $00001DAC)
+I’d almost forgotten all about that incident, yet here we go%Nagain...
+<END>
+
+#WRITE(PTR, $00001DBC)
+The police had never questioned me, so I’d thought that maybe, just maybe, I could go on pretending it had nothing to do with me.%NAll I wanted was to get away from those stupid murders... so why...?
+<END>
+
+#WRITE(PTR, $00001DCC)
+What the hell was Yua *really* after here?
+<LINE>
+No, I didn’t even care anymore...
+<LINE>
+I just wanted to run as far away as I could, so I went to turn around.
+<END>
+
+#WRITE(PTR, $00001ECA)
+But...
+<END>
+
+#WRITE(PTR, $00002088)
+Yua quickly grabbed my wrist.
+<END>
+
+#WRITE(PTR, $00002098)
+【優愛】
+“Are you running away?”
+<END>
+
+#WRITE(PTR, $000020A8)
+Her voice sent chills down my spine.
+<END>
+
+#WRITE(PTR, $000020B8)
+Her tone was so cold, it felt like my body might freeze over.%NIt didn’t even feel like she was the same person.%NIt wasn’t the Yua I thought I knew.
+<END>
+
+#WRITE(PTR, $000020C8)
+And her grip...
+<END>
+
+#WRITE(PTR, $000020D8)
+【拓巳】
+“Gh...”
+<END>
+
+#WRITE(PTR, $000020F0)
+Her grip was way tighter than I’d have expected. It wasn’t normal.
+<END>
+
+#WRITE(PTR, $00002100)
+Jolts of pain ran through my arm.%NMy bones felt like they were being crushed.
+<END>
+
+#WRITE(PTR, $00002110)
+I tried to shake her off me, but she wouldn’t let go.
+<LINE>
+In fact, she was pulling me *toward* her, practically pinning my arm behind my back.
+<END>
+
+#WRITE(PTR, $000021FE)
+【優愛】
+“Are you running away?”
+<END>
+
+#WRITE(PTR, $0000220E)
+From behind me, right by my ear...%NI heard a whisper that crushed any emotion I had left.
+<END>
+
+#WRITE(PTR, $0000221E)
+With a shiver, I slowly... turned around...
+<END>
+
+#WRITE(PTR, $000022B4)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $000022C4)
+She was staring at me.%NThere was no longer any color left in those eyes of hers.
+<END>
+
+#WRITE(PTR, $000022D4)
+【優愛】
+“I won’t let you run.”
+<END>
+
+#WRITE(PTR, $000022E4)
+【優愛】
+“I’m sorry for lying to you, but it’s not like I was the only one.”
+<END>
+
+#WRITE(PTR, $000022F4)
+【優愛】
+“You have some things you’re hiding too. Don’t you?”
+<END>
+
+#WRITE(PTR, $00002304)
+I’m... hiding things...?
+<END>
+
+#WRITE(PTR, $00002314)
+Only a single thing crossed my mind.
+<LINE>
+Somehow, she knew that I had witnessed that staking murder.%NShe knew that I had seen the perpetrator.
+<END>
+
+#WRITE(PTR, $00002324)
+And that was most likely why she’d tried to get close to me.
+<END>
+
+#WRITE(PTR, $00002334)
+I knew she was good... Too good...
+<LINE>
+%NShe’d had me wrapped around her little finger...%NEverything she’d told me was a lie...!
+<END>
+
+#WRITE(PTR, $00002344)
+Her taking an interest in me from just one glance...
+<END>
+
+#WRITE(PTR, $00002354)
+Her liking Blood Tune...%NHer arranging to go with me to go pick up the Seira Post-Awakening%NVersion figure from the store when it went on sale...
+<END>
+
+#WRITE(PTR, $00002364)
+All her nice little comments as she’d listened to what I had to%Nsay...
+<LINE>
+Her wanting to get to know me better...
+<END>
+
+#WRITE(PTR, $00002374)
+Her being worried about me when I didn’t come to school...
+<LINE>
+Her saying that she respected me...
+<END>
+
+#WRITE(PTR, $00002384)
+Everything... Everything that came from her mouth had been a lie...
+<END>
+
+#WRITE(PTR, $00002394)
+That thought killed me inside. I was overwrought with grief.%NI tightly clenched my fists.
+<END>
+
+#WRITE(PTR, $000023A4)
+Fuck! Fuck! *Fuck!*
+<END>
+
+#WRITE(PTR, $000023B4)
+Why had I believed a single fucking thing she’d said...?!
+<END>
+
+#WRITE(PTR, $000023C4)
+【優愛】
+“To be honest, I’d have liked a little more time to look into%Nthings, but the cat’s out of the bag now, so there’s no point%Npretending.”
+<END>
+
+#WRITE(PTR, $000023D4)
+【優愛】
+“I have something I want to ask you.”
+<END>
+
+#WRITE(PTR, $000023E4)
+【優愛】
+“You’ll listen, right?”
+<END>
+
+#WRITE(PTR, $000023F4)
+【優愛】
+“Surely you’ll listen, won’t you?”
+<END>
+
+#WRITE(PTR, $00002404)
+【優愛】
+“You *need* to listen.”
+<END>
+
+#WRITE(PTR, $00002414)
+【優愛】
+“Listen to me.”
+<END>
+
+#WRITE(PTR, $00002424)
+【優愛】
+“You’re going to listen, right?”
+<END>
+
+#WRITE(PTR, $00002434)
+【優愛】
+“If you won’t listen...”
+<END>
+
+#WRITE(PTR, $00002444)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $00002454)
+What...? What’ll happen if I don’t listen...?
+<END>
+
+#WRITE(PTR, $00002464)
+Yua felt like a completely different person.
+<END>
+
+#WRITE(PTR, $00002474)
+The gentle and carefree atmosphere from before was gone.
+<END>
+
+#WRITE(PTR, $00002484)
+She felt completely unapproachable now.%NThe atmosphere felt bizarre—like one molded from utter obsession.
+<END>
+
+#WRITE(PTR, $00002494)
+Her tone was as composed as could be, though perhaps “cold as ice”%Nwas a better description.
+<LINE>
+Her usual femininity had disappeared without a trace.
+<END>
+
+#WRITE(PTR, $000024A4)
+No... I didn’t wanna listen...
+<LINE>
+I tried to cover my ears.
+<END>
+
+#WRITE(PTR, $000024B4)
+But I couldn’t. Yua was holding on to one of my arms.
+<END>
+
+#WRITE(PTR, $000024C4)
+Her grip was weaker than a second ago, but she still didn’t let go. I couldn’t move my hand.
+<END>
+
+#WRITE(PTR, $000024D4)
+And while we were in that deadlock, she took a dark gray, shiny%Nobject from her bag, and held it out to me.
+<END>
+
+#WRITE(PTR, $00002534)
+【拓巳】
+“...!”
+<END>
+
+#WRITE(PTR, $00002544)
+I was petrified.
+<END>
+
+#WRITE(PTR, $00002554)
+My heart skipped a beat.
+<END>
+
+#WRITE(PTR, $00002564)
+Any composure I had left was gone.
+<LINE>
+I was so shocked, the hand that was going to cover my ear just fell to my side. Before long, Yua’s voice—now sounding almost%Nregretful—reached my ears.
+<END>
+
+#WRITE(PTR, $00002574)
+【優愛】
+“You’ve seen this cross before, haven’t you?”
+<END>
+
+#WRITE(PTR, $00002584)
+Of course, I’d definitely seen it before.
+<END>
+
+#WRITE(PTR, $00002594)
+I wasn’t sure what it was at first, but I quickly realized.
+<END>
+
+#WRITE(PTR, $000025A4)
+It might have looked like a “cross,” but it was, in fact, a stake.
+<LINE>
+And stakes with such a unique shape were not something you’d see%Nevery day.
+<END>
+
+#WRITE(PTR, $000025B4)
+Or at the very least, I had only come across them once.
+<END>
+
+#WRITE(PTR, $00002614)
+*That night, scattered across that alleyway.*
+<END>
+
+#WRITE(PTR, $000026A4)
+*That night, as the demon girl nailed them into the wall.*
+<END>
+
+#WRITE(PTR, $00002720)
+*That night, as a corpse was being nailed onto the wall.*
+<END>
+
+#WRITE(PTR, $0000279A)
+【優愛】
+“So you do know of it. Unsurprising.”
+<END>
+
+#WRITE(PTR, $000027AA)
+【優愛】
+“You know, don’t you?”
+<END>
+
+#WRITE(PTR, $000027BA)
+【優愛】
+“You definitely know.”
+<END>
+
+#WRITE(PTR, $000027CA)
+【優愛】
+“Don’t you *dare* claim you don’t know.”
+<END>
+
+#WRITE(PTR, $000027DA)
+【優愛】
+“It would be very odd if you didn’t know.”
+<END>
+
+#WRITE(PTR, $000027EA)
+【優愛】
+“I know you know.”
+<END>
+
+#WRITE(PTR, $000027FA)
+【優愛】
+“Y o u  k n o w ,  d o n ’ t  y o u ?”
+<END>
+
+#WRITE(PTR, $0000280A)
+I frantically shook my head in denial.
+<LINE>
+A disgusting cold sweat broke out on my brow; all I could do was%Nwipe it away as I kept shaking my head as hard as I could.
+<END>
+
+#WRITE(PTR, $0000281A)
+【優愛】
+“I found this in your room.”
+<END>
+
+#WRITE(PTR, $0000282A)
+【拓巳】
+“...!”
+<END>
+
+#WRITE(PTR, $0000283A)
+【優愛】
+“In your room.”
+<END>
+
+#WRITE(PTR, $0000284A)
+【優愛】
+“Under your bed.”
+<END>
+
+#WRITE(PTR, $0000285A)
+【優愛】
+“Down on the floor.”
+<END>
+
+#WRITE(PTR, $0000286A)
+【優愛】
+“It had fallen down there.”
+<END>
+
+#WRITE(PTR, $0000287A)
+【優愛】
+“You dropped it, didn’t you?”
+<END>
+
+#WRITE(PTR, $0000288A)
+【優愛】
+“Or did you mean to throw it there?”
+<END>
+
+#WRITE(PTR, $0000289A)
+【優愛】
+“Either way that’s where it was.”
+<END>
+
+#WRITE(PTR, $000028AA)
+【優愛】
+“Right on the floor.”
+<END>
+
+#WRITE(PTR, $000028BA)
+Who the hell was this girl...?!
+<END>
+
+#WRITE(PTR, $000028CA)
+When the fuck had she searched my room?!
+<LINE>
+Was it the day we’d first met?!
+<END>
+
+#WRITE(PTR, $000028DA)
+When my leg got injured and she’d come all the way to my room with%Nme?!
+<LINE>
+When she’d seen my Seira figures and her face lit up all cute like a fucking Christmas tree?!
+<END>
+
+#WRITE(PTR, $000028EA)
+【優愛】
+“This stake is very unique; it was manufactured abroad.”
+<END>
+
+#WRITE(PTR, $000028FA)
+【優愛】
+“Moreover... it is the same as the stakes used in the third New Gen incident.”
+<END>
+
+#WRITE(PTR, $0000290A)
+【優愛】
+“The exact same one.”
+<END>
+
+#WRITE(PTR, $0000291A)
+【優愛】
+“It’s the same, right?”
+<END>
+
+#WRITE(PTR, $0000292A)
+【優愛】
+“There’s no way it isn’t the same.”
+<END>
+
+#WRITE(PTR, $0000293A)
+【優愛】
+“It’s exactly the same.”
+<END>
+
+#WRITE(PTR, $0000294A)
+【優愛】
+“The same as the ones used to nail that corpse onto the wall.”
+<END>
+
+#WRITE(PTR, $0000295A)
+【優愛】
+“*The. Same. One.*”
+<END>
+
+#WRITE(PTR, $0000296A)
+I was convinced.
+<END>
+
+#WRITE(PTR, $0000297A)
+This woman thought that I was the culprit behind New Gen.
+<LINE>
+She thought I was some kind of insane, cutthroat murderer.
+<END>
+
+#WRITE(PTR, $0000298A)
+Did she think she was a detective or something?
+<LINE>
+What, did she call herself “Kusunoki Yua, Ace High School Detective” or some shit?
+<END>
+
+#WRITE(PTR, $0000299A)
+Fucking kill yourself. Actually.
+<LINE>
+That shit might have worked in anime or video games...
+<END>
+
+#WRITE(PTR, $000029AA)
+...but this was real life, and little did she know, her reasoning%Nhad a fatal flaw.
+<END>
+
+#WRITE(PTR, $000029BA)
+I knew who the *real* killer was.
+<END>
+
+#WRITE(PTR, $000029CA)
+I’d seen her with my own two eyes.
+<LINE>
+I’d seen that demon myself.
+<END>
+
+#WRITE(PTR, $000029DA)
+Sure, I didn’t know her name.
+<LINE>
+But she’d been wearing the Suimei uniform.
+<LINE>
+Which meant that she was someone I *could* know.
+<END>
+
+#WRITE(PTR, $000029EA)
+【拓巳】
+“S... So what?”
+<END>
+
+#WRITE(PTR, $000029FA)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $00002A0A)
+Yua suddenly hung her head and let out a small sigh.
+<LINE>
+She loosened her grip on my wrist even more, then finally let go.
+<END>
+
+#WRITE(PTR, $00002A52)
+【優愛】
+“...That’s everything. I have nothing more to say. I just wanted to confirm that you actually knew about this stake. To be honest,%NI really wasn’t intending to question you about it yet.”
+<END>
+
+#WRITE(PTR, $00002A62)
+What the fuck had she meant by *yet?!*
+<END>
+
+#WRITE(PTR, $00002AA2)
+【優愛】
+“...Since it’s too late now, could you please confirm one more thing for me?”
+<END>
+
+#WRITE(PTR, $00002ACA)
+【優愛】
+“Do you have 
+<DICT>
+precognitive
+</DICT>
+ powers?”
+<END>
+
+#WRITE(PTR, $00002AE2)
+【拓巳】
+“Excuse me...?”
+<END>
+
+#WRITE(PTR, $00002AF2)
+I couldn’t help but just stand there with my mouth open.
+<END>
+
+#WRITE(PTR, $00002B02)
+Precognitive... powers?
+<LINE>
+What the fuck?
+<LINE>
+What did that have to do with the incidents?
+<END>
+
+#WRITE(PTR, $00002B12)
+I tilted my head to the side, utterly perplexed. As I did, Yua’s%Nhand retreated into her bag once more, before taking out a picture%Nprinted in full color.
+<END>
+
+#WRITE(PTR, $00002B22)
+【優愛】
+“Well, right here is an unaccountable digital picture that can only be explained by precognitive powers. That’s why I had to ask.”
+<END>
+
+#WRITE(PTR, $00002B82)
+The picture was that grotesque one “Shogun” had sent me...!
+<LINE>
+Why did Yua have it?!
+<END>
+
+#WRITE(PTR, $00002B92)
+【拓巳】
+“Th-That’s...”
+<END>
+
+#WRITE(PTR, $00002BA2)
+【優愛】
+“Why do you have an image that depicts the third New Gen case?”
+<END>
+
+#WRITE(PTR, $00002BB2)
+【優愛】
+“And what’s even more curious is how this image leaked the day%Nbefore the incident.”
+<END>
+
+#WRITE(PTR, $00002BC2)
+【優愛】
+“It was in the cache of the PC you always use.”
+<END>
+
+#WRITE(PTR, $00002BE2)
+【拓巳】
+“Y-You don’t understand...!”
+<END>
+
+#WRITE(PTR, $00002BF2)
+I’d gotten that image earlier that day when I chatted with “Shogun”!%NI hadn’t made it myself!
+<END>
+
+#WRITE(PTR, $00002C02)
+I’d downloaded it, so it must’ve still been in my history.%NThat’s it! I’ll just show Yua that!
+<END>
+
+#WRITE(PTR, $00002C12)
+Still though, how had Yua even gotten this image in the first place?
+<END>
+
+#WRITE(PTR, $00002C22)
+She’d said it’d been in my computer’s cache, but how would she have known that?
+<END>
+
+#WRITE(PTR, $00002C32)
+When Yua’d come into my room, she definitely hadn’t had the time to snoop around my PC!
+<END>
+
+#WRITE(PTR, $00002C42)
+【拓巳】
+“Oh god... Are you... ‘Shogun’...?!”
+<END>
+
+#WRITE(PTR, $00002C52)
+Was she trying to frame me?!
+<END>
+
+#WRITE(PTR, $00002C62)
+It was all a set-up by Yua! She was the New Gen killer, and now she was going to use me as a scapegoat in order to throw off the police, wasn’t she?!
+<END>
+
+#WRITE(PTR, $00002C72)
+【拓巳】
+“H-Help me...”
+<END>
+
+#WRITE(PTR, $00002C82)
+It was all too much...
+<END>
+
+#WRITE(PTR, $00002C92)
+Why did it have to be *me* of all people?
+<END>
+
+#WRITE(PTR, $00002CA2)
+Was it because I was a freak?
+<LINE>
+Was it because I had no friends?
+<END>
+
+#WRITE(PTR, $00002CB2)
+【優愛】
+“...”
+<END>
+
+#WRITE(PTR, $00002CC2)
+Yua didn’t say a word; she just shook her head lightly.
+<END>
+
+#WRITE(PTR, $00002CD2)
+【優愛】
+“I got this image from the PC in Room 37 at @café.”
+<END>
+
+#WRITE(PTR, $00002CE2)
+【優愛】
+“I’d have liked to look into your private PC too, but unfortunately, I didn’t get the chance.”
+<END>
+
+#WRITE(PTR, $00002CF2)
+Room 37... That was the one I always used.
+<LINE>
+This bitch really did her research...
+<END>
+
+#WRITE(PTR, $00002D32)
+Yua looked at me with a slightly apologetic look.
+<LINE>
+It almost felt like she’d turned back into the Yua I knew, if only%Nfor a moment.
+<END>
+
+#WRITE(PTR, $00002D42)
+And while that happened, she started fishing around in her bag once more.
+<LINE>
+But this time, she took out a page with text on it, then held it out to me.
+<END>
+
+#WRITE(PTR, $00002D52)
+I had a bad feeling about this.
+<LINE>
+Alarm bells were going off in my head. Telling me not to look.
+<END>
+
+#WRITE(PTR, $00002D62)
+But there was no way I could ignore it.
+<LINE>
+Because if I did, then I’d surely end up being framed.
+<END>
+
+#WRITE(PTR, $00002DA2)
+【優愛】
+“Everything there...”
+<END>
+
+#WRITE(PTR, $00002DB2)
+【優愛】
+“...is you.”
+<END>
+
+#WRITE(PTR, $00002DC2)
+What...? What the hell was that supposed to mean?
+<LINE>
+Did that mean she had all of my personal information too?
+<LINE>
+Was Yua some sort of hacker?
+<END>
+
+#WRITE(PTR, $00002DD2)
+I reached out and grabbed the printout, all while my heart was%Npounding out of my chest.
+<LINE>
+But to my surprise, the page didn’t have my personal%Ninformation—it was just some chat log.
+<END>
+
+#WRITE(PTR, $00002DE2)
+【拓巳】
+“Aah...”
+<END>
+
+#WRITE(PTR, $00002DF2)
+The two members of the chat log were “Neidhardt,” and...
+<END>
+
+#WRITE(PTR, $00002E02)
+“Shogun.”
+<END>
+
+#WRITE(PTR, $00002F64)
+【優愛】
+“That log is quite strange, don’t you think?”
+<END>
+
+#WRITE(PTR, $00002F74)
+【拓巳】
+“Huh...?”
+<END>
+
+#WRITE(PTR, $00003024)
+What was so strange about it?
+<LINE>
+Looked like a perfectly normal chat log to me.%NI definitely remembered having this conversation with “Shogun.”
+<END>
+
+#WRITE(PTR, $00003034)
+【優愛】
+“‘Neidhardt’’s and ‘Shogun’’s timestamps...”
+<END>
+
+#WRITE(PTR, $00003044)
+【優愛】
+“...don’t match up in the slightest.”
+<END>
+
+#WRITE(PTR, $00003054)
+【拓巳】
+“Wha...?!”
+<END>
+
+#WRITE(PTR, $00003074)
+Huh? What the hell?
+<LINE>
+How was this possible?
+<END>
+
+#WRITE(PTR, $00003084)
+【優愛】
+“The ‘Neidhardt’ there is you, Nishijou-kun.%NThose are your messages from 3 AM on September 28th.”
+<END>
+
+#WRITE(PTR, $00003094)
+【優愛】
+“And then the next day, you went to @café.”
+<END>
+
+#WRITE(PTR, $000030A4)
+【優愛】
+“You only ever go to @café after school.”
+<END>
+
+#WRITE(PTR, $000030B4)
+【優愛】
+“And you only go to school two and a half times a week—your fellow%Nclassmates told me so. However, last week, you went to school on...”
+<END>
+
+#WRITE(PTR, $000030C4)
+【優愛】
+“...Monday, Wednesday, and Thursday.”
+<END>
+
+#WRITE(PTR, $000030D4)
+【優愛】
+“Monday last week was... September 29th. The same day ‘Shogun’’s%Nmessages were sent.”
+<END>
+
+#WRITE(PTR, $000030E4)
+【拓巳】
+“...Wha...”
+<END>
+
+#WRITE(PTR, $000030F4)
+What? What was she... talking about...?
+<END>
+
+#WRITE(PTR, $0000311E)
+【優愛】
+“I inspected the chat logs on Room 37’s PC.”
+<END>
+
+#WRITE(PTR, $0000312E)
+【優愛】
+“And that’s when I realized...”
+<END>
+
+#WRITE(PTR, $0000313E)
+For just a moment, Yua hesitated.
+<END>
+
+#WRITE(PTR, $0000314E)
+Then, she stared straight at me... before breaking the cold,%Nunfeeling truth to me.
+<END>
+
+#WRITE(PTR, $0000315E)
+【優愛】
+“...both members of that chat log were you.”
+<END>
+
+#WRITE(PTR, $000031C8)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC *Don’t look at me.* %LE%T030
+<END2>
+
+#WRITE(PTR, $0000321C)
+%O030
+<END2>
+
+#WRITE(PTR, $00003242)
+【優愛】
+“This ‘Shogun’...”
+<END>
+
+#WRITE(PTR, $00003274)
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+%LC *Don’t look at me!* %LE%T030
+<END2>
+
+#WRITE(PTR, $000032D4)
+%O030
+<END2>
+
+#WRITE(PTR, $000032FE)
+【優愛】
+“...is you.”
+<END>
+
+#WRITE(PTR, $00003314)
+DELUS_OUT.PMF
+$00 $90 $90 $19 $01 $00 $00 $00 $00 $00 $00 $03 $00 $00 $00 $00 $00 $00 $00
+<END2>
+

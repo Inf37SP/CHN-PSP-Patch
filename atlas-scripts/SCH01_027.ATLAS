@@ -1,0 +1,68 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($00000206)
+
+#WRITE(PTR, $00000086)
+【拓巳】
+“I don’t want to see anything.”
+<END>
+
+#WRITE(PTR, $00000096)
+【拓巳】
+“I don’t want to hear anything.”
+<END>
+
+#WRITE(PTR, $000000A6)
+【拓巳】
+“Time is not a constant.”
+<END>
+
+#WRITE(PTR, $000000B6)
+【拓巳】
+“There are contradictions in my memories.”
+<END>
+
+#WRITE(PTR, $000000C6)
+【拓巳】
+“There are errors in my point of view.”
+<END>
+
+#WRITE(PTR, $000000D6)
+【拓巳】
+“The earth isn’t spinning.”
+<END>
+
+#WRITE(PTR, $000000E6)
+【拓巳】
+“This is just another game.”
+<END>
+
+#WRITE(PTR, $0000014C)
+I stuffed my mouth with some fish sausage as I turned on my PC.
+<END>
+
+#WRITE(PTR, $0000015C)
+【拓巳】
+“I’m... not me.”
+<END>
+
+#WRITE(PTR, $0000016C)
+Before long, my monitor shone brightly with my Seira-tan wallpaper.
+<END>
+
+#WRITE(PTR, $0000017C)
+【拓巳】
+“This world...”
+<END>
+
+#WRITE(PTR, $0000018C)
+I went straight to ESO and opened it up without an ounce of%Nhesitation.
+<END>
+
+#WRITE(PTR, $0000019C)
+【拓巳】
+“...isn’t the one I belong to.”
+<FILEEND68>
