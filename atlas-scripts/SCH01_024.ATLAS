@@ -1,0 +1,273 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($000008DC)
+
+#WRITE(PTR, $000000E4)
+The shortest path from here to the courtyard is... through the%Nskyway to the third year building, then down the stairs.%N...I think.
+<END>
+
+#WRITE(PTR, $000000F4)
+I didn’t come to school often enough to have a good grasp on the%Nlayout. I didn’t even know where half the clubrooms were.
+<END>
+
+#WRITE(PTR, $00000104)
+So I was a little bit anxious as I walked down the hallway to the%Nnext building.
+<END>
+
+#WRITE(PTR, $00000144)
+As I walked, I noticed a girl standing alone in the middle of the%Nhall, staring up at the sky. Her face looked stiff... so despite her looking out the window, it wasn’t in the wistful kind of way.
+<END>
+
+#WRITE(PTR, $00000154)
+She was obviously in everyone’s way, but she didn’t seem to care in the slightest.
+<END>
+
+#WRITE(PTR, $00000164)
+I know you can hear me walking toward you. Move along, will you?%NI’m in a bit of a hurry here...
+<END>
+
+#WRITE(PTR, $00000174)
+I was getting real DQN vibes from her, and I didn’t want anything to do with it.
+<END>
+
+#WRITE(PTR, $0000018C)
+So I tried to keep my distance and slip by “Girl B” without getting noticed.
+<END>
+
+#WRITE(PTR, $0000019C)
+【セナ２】
+“...You.”
+<END>
+
+#WRITE(PTR, $000001AC)
+【拓巳】
+“...!”
+<END>
+
+#WRITE(PTR, $000001BC)
+Oh shit, was she talking to me?!
+<END>
+
+#WRITE(PTR, $000001CC)
+Fuck, fuck, fuck, was she gonna threaten me and take all my money?%NOr take me to the DQN hangout spot and have me lynched, just because she didn’t like my face? Or worse?!
+<END>
+
+#WRITE(PTR, $000001DC)
+G-G-Give me a fucking break...
+<LINE>
+What had I ever done to deserve this...?
+<END>
+
+#WRITE(PTR, $00000226)
+I looked toward Girl B. She was staring at me.
+<END>
+
+#WRITE(PTR, $00000266)
+【セナ２】
+“Who are you?”
+<END>
+
+#WRITE(PTR, $00000276)
+【拓巳】
+“Huh...?”
+<END>
+
+#WRITE(PTR, $00000286)
+Did she just ask *me* that?
+<END>
+
+#WRITE(PTR, $00000296)
+I’m Nishijou Takumi. ...But this is the first time I’ve ever spoken to her, so obviously she wouldn’t know that.
+<END>
+
+#WRITE(PTR, $000002A6)
+So I was right—whatever she wants from me, it can’t be good...!
+<END>
+
+#WRITE(PTR, $000002B6)
+【拓巳】
+“P-Pardon me...”
+<END>
+
+#WRITE(PTR, $000002C6)
+I quickly bowed to avoid looking Girl B in the face, then ran away%Nas fast as I could.
+<END>
+
+#WRITE(PTR, $000003EA)
+After bolting through the hall, down the stairs, and out the door,%NI shot a look behind me at the third year building. It seemed like%Nthe scary girl hadn’t come after me.
+<END>
+
+#WRITE(PTR, $000003FA)
+I was safe... To be completely honest, I was getting tired of all%Nthis bullshit. Wherever I went in the third dimension, I was always running into another goddamn trap.
+<END>
+
+#WRITE(PTR, $0000040A)
+I took a second to catch my breath, and then looked for the%Ncourtyard.
+<END>
+
+#WRITE(PTR, $0000041A)
+The courtyard was between the school building and the pool.%NIt was so narrow, it was more like a path than an actual garden.
+<END>
+
+#WRITE(PTR, $0000042A)
+There were a few evenly spaced flowerbeds spread across the%Ncourtyard. The violet-colored flowers were especially eye-catching. “What kind of flowers are those?” I wondered, but I really didn’t%Nhave a clue.
+<END>
+
+#WRITE(PTR, $0000046A)
+And standing in front of the flowerbeds... was none other than Yua. She stood still, gazing at the flowers listlessly.
+<END>
+
+#WRITE(PTR, $0000047A)
+Just like she’d promised...
+<LINE>
+She’d really waited for me here...
+<END>
+
+#WRITE(PTR, $0000048A)
+She’d waited for *me*... and me alone...
+<END>
+
+#WRITE(PTR, $0000049A)
+Yua hadn’t betrayed me.
+<LINE>
+...Maybe I could trust her.
+<LINE>
+Maybe she really was the savior I’d been looking for.
+<END>
+
+#WRITE(PTR, $000004DA)
+【優愛】
+“Oh...”
+<END>
+
+#WRITE(PTR, $000004EA)
+Yua looked up and noticed me standing there.
+<END>
+
+#WRITE(PTR, $000004FA)
+And a moment later, her eyes widened.
+<END>
+
+#WRITE(PTR, $0000050A)
+I got shy and looked away, frozen in place.%NShould I walk toward her?%NI didn’t know.
+<END>
+
+#WRITE(PTR, $0000051A)
+Why was she so surprised?
+<END>
+
+#WRITE(PTR, $0000052A)
+Maybe I shouldn’t have come...
+<END>
+
+#WRITE(PTR, $0000053A)
+But as I was lost in thought, Yua ran over to me.
+<END>
+
+#WRITE(PTR, $0000057A)
+【優愛】
+“I-I can’t believe it...”
+<END>
+
+#WRITE(PTR, $0000058A)
+【拓巳】
+“What...?”
+<END>
+
+#WRITE(PTR, $0000059A)
+【優愛】
+“You actually came, Nishijou-kun...”
+<END>
+
+#WRITE(PTR, $000005AA)
+【優愛】
+“I was so close to giving up, thinking you weren’t going to come...”
+<END>
+
+#WRITE(PTR, $000005EA)
+【優愛】
+“But... I’m so glad I waited...”
+<END>
+
+#WRITE(PTR, $000005FA)
+I was taken aback. Yua was thinking the same way as me... we both%Nhad the same pessimistic mindset.
+<END>
+
+#WRITE(PTR, $0000060A)
+But there was one clear place that we differed.
+<END>
+
+#WRITE(PTR, $0000061A)
+Whenever I had negative thoughts, I’d freeze up and do nothing.
+<LINE>
+But whenever Yua had negative thoughts, she’d take action anyway.
+<END>
+
+#WRITE(PTR, $0000062A)
+I seriously respected her initiative.
+<LINE>
+I wanted to be like that too.
+<END>
+
+#WRITE(PTR, $0000066A)
+【優愛】
+“So, umm, are we... g-going to walk back... together...?”
+<END>
+
+#WRITE(PTR, $0000067A)
+She timidly asked me, and I nodded in response.
+<END>
+
+#WRITE(PTR, $00000766)
+Walking side by side, the two of us passed through the school gate.
+<END>
+
+#WRITE(PTR, $00000776)
+It was a little embarrassing. It felt like other students were%Nstaring daggers at me, green with envy.
+<END>
+
+#WRITE(PTR, $00000786)
+And the more aware of that I became, the more anxious I got.
+<LINE>
+I guess I was right... I really can’t walk home alone with a girl...
+<END>
+
+#WRITE(PTR, $000007C6)
+【拓巳】
+“Hm?”
+<END>
+
+#WRITE(PTR, $000007DE)
+We crossed paths with a teacher I’d never seen before. Or at least%NI *assumed* he was a teacher, since he was wearing a suit instead of a school uniform.
+<END>
+
+#WRITE(PTR, $000007EE)
+But... wasn’t he a little young to be a teacher?
+<END>
+
+#WRITE(PTR, $000007FE)
+Well, I hardly ever came to school, so it only made sense that%NI wouldn’t know what half the teachers looked like.
+<LINE>
+Hell, sometimes I even forgot what my *homeroom* teacher looked%Nlike.
+<END>
+
+#WRITE(PTR, $0000080E)
+The teacher in the suit was looking around restlessly as he headed%Nfor the school building.
+<END>
+
+#WRITE(PTR, $0000084E)
+【優愛】
+“Is there something wrong?”
+<END>
+
+#WRITE(PTR, $0000085E)
+【拓巳】
+“Oh, uh...”
+<END>
+
+#WRITE(PTR, $0000086E)
+Not knowing how to react, I quickly shook my head, returned to Yua’s side, and went back to walking with her.
+<FILEEND12>

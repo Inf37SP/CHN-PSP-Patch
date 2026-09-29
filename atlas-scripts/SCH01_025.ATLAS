@@ -1,0 +1,217 @@
+#VAR(Table, TABLE)
+#ADDTBL("../encoding.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 0, 16)
+#JMP($000026AA)
+
+#WRITE(PTR, $00001E66)
+We’d said we’d walk home together, but my base was only ten minutes from school.%NMeanwhile, Yua needed to go all the way to Shinsen Station, so%NI needed to accompany her before I could go home.
+<END>
+
+#WRITE(PTR, $00001E76)
+But by force of habit, I led Yua into Shoto Park.
+<LINE>
+The park was something of a shortcut on my route to school, saving%Nme about a minute each way.
+<END>
+
+#WRITE(PTR, $00001EB6)
+【優愛】
+“So, Nishijou-kun, you eat your breakfast here in the morning,%Nright?”
+<END>
+
+#WRITE(PTR, $00001EC6)
+【拓巳】
+“Um... Yeah...”
+<END>
+
+#WRITE(PTR, $00001ED6)
+How did she know that?
+<END>
+
+#WRITE(PTR, $00001EE6)
+【優愛】
+“Aha, I knew it! I’ve seen you eat here quite often, but I noticed%Nyou weren’t here every day.”
+<END>
+
+#WRITE(PTR, $00001EF6)
+【優愛】
+“But it looks like I’ve finally solved that mystery!
+<LINE>
+It’s just because you don’t go to school every day, right?”
+<END>
+
+#WRITE(PTR, $00001F06)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $00001F16)
+【優愛】
+“Oh, um, well, I’m not saying there’s anything wrong with that.%NJust that I was curious...”
+<END>
+
+#WRITE(PTR, $00001F26)
+【拓巳】
+“R-Right...”
+<END>
+
+#WRITE(PTR, $00001F36)
+Yua suddenly stopped, turning toward the bench I always ate%Nbreakfast on.
+<LINE>
+Nobody was sitting there at the moment.
+<END>
+
+#WRITE(PTR, $00001F76)
+【優愛】
+“You know, whenever I looked at you from behind while you sat here, you always looked... um... You always looked really sad...”
+<END>
+
+#WRITE(PTR, $00001F86)
+Yua bent forward slightly, gently stroking the back of the bench.
+<END>
+
+#WRITE(PTR, $00001F96)
+【優愛】
+“And the more I looked at you, the more I wanted to talk to you...”
+<END>
+
+#WRITE(PTR, $00001FA6)
+The bench was right in front of the fence by the pond.
+<LINE>
+Whenever you sat on it, you could just stare out at the pond without needing to worry about whether others might be looking at you.
+<END>
+
+#WRITE(PTR, $00001FB6)
+It was right by the water mill too, making it even more%Ninconspicuous. That was another huge plus.
+<END>
+
+#WRITE(PTR, $00001FC6)
+【優愛】
+“Whenever I didn’t see you here,%NI got so worried that I had trouble eating...”
+<END>
+
+#WRITE(PTR, $00001FD6)
+R-Really?
+<LINE>
+I’d never noticed her looking at me when I was here.
+<END>
+
+#WRITE(PTR, $00002016)
+【優愛】
+“It’s a bit silly, isn’t it? Worrying about someone you’ve never%Neven spoken to...”
+<END>
+
+#WRITE(PTR, $00002026)
+【優愛】
+“But I just couldn’t find the courage to talk to you...”
+<END>
+
+#WRITE(PTR, $00002036)
+So her initial stalking was an extension of that...
+<LINE>
+Or maybe not “stalking,” per se—maybe she’d just been looking out%Nfor me.
+<END>
+
+#WRITE(PTR, $00002076)
+【優愛】
+“Do you mind if we sit down here for a little?”
+<END>
+
+#WRITE(PTR, $00002086)
+【優愛】
+“I want to see... um... the scenery you were always looking at,%NNishijou-kun...”
+<END>
+
+#WRITE(PTR, $00002096)
+I didn’t really have much of a reason to refuse.
+<LINE>
+I nodded my head, still facing out toward the lake.
+<END>
+
+#WRITE(PTR, $0000217A)
+Yua placed her bag on top of the bench and quietly took a seat.
+<LINE>
+She then straightened her posture and gazed out at the lake.
+<END>
+
+#WRITE(PTR, $0000218A)
+It was so incredibly quiet...
+<LINE>
+So incredibly serene...
+<LINE>
+And Yua was sitting right by my side.
+<END>
+
+#WRITE(PTR, $0000219A)
+A gentle breeze drew ripples on the water, and it softly swayed%NYua’s hair.
+<END>
+
+#WRITE(PTR, $000021AA)
+Was this what it felt like to be a normie?
+<END>
+
+#WRITE(PTR, $000021BA)
+This situation was so ordinary, so casual... so why did I feel like I was about to cry?
+<END>
+
+#WRITE(PTR, $000021CA)
+【優愛】
+“Enjoying a nice breakfast here sounds amazing...”
+<END>
+
+#WRITE(PTR, $000021DA)
+I looked at the side of Yua’s face as she whispered that.
+<END>
+
+#WRITE(PTR, $000021EA)
+If life were an eroge, this is where she’d confess her love.%NThen we’d lean in, kiss, and the Good End credits would roll.%NAnd who knows, if the situation called for it, maybe we’d get%Nstraight into some *exhibitionism*... JK, fuhihi.
+<END>
+
+#WRITE(PTR, $000021FA)
+【優愛】
+“Maybe I’ll give it a try sometime soon...”
+<END>
+
+#WRITE(PTR, $0000220A)
+Yua turned and looked up at me.
+<LINE>
+Unable to find the words to say, I looked down at Yua’s bag.
+<END>
+
+#WRITE(PTR, $00002296)
+Cursing my inability to maintain eye contact with a girl, I stared%Ninstead at the three Gero Froggy straps hanging from her bag.
+<END>
+
+#WRITE(PTR, $000022A6)
+【拓巳】
+“...”
+<END>
+
+#WRITE(PTR, $000024AA)
+Hold on...
+<END>
+
+#WRITE(PTR, $000024BA)
+Wait a minute...
+<END>
+
+#WRITE(PTR, $000024CA)
+Something about this scene... was really nagging at me...
+<END>
+
+#WRITE(PTR, $000024DA)
+And that thing was...
+<END>
+
+#WRITE(PTR, $000024EA)
+...the Gero Froggies.
+<LINE>
+Characters that were popular with high school girls.
+<END>
+
+#WRITE(PTR, $000024FA)
+But I’d seen those exact ones before, hadn’t I?
+<LINE>
+Where, though...?
+<FILEEND26>
