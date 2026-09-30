@@ -22,7 +22,7 @@ Oh, th-that’s right...
 <END>
 
 #WRITE(PTR, $00000E76)
-Nanami had one attached to her cell phone. *That’s* what I was%Nthinking of.
+Nanami had one attached to her cell phone.%N*That’s* what I was thinking of.
 <END>
 
 #WRITE(PTR, $00000E86)
@@ -127,7 +127,7 @@ And now that I’d mentioned them, Yua was freaking out.
 <END>
 
 #WRITE(PTR, $000010B4)
-Suspicion slowly crept through my head until it completely took over my mind.
+Suspicion slowly crept through my head until it completely took%Nover my mind.
 <LINE>
 I wanted to trust Yua, but I didn’t know if I should...
 <END>
@@ -235,7 +235,7 @@ You can’t be serious... Was it really her?%NBack then... in that room...
 <END>
 
 #WRITE(PTR, $0000136E)
-I looked at Yua, who was still sitting on the bench.%NHer eyes stared at me from behind her glasses, and her gaze collided with mine. It was the first time we’d properly made eye contact%Nsince we’d met.
+I looked at Yua, who was still sitting on the bench.%NHer eyes stared at me from behind her glasses, and her gaze%Ncollided with mine. It was the first time we’d properly made eye%Ncontact since we’d met.
 <END>
 
 #WRITE(PTR, $0000137E)
@@ -272,7 +272,7 @@ All sorts of thoughts flashed through my mind.
 <END>
 
 #WRITE(PTR, $00001440)
-I didn’t really understand why, but Gero Froggies *were* popular, so having a few of them dangling from your bag wasn’t anything unusual.
+I didn’t really understand why, but Gero Froggies *were* popular,%Nso having a few of them dangling from your bag wasn’t anything%Nunusual.
 <END>
 
 #WRITE(PTR, $00001450)
@@ -539,7 +539,7 @@ Anything...
 <END>
 
 #WRITE(PTR, $00001BA4)
-Even still, she said nothing. Which meant... she must have realized that she’d been caught red-handed.
+Even still, she said nothing. Which meant... she must have%Nrealized that she’d been caught red-handed.
 <END>
 
 #WRITE(PTR, $00001BB4)
@@ -584,7 +584,7 @@ I’d almost forgotten all about that incident, yet here we go%Nagain...
 <END>
 
 #WRITE(PTR, $00001DBC)
-The police had never questioned me, so I’d thought that maybe, just maybe, I could go on pretending it had nothing to do with me.%NAll I wanted was to get away from those stupid murders... so why...?
+The police had never questioned me, so I’d thought that maybe,%Njust maybe, I could go on pretending it had nothing to do with me.%NAll I wanted was to get away from those stupid murders...%Nso why...?
 <END>
 
 #WRITE(PTR, $00001DCC)
@@ -592,7 +592,7 @@ What the hell was Yua *really* after here?
 <LINE>
 No, I didn’t even care anymore...
 <LINE>
-I just wanted to run as far away as I could, so I went to turn around.
+I just wanted to run as far away as I could, so I went to turn%Naround.
 <END>
 
 #WRITE(PTR, $00001ECA)
@@ -636,7 +636,7 @@ Jolts of pain ran through my arm.%NMy bones felt like they were being crushed.
 #WRITE(PTR, $00002110)
 I tried to shake her off me, but she wouldn’t let go.
 <LINE>
-In fact, she was pulling me *toward* her, practically pinning my arm behind my back.
+In fact, she was pulling me *toward* her, practically pinning my%Narm behind my back.
 <END>
 
 #WRITE(PTR, $000021FE)
@@ -693,7 +693,7 @@ And that was most likely why she’d tried to get close to me.
 #WRITE(PTR, $00002334)
 I knew she was good... Too good...
 <LINE>
-%NShe’d had me wrapped around her little finger...%NEverything she’d told me was a lie...!
+She’d had me wrapped around her little finger...%NEverything she’d told me was a lie...!
 <END>
 
 #WRITE(PTR, $00002344)
@@ -717,7 +717,7 @@ Her saying that she respected me...
 <END>
 
 #WRITE(PTR, $00002384)
-Everything... Everything that came from her mouth had been a lie...
+Everything...%NEverything that came from her mouth had been a lie...
 <END>
 
 #WRITE(PTR, $00002394)
@@ -1031,7 +1031,7 @@ She thought I was some kind of insane, cutthroat murderer.
 #WRITE(PTR, $0000298A)
 Did she think she was a detective or something?
 <LINE>
-What, did she call herself “Kusunoki Yua, Ace High School Detective” or some shit?
+What, did she call herself “Kusunoki Yua, Ace High School%NDetective” or some shit?
 <END>
 
 #WRITE(PTR, $0000299A)
@@ -1089,7 +1089,7 @@ What the fuck had she meant by *yet?!*
 
 #WRITE(PTR, $00002AA2)
 【優愛】
-“...Since it’s too late now, could you please confirm one more thing for me?”
+“...Since it’s too late now, could you please confirm one more%Nthing for me?”
 <END>
 
 #WRITE(PTR, $00002ACA)
@@ -1124,7 +1124,7 @@ I tilted my head to the side, utterly perplexed. As I did, Yua’s%Nhand retreat
 
 #WRITE(PTR, $00002B22)
 【優愛】
-“Well, right here is an unaccountable digital picture that can only be explained by precognitive powers. That’s why I had to ask.”
+“Well, right here is an unaccountable digital picture that can%Nonly be explained by precognitive powers. That’s why I had to ask.”
 <END>
 
 #WRITE(PTR, $00002B82)
@@ -1159,7 +1159,7 @@ Why did Yua have it?!
 <END>
 
 #WRITE(PTR, $00002BF2)
-I’d gotten that image earlier that day when I chatted with “Shogun”!%NI hadn’t made it myself!
+I’d gotten that image earlier that day when I chatted with%N“Shogun”!%NI hadn’t made it myself!
 <END>
 
 #WRITE(PTR, $00002C02)
@@ -1167,11 +1167,11 @@ I’d downloaded it, so it must’ve still been in my history.%NThat’s it! I�
 <END>
 
 #WRITE(PTR, $00002C12)
-Still though, how had Yua even gotten this image in the first place?
+Still though, how had Yua even gotten this image in the first%Nplace?
 <END>
 
 #WRITE(PTR, $00002C22)
-She’d said it’d been in my computer’s cache, but how would she have known that?
+She’d said it’d been in my computer’s cache, but how would she have%Nknown that?
 <END>
 
 #WRITE(PTR, $00002C32)
@@ -1226,7 +1226,7 @@ Yua didn’t say a word; she just shook her head lightly.
 
 #WRITE(PTR, $00002CE2)
 【優愛】
-“I’d have liked to look into your private PC too, but unfortunately, I didn’t get the chance.”
+“I’d have liked to look into your private PC too,%Nbut unfortunately, I didn’t get the chance.”
 <END>
 
 #WRITE(PTR, $00002CF2)

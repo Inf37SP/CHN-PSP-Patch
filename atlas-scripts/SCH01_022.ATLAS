@@ -61,11 +61,11 @@ She shook her head repeatedly from side to side, as if to express a fierce, visc
 <END>
 
 #WRITE(PTR, $00000E50)
-And as she did, her strength slowly started to crumble, and she%Ncollapsed to the ground. She fell on her backside with a thud, let%Nher jaw droop as if utterly exhausted, and looked up to the sky with a dazed expression on her face.
+And as she did, her strength slowly started to crumble, and she%Ncollapsed to the ground. She fell on her backside with a thud, let%Nher jaw droop as if utterly exhausted, and looked up to the sky%Nwith a dazed expression on her face.
 <END>
 
 #WRITE(PTR, $00000E60)
-Minutes later, she was still in that exact same position, not having moved a single muscle.
+Minutes later, she was still in that exact same position, not%Nhaving moved a single muscle.
 <END>
 
 #WRITE(PTR, $00000E70)
@@ -79,7 +79,7 @@ The wooden house had been built over 50 years ago, so despite it%Nbeing daytime,
 <END>
 
 #WRITE(PTR, $00000EE2)
-Kozue slowly stood back up and walked over to the porch. And at that very moment, her mother appeared with impeccable timing.
+Kozue slowly stood back up and walked over to the porch. And at%Nthat very moment, her mother appeared with impeccable timing.
 <END>
 
 #WRITE(PTR, $00000EF2)
@@ -116,7 +116,7 @@ Her mother took a seat next to her, gazing toward the Inland Sea%Nwith a gentle 
 <END>
 
 #WRITE(PTR, $00000F62)
-Despite her mother’s caring words, Kozue did not nod, nor even shake her head in response.
+Despite her mother’s caring words, Kozue did not nod, nor even%Nshake her head in response.
 <END>
 
 #WRITE(PTR, $00000F72)

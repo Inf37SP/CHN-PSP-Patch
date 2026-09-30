@@ -79,7 +79,7 @@ Yua bent forward slightly, gently stroking the back of the bench.
 #WRITE(PTR, $00001FA6)
 The bench was right in front of the fence by the pond.
 <LINE>
-Whenever you sat on it, you could just stare out at the pond without needing to worry about whether others might be looking at you.
+Whenever you sat on it, you could just stare out at the pond%Nwithout needing to worry about whether others might be looking at%Nyou.
 <END>
 
 #WRITE(PTR, $00001FB6)
@@ -99,7 +99,7 @@ I’d never noticed her looking at me when I was here.
 
 #WRITE(PTR, $00002016)
 【優愛】
-“It’s a bit silly, isn’t it? Worrying about someone you’ve never%Neven spoken to...”
+“It’s a bit silly, isn’t it?%NWorrying about someone you’ve never even spoken to...”
 <END>
 
 #WRITE(PTR, $00002026)

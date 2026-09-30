@@ -18,7 +18,7 @@ So I was a little bit anxious as I walked down the hallway to the%Nnext building
 <END>
 
 #WRITE(PTR, $00000144)
-As I walked, I noticed a girl standing alone in the middle of the%Nhall, staring up at the sky. Her face looked stiff... so despite her looking out the window, it wasn’t in the wistful kind of way.
+As I walked, I noticed a girl standing alone in the middle of the%Nhall, staring up at the sky. Her face looked stiff... so despite%Nher looking out the window, it wasn’t in the wistful kind of way.
 <END>
 
 #WRITE(PTR, $00000154)
@@ -52,7 +52,7 @@ Oh shit, was she talking to me?!
 <END>
 
 #WRITE(PTR, $000001CC)
-Fuck, fuck, fuck, was she gonna threaten me and take all my money?%NOr take me to the DQN hangout spot and have me lynched, just because she didn’t like my face? Or worse?!
+Fuck, fuck, fuck, was she gonna threaten me and take all my money?%NOr take me to the DQN hangout spot and have me lynched, just%Nbecause she didn’t like my face? Or worse?!
 <END>
 
 #WRITE(PTR, $000001DC)
@@ -113,7 +113,7 @@ The courtyard was between the school building and the pool.%NIt was so narrow, i
 <END>
 
 #WRITE(PTR, $0000042A)
-There were a few evenly spaced flowerbeds spread across the%Ncourtyard. The violet-colored flowers were especially eye-catching. “What kind of flowers are those?” I wondered, but I really didn’t%Nhave a clue.
+There were a few evenly spaced flowerbeds spread across the%Ncourtyard. The violet-colored flowers were especially%Neye-catching. “What kind of flowers are those?” I wondered, but%NI really didn’t have a clue.
 <END>
 
 #WRITE(PTR, $0000046A)
@@ -241,7 +241,7 @@ I guess I was right... I really can’t walk home alone with a girl...
 <END>
 
 #WRITE(PTR, $000007DE)
-We crossed paths with a teacher I’d never seen before. Or at least%NI *assumed* he was a teacher, since he was wearing a suit instead of a school uniform.
+We crossed paths with a teacher I’d never seen before. Or at least%NI *assumed* he was a teacher, since he was wearing a suit instead%Nof a school uniform.
 <END>
 
 #WRITE(PTR, $000007EE)

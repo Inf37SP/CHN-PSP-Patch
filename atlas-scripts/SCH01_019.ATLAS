@@ -21,7 +21,7 @@
 <END>
 
 #WRITE(PTR, $00000C7E)
-The math teacher—wait, what was his name again...?%NWell, whatever—the teacher left the classroom, and that was the end of classes for the day.
+The math teacher—wait, what was his name again...?%NWell, whatever—the teacher left the classroom, and that was the%Nend of classes for the day.
 <END>
 
 #WRITE(PTR, $00000C8E)
@@ -75,7 +75,7 @@ Wait, did I really have to just sit around waiting?%NI mean, I *could* just blow
 <END>
 
 #WRITE(PTR, $00000D5E)
-All right, it’s settled—time to head home. We were in different%Ngrades anyway, so if I just canceled our date at the last minute, I’d never have to see her again for the rest of my life.
+All right, it’s settled—time to head home. We were in different%Ngrades anyway, so if I just canceled our date at the last minute,%NI’d never have to see her again for the rest of my life.
 <END>
 
 #WRITE(PTR, $00000D6E)
@@ -126,7 +126,7 @@ How the hell did he know...?!
 
 #WRITE(PTR, $00000F42)
 【拓巳】
-“No way, was I right on the money?”
+“How...?”
 <END>
 
 #WRITE(PTR, $00000F52)
@@ -225,7 +225,7 @@ How many times have I told you, Misumi-kun? I’m not into 3D.
 
 #WRITE(PTR, $000012A2)
 【三住】
-“*Then who is she?* And I’m not buying any bullshit, like ‘she’s my sister’ or something.”
+“*Then who is she?* And I’m not buying any bullshit, like%N‘she’s my sister’ or something.”
 <END>
 
 #WRITE(PTR, $000012B2)
@@ -253,7 +253,7 @@ And then, he finally let me go.
 
 #WRITE(PTR, $00001352)
 【三住】
-“I see, I see... Well, different strokes for different folks, huh.%NGotta be someone out there that’s into whatever you’ve got. But I’ll tell you what, Taku: I’m kinda relieved you’ve got at least a *half*-normal sex life.”
+“I see, I see... Well, different strokes for different folks, huh.%NGotta be someone out there that’s into whatever you’ve got. But I’ll tell you what, Taku: I’m kinda relieved you’ve got at least a%N*half*-normal sex life.”
 <END>
 
 #WRITE(PTR, $00001362)
@@ -355,7 +355,7 @@ I never would’ve thought I’d get to experience something like%Nthis...
 <END>
 
 #WRITE(PTR, $00001744)
-But now I was feeling the intense pressure of Yua’s silence.%NWe were just walking side-by-side—not even talking—so why was this%Nso stressful...?
+But now I was feeling the intense pressure of Yua’s silence.%NWe were just walking side-by-side—not even talking—so why was%Nthis so stressful...?
 <END>
 
 #WRITE(PTR, $00001754)

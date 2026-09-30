@@ -50,7 +50,7 @@ I stuffed my mouth with some fish sausage as I turned on my PC.
 <END>
 
 #WRITE(PTR, $0000016C)
-Before long, my monitor shone brightly with my Seira-tan wallpaper.
+Before long, my monitor shone brightly with my Seira-tan%Nwallpaper.
 <END>
 
 #WRITE(PTR, $0000017C)

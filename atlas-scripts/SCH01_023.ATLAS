@@ -220,7 +220,7 @@ But before I could get very far, Yua had already caught up with me.
 <END>
 
 #WRITE(PTR, $0000048C)
-Did that break the spell? You’re totally disillusioned now that you know the truth, right?
+Did that break the spell?%NYou’re totally disillusioned now that you know the truth, right?
 <END>
 
 #WRITE(PTR, $0000049C)
@@ -228,7 +228,7 @@ If so, I don’t mind. I never got my hopes up anyway.
 <END>
 
 #WRITE(PTR, $000004AC)
-Go ahead and call me an otaku freak. And then after that, never talk to me again.
+Go ahead and call me an otaku freak.%NAnd then after that, never talk to me again.
 <END>
 
 #WRITE(PTR, $000004EC)
@@ -255,7 +255,7 @@ How was she not disgusted by me...?
 
 #WRITE(PTR, $0000056C)
 【優愛】
-“And if you ask me, even if you don’t always show up, I don’t think that makes you a shut-in...”
+“And if you ask me, even if you don’t always show up, I don’t think%Nthat makes you a shut-in...”
 <END>
 
 #WRITE(PTR, $0000057C)
@@ -284,7 +284,7 @@ How was she not disgusted by me...?
 <END>
 
 #WRITE(PTR, $000005FC)
-I never thought I’d ever hear someone say that to me. What the hell was respectable about a total loser like me?
+I never thought I’d ever hear someone say that to me.%NWhat the hell was respectable about a total loser like me?
 <END>
 
 #WRITE(PTR, $0000060C)
@@ -407,11 +407,11 @@ I couldn’t focus on my classes all day after that.
 #WRITE(PTR, $000008DA)
 Or rather, I didn’t bother *trying* to focus.
 <LINE>
-I just rested my head on my hand, staring sluggishly into the autumn sky outside the window.
+I just rested my head on my hand, staring sluggishly into the%Nautumn sky outside the window.
 <END>
 
 #WRITE(PTR, $000008EA)
-My teachers... My classmates... None of them ever paid any attention to me.
+My teachers... My classmates...%NNone of them ever paid any attention to me.
 <END>
 
 #WRITE(PTR, $000008FA)

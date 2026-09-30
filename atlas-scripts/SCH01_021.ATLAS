@@ -118,7 +118,7 @@ Yua’s usual elegance and purity shone through the e-mail. And by%Nusing a lot 
 <END>
 
 #WRITE(PTR, $000010B4)
-But... when she said things like, “Maybe it was because Nishijou-kun was with me,” or, “I was hoping I’d be able to say hello tomorrow%Nmorning”...
+But... when she said things like, “Maybe it was because%NNishijou-kun was with me,” or, “I was hoping I’d be able to say%Nhello tomorrow morning”...
 <END>
 
 #WRITE(PTR, $000010C4)
